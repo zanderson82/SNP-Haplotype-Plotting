@@ -1,0 +1,3212 @@
+Sample name	Superpop. code	Suffix	Sex	Superpop.	Subpop.	Subpop. Code
+GM19625	AFR	19625	female	African Ancestry	African Ancestry SW	ASW
+GM19700	AFR	19700	male	African Ancestry	African Ancestry SW	ASW
+GM19701	AFR	19701	female	African Ancestry	African Ancestry SW	ASW
+GM19702	AFR	19702	male	African Ancestry	African Ancestry SW	ASW
+GM19703	AFR	19703	male	African Ancestry	African Ancestry SW	ASW
+GM19704	AFR	19704	female	African Ancestry	African Ancestry SW	ASW
+GM19705	AFR	19705	male	African Ancestry	African Ancestry SW	ASW
+GM19707	AFR	19707	female	African Ancestry	African Ancestry SW	ASW
+GM19711	AFR	19711	male	African Ancestry	African Ancestry SW	ASW
+GM19712	AFR	19712	female	African Ancestry	African Ancestry SW	ASW
+GM19713	AFR	19713	female	African Ancestry	African Ancestry SW	ASW
+GM19818	AFR	19818	male	African Ancestry	African Ancestry SW	ASW
+GM19819	AFR	19819	female	African Ancestry	African Ancestry SW	ASW
+GM19828	AFR	19828	male	African Ancestry	African Ancestry SW	ASW
+GM19834	AFR	19834	male	African Ancestry	African Ancestry SW	ASW
+GM19835	AFR	19835	female	African Ancestry	African Ancestry SW	ASW
+GM19836	AFR	19836	female	African Ancestry	African Ancestry SW	ASW
+GM19900	AFR	19900	male	African Ancestry	African Ancestry SW	ASW
+GM19901	AFR	19901	female	African Ancestry	African Ancestry SW	ASW
+GM19902	AFR	19902	female	African Ancestry	African Ancestry SW	ASW
+GM19904	AFR	19904	male	African Ancestry	African Ancestry SW	ASW
+GM19908	AFR	19908	male	African Ancestry	African Ancestry SW	ASW
+GM19909	AFR	19909	female	African Ancestry	African Ancestry SW	ASW
+GM19913	AFR	19913	female	African Ancestry	African Ancestry SW	ASW
+GM19914	AFR	19914	female	African Ancestry	African Ancestry SW	ASW
+GM19916	AFR	19916	male	African Ancestry	African Ancestry SW	ASW
+GM19917	AFR	19917	female	African Ancestry	African Ancestry SW	ASW
+GM19918	AFR	19918	male	African Ancestry	African Ancestry SW	ASW
+GM19919	AFR	19919	male	African Ancestry	African Ancestry SW	ASW
+GM19920	AFR	19920	male	African Ancestry	African Ancestry SW	ASW
+GM19921	AFR	19921	female	African Ancestry	African Ancestry SW	ASW
+GM19922	AFR	19922	male	African Ancestry	African Ancestry SW	ASW
+GM19923	AFR	19923	female	African Ancestry	African Ancestry SW	ASW
+GM19924	AFR	19924	female	African Ancestry	African Ancestry SW	ASW
+GM19982	AFR	19982	male	African Ancestry	African Ancestry SW	ASW
+GM19983	AFR	19983	female	African Ancestry	African Ancestry SW	ASW
+GM19984	AFR	19984	male	African Ancestry	African Ancestry SW	ASW
+GM20126	AFR	20126	male	African Ancestry	African Ancestry SW	ASW
+GM20127	AFR	20127	female	African Ancestry	African Ancestry SW	ASW
+GM20128	AFR	20128	female	African Ancestry	African Ancestry SW	ASW
+GM20129	AFR	20129	female	African Ancestry	African Ancestry SW	ASW
+GM20274	AFR	20274	female	African Ancestry	African Ancestry SW	ASW
+GM20276	AFR	20276	female	African Ancestry	African Ancestry SW	ASW
+GM20278	AFR	20278	male	African Ancestry	African Ancestry SW	ASW
+GM20279	AFR	20279	male	African Ancestry	African Ancestry SW	ASW
+GM20281	AFR	20281	male	African Ancestry	African Ancestry SW	ASW
+GM20282	AFR	20282	female	African Ancestry	African Ancestry SW	ASW
+GM20287	AFR	20287	female	African Ancestry	African Ancestry SW	ASW
+GM20289	AFR	20289	female	African Ancestry	African Ancestry SW	ASW
+GM20291	AFR	20291	male	African Ancestry	African Ancestry SW	ASW
+GM20294	AFR	20294	female	African Ancestry	African Ancestry SW	ASW
+GM20296	AFR	20296	female	African Ancestry	African Ancestry SW	ASW
+GM20298	AFR	20298	male	African Ancestry	African Ancestry SW	ASW
+GM20299	AFR	20299	female	African Ancestry	African Ancestry SW	ASW
+GM20314	AFR	20314	female	African Ancestry	African Ancestry SW	ASW
+GM20317	AFR	20317	female	African Ancestry	African Ancestry SW	ASW
+GM20318	AFR	20318	male	African Ancestry	African Ancestry SW	ASW
+GM20320	AFR	20320	female	African Ancestry	African Ancestry SW	ASW
+GM20321	AFR	20321	female	African Ancestry	African Ancestry SW	ASW
+GM20332	AFR	20332	female	African Ancestry	African Ancestry SW	ASW
+GM20334	AFR	20334	female	African Ancestry	African Ancestry SW	ASW
+GM20339	AFR	20339	female	African Ancestry	African Ancestry SW	ASW
+GM20340	AFR	20340	male	African Ancestry	African Ancestry SW	ASW
+GM20342	AFR	20342	male	African Ancestry	African Ancestry SW	ASW
+GM20346	AFR	20346	male	African Ancestry	African Ancestry SW	ASW
+GM20348	AFR	20348	male	African Ancestry	African Ancestry SW	ASW
+GM20351	AFR	20351	male	African Ancestry	African Ancestry SW	ASW
+GM20355	AFR	20355	female	African Ancestry	African Ancestry SW	ASW
+GM20356	AFR	20356	male	African Ancestry	African Ancestry SW	ASW
+GM20357	AFR	20357	female	African Ancestry	African Ancestry SW	ASW
+GM20358	AFR	20358	male	African Ancestry	African Ancestry SW	ASW
+GM20359	AFR	20359	female	African Ancestry	African Ancestry SW	ASW
+GM20362	AFR	20362	male	African Ancestry	African Ancestry SW	ASW
+GM20412	AFR	20412	female	African Ancestry	African Ancestry SW	ASW
+HG01879	AFR	1879	male	African Ancestry	African Caribbean	ACB
+HG01880	AFR	1880	female	African Ancestry	African Caribbean	ACB
+HG01881	AFR	1881	female	African Ancestry	African Caribbean	ACB
+HG01882	AFR	1882	male	African Ancestry	African Caribbean	ACB
+HG01883	AFR	1883	female	African Ancestry	African Caribbean	ACB
+HG01884	AFR	1884	female	African Ancestry	African Caribbean	ACB
+HG01885	AFR	1885	male	African Ancestry	African Caribbean	ACB
+HG01886	AFR	1886	female	African Ancestry	African Caribbean	ACB
+HG01887	AFR	1887	male	African Ancestry	African Caribbean	ACB
+HG01888	AFR	1888	male	African Ancestry	African Caribbean	ACB
+HG01889	AFR	1889	female	African Ancestry	African Caribbean	ACB
+HG01890	AFR	1890	male	African Ancestry	African Caribbean	ACB
+HG01891	AFR	1891	female	African Ancestry	African Caribbean	ACB
+HG01894	AFR	1894	female	African Ancestry	African Caribbean	ACB
+HG01895	AFR	1895	male	African Ancestry	African Caribbean	ACB
+HG01896	AFR	1896	female	African Ancestry	African Caribbean	ACB
+HG01897	AFR	1897	male	African Ancestry	African Caribbean	ACB
+HG01912	AFR	1912	male	African Ancestry	African Caribbean	ACB
+HG01914	AFR	1914	male	African Ancestry	African Caribbean	ACB
+HG01915	AFR	1915	female	African Ancestry	African Caribbean	ACB
+HG01916	AFR	1916	female	African Ancestry	African Caribbean	ACB
+HG01956	AFR	1956	female	African Ancestry	African Caribbean	ACB
+HG01958	AFR	1958	female	African Ancestry	African Caribbean	ACB
+HG01959	AFR	1959	female	African Ancestry	African Caribbean	ACB
+HG01960	AFR	1960	female	African Ancestry	African Caribbean	ACB
+HG01985	AFR	1985	female	African Ancestry	African Caribbean	ACB
+HG01986	AFR	1986	male	African Ancestry	African Caribbean	ACB
+HG01987	AFR	1987	male	African Ancestry	African Caribbean	ACB
+HG01988	AFR	1988	male	African Ancestry	African Caribbean	ACB
+HG01989	AFR	1989	female	African Ancestry	African Caribbean	ACB
+HG01990	AFR	1990	male	African Ancestry	African Caribbean	ACB
+HG02009	AFR	2009	male	African Ancestry	African Caribbean	ACB
+HG02010	AFR	2010	female	African Ancestry	African Caribbean	ACB
+HG02011	AFR	2011	male	African Ancestry	African Caribbean	ACB
+HG02012	AFR	2012	female	African Ancestry	African Caribbean	ACB
+HG02013	AFR	2013	male	African Ancestry	African Caribbean	ACB
+HG02014	AFR	2014	male	African Ancestry	African Caribbean	ACB
+HG02051	AFR	2051	male	African Ancestry	African Caribbean	ACB
+HG02052	AFR	2052	female	African Ancestry	African Caribbean	ACB
+HG02053	AFR	2053	male	African Ancestry	African Caribbean	ACB
+HG02054	AFR	2054	female	African Ancestry	African Caribbean	ACB
+HG02055	AFR	2055	male	African Ancestry	African Caribbean	ACB
+HG02095	AFR	2095	female	African Ancestry	African Caribbean	ACB
+HG02107	AFR	2107	male	African Ancestry	African Caribbean	ACB
+HG02108	AFR	2108	female	African Ancestry	African Caribbean	ACB
+HG02111	AFR	2111	female	African Ancestry	African Caribbean	ACB
+HG02143	AFR	2143	male	African Ancestry	African Caribbean	ACB
+HG02144	AFR	2144	female	African Ancestry	African Caribbean	ACB
+HG02145	AFR	2145	male	African Ancestry	African Caribbean	ACB
+HG02255	AFR	2255	male	African Ancestry	African Caribbean	ACB
+HG02256	AFR	2256	female	African Ancestry	African Caribbean	ACB
+HG02257	AFR	2257	female	African Ancestry	African Caribbean	ACB
+HG02258	AFR	2258	male	African Ancestry	African Caribbean	ACB
+HG02280	AFR	2280	female	African Ancestry	African Caribbean	ACB
+HG02281	AFR	2281	male	African Ancestry	African Caribbean	ACB
+HG02282	AFR	2282	female	African Ancestry	African Caribbean	ACB
+HG02283	AFR	2283	male	African Ancestry	African Caribbean	ACB
+HG02284	AFR	2284	male	African Ancestry	African Caribbean	ACB
+HG02307	AFR	2307	male	African Ancestry	African Caribbean	ACB
+HG02308	AFR	2308	female	African Ancestry	African Caribbean	ACB
+HG02309	AFR	2309	female	African Ancestry	African Caribbean	ACB
+HG02314	AFR	2314	male	African Ancestry	African Caribbean	ACB
+HG02315	AFR	2315	female	African Ancestry	African Caribbean	ACB
+HG02316	AFR	2316	male	African Ancestry	African Caribbean	ACB
+HG02317	AFR	2317	male	African Ancestry	African Caribbean	ACB
+HG02318	AFR	2318	female	African Ancestry	African Caribbean	ACB
+HG02321	AFR	2321	female	African Ancestry	African Caribbean	ACB
+HG02322	AFR	2322	female	African Ancestry	African Caribbean	ACB
+HG02323	AFR	2323	male	African Ancestry	African Caribbean	ACB
+HG02325	AFR	2325	female	African Ancestry	African Caribbean	ACB
+HG02330	AFR	2330	male	African Ancestry	African Caribbean	ACB
+HG02332	AFR	2332	male	African Ancestry	African Caribbean	ACB
+HG02334	AFR	2334	male	African Ancestry	African Caribbean	ACB
+HG02337	AFR	2337	female	African Ancestry	African Caribbean	ACB
+HG02339	AFR	2339	female	African Ancestry	African Caribbean	ACB
+HG02343	AFR	2343	male	African Ancestry	African Caribbean	ACB
+HG02419	AFR	2419	female	African Ancestry	African Caribbean	ACB
+HG02420	AFR	2420	male	African Ancestry	African Caribbean	ACB
+HG02427	AFR	2427	female	African Ancestry	African Caribbean	ACB
+HG02429	AFR	2429	male	African Ancestry	African Caribbean	ACB
+HG02433	AFR	2433	male	African Ancestry	African Caribbean	ACB
+HG02439	AFR	2439	male	African Ancestry	African Caribbean	ACB
+HG02442	AFR	2442	male	African Ancestry	African Caribbean	ACB
+HG02445	AFR	2445	male	African Ancestry	African Caribbean	ACB
+HG02449	AFR	2449	male	African Ancestry	African Caribbean	ACB
+HG02450	AFR	2450	female	African Ancestry	African Caribbean	ACB
+HG02451	AFR	2451	female	African Ancestry	African Caribbean	ACB
+HG02455	AFR	2455	male	African Ancestry	African Caribbean	ACB
+HG02470	AFR	2470	male	African Ancestry	African Caribbean	ACB
+HG02471	AFR	2471	female	African Ancestry	African Caribbean	ACB
+HG02476	AFR	2476	female	African Ancestry	African Caribbean	ACB
+HG02477	AFR	2477	female	African Ancestry	African Caribbean	ACB
+HG02479	AFR	2479	female	African Ancestry	African Caribbean	ACB
+HG02481	AFR	2481	male	African Ancestry	African Caribbean	ACB
+HG02484	AFR	2484	male	African Ancestry	African Caribbean	ACB
+HG02485	AFR	2485	female	African Ancestry	African Caribbean	ACB
+HG02489	AFR	2489	male	African Ancestry	African Caribbean	ACB
+HG02496	AFR	2496	male	African Ancestry	African Caribbean	ACB
+HG02497	AFR	2497	female	African Ancestry	African Caribbean	ACB
+HG02501	AFR	2501	male	African Ancestry	African Caribbean	ACB
+HG02502	AFR	2502	female	African Ancestry	African Caribbean	ACB
+HG02505	AFR	2505	female	African Ancestry	African Caribbean	ACB
+HG02508	AFR	2508	female	African Ancestry	African Caribbean	ACB
+HG02511	AFR	2511	female	African Ancestry	African Caribbean	ACB
+HG02536	AFR	2536	male	African Ancestry	African Caribbean	ACB
+HG02537	AFR	2537	female	African Ancestry	African Caribbean	ACB
+HG02541	AFR	2541	male	African Ancestry	African Caribbean	ACB
+HG02545	AFR	2545	male	African Ancestry	African Caribbean	ACB
+HG02546	AFR	2546	female	African Ancestry	African Caribbean	ACB
+HG02549	AFR	2549	female	African Ancestry	African Caribbean	ACB
+HG02554	AFR	2554	male	African Ancestry	African Caribbean	ACB
+HG02555	AFR	2555	female	African Ancestry	African Caribbean	ACB
+HG02557	AFR	2557	male	African Ancestry	African Caribbean	ACB
+HG02558	AFR	2558	female	African Ancestry	African Caribbean	ACB
+HG02577	AFR	2577	female	African Ancestry	African Caribbean	ACB
+HG02580	AFR	2580	female	African Ancestry	African Caribbean	ACB
+HG03008	SAS	3008	male	South Asian Ancestry	Bengali	BEB
+HG03009	SAS	3009	male	South Asian Ancestry	Bengali	BEB
+HG03012	SAS	3012	male	South Asian Ancestry	Bengali	BEB
+HG03585	SAS	3585	male	South Asian Ancestry	Bengali	BEB
+HG03589	SAS	3589	female	South Asian Ancestry	Bengali	BEB
+HG03593	SAS	3593	male	South Asian Ancestry	Bengali	BEB
+HG03594	SAS	3594	male	South Asian Ancestry	Bengali	BEB
+HG03595	SAS	3595	female	South Asian Ancestry	Bengali	BEB
+HG03596	SAS	3596	male	South Asian Ancestry	Bengali	BEB
+HG03598	SAS	3598	female	South Asian Ancestry	Bengali	BEB
+HG03600	SAS	3600	male	South Asian Ancestry	Bengali	BEB
+HG03603	SAS	3603	male	South Asian Ancestry	Bengali	BEB
+HG03604	SAS	3604	female	South Asian Ancestry	Bengali	BEB
+HG03605	SAS	3605	female	South Asian Ancestry	Bengali	BEB
+HG03606	SAS	3606	male	South Asian Ancestry	Bengali	BEB
+HG03607	SAS	3607	female	South Asian Ancestry	Bengali	BEB
+HG03611	SAS	3611	female	South Asian Ancestry	Bengali	BEB
+HG03615	SAS	3615	male	South Asian Ancestry	Bengali	BEB
+HG03616	SAS	3616	female	South Asian Ancestry	Bengali	BEB
+HG03617	SAS	3617	female	South Asian Ancestry	Bengali	BEB
+HG03793	SAS	3793	female	South Asian Ancestry	Bengali	BEB
+HG03794	SAS	3794	male	South Asian Ancestry	Bengali	BEB
+HG03795	SAS	3795	male	South Asian Ancestry	Bengali	BEB
+HG03796	SAS	3796	female	South Asian Ancestry	Bengali	BEB
+HG03797	SAS	3797	male	South Asian Ancestry	Bengali	BEB
+HG03798	SAS	3798	male	South Asian Ancestry	Bengali	BEB
+HG03799	SAS	3799	female	South Asian Ancestry	Bengali	BEB
+HG03800	SAS	3800	male	South Asian Ancestry	Bengali	BEB
+HG03801	SAS	3801	female	South Asian Ancestry	Bengali	BEB
+HG03802	SAS	3802	female	South Asian Ancestry	Bengali	BEB
+HG03803	SAS	3803	male	South Asian Ancestry	Bengali	BEB
+HG03804	SAS	3804	female	South Asian Ancestry	Bengali	BEB
+HG03805	SAS	3805	female	South Asian Ancestry	Bengali	BEB
+HG03806	SAS	3806	male	South Asian Ancestry	Bengali	BEB
+HG03807	SAS	3807	female	South Asian Ancestry	Bengali	BEB
+HG03808	SAS	3808	female	South Asian Ancestry	Bengali	BEB
+HG03809	SAS	3809	male	South Asian Ancestry	Bengali	BEB
+HG03812	SAS	3812	male	South Asian Ancestry	Bengali	BEB
+HG03814	SAS	3814	female	South Asian Ancestry	Bengali	BEB
+HG03815	SAS	3815	male	South Asian Ancestry	Bengali	BEB
+HG03816	SAS	3816	female	South Asian Ancestry	Bengali	BEB
+HG03817	SAS	3817	female	South Asian Ancestry	Bengali	BEB
+HG03821	SAS	3821	male	South Asian Ancestry	Bengali	BEB
+HG03823	SAS	3823	female	South Asian Ancestry	Bengali	BEB
+HG03824	SAS	3824	male	South Asian Ancestry	Bengali	BEB
+HG03825	SAS	3825	female	South Asian Ancestry	Bengali	BEB
+HG03826	SAS	3826	female	South Asian Ancestry	Bengali	BEB
+HG03829	SAS	3829	female	South Asian Ancestry	Bengali	BEB
+HG03830	SAS	3830	male	South Asian Ancestry	Bengali	BEB
+HG03831	SAS	3831	female	South Asian Ancestry	Bengali	BEB
+HG03832	SAS	3832	female	South Asian Ancestry	Bengali	BEB
+HG03833	SAS	3833	male	South Asian Ancestry	Bengali	BEB
+HG03834	SAS	3834	female	South Asian Ancestry	Bengali	BEB
+HG03902	SAS	3902	male	South Asian Ancestry	Bengali	BEB
+HG03904	SAS	3904	female	South Asian Ancestry	Bengali	BEB
+HG03905	SAS	3905	male	South Asian Ancestry	Bengali	BEB
+HG03906	SAS	3906	male	South Asian Ancestry	Bengali	BEB
+HG03907	SAS	3907	female	South Asian Ancestry	Bengali	BEB
+HG03908	SAS	3908	male	South Asian Ancestry	Bengali	BEB
+HG03909	SAS	3909	male	South Asian Ancestry	Bengali	BEB
+HG03910	SAS	3910	female	South Asian Ancestry	Bengali	BEB
+HG03911	SAS	3911	male	South Asian Ancestry	Bengali	BEB
+HG03913	SAS	3913	female	South Asian Ancestry	Bengali	BEB
+HG03914	SAS	3914	male	South Asian Ancestry	Bengali	BEB
+HG03915	SAS	3915	female	South Asian Ancestry	Bengali	BEB
+HG03916	SAS	3916	female	South Asian Ancestry	Bengali	BEB
+HG03917	SAS	3917	male	South Asian Ancestry	Bengali	BEB
+HG03919	SAS	3919	female	South Asian Ancestry	Bengali	BEB
+HG03920	SAS	3920	male	South Asian Ancestry	Bengali	BEB
+HG03922	SAS	3922	female	South Asian Ancestry	Bengali	BEB
+HG03925	SAS	3925	female	South Asian Ancestry	Bengali	BEB
+HG03926	SAS	3926	male	South Asian Ancestry	Bengali	BEB
+HG03927	SAS	3927	female	South Asian Ancestry	Bengali	BEB
+HG03928	SAS	3928	female	South Asian Ancestry	Bengali	BEB
+HG03929	SAS	3929	male	South Asian Ancestry	Bengali	BEB
+HG03930	SAS	3930	female	South Asian Ancestry	Bengali	BEB
+HG03931	SAS	3931	female	South Asian Ancestry	Bengali	BEB
+HG03934	SAS	3934	female	South Asian Ancestry	Bengali	BEB
+HG03937	SAS	3937	female	South Asian Ancestry	Bengali	BEB
+HG03940	SAS	3940	female	South Asian Ancestry	Bengali	BEB
+HG03941	SAS	3941	male	South Asian Ancestry	Bengali	BEB
+HG03942	SAS	3942	male	South Asian Ancestry	Bengali	BEB
+HG04131	SAS	4131	male	South Asian Ancestry	Bengali	BEB
+HG04132	SAS	4132	female	South Asian Ancestry	Bengali	BEB
+HG04133	SAS	4133	female	South Asian Ancestry	Bengali	BEB
+HG04134	SAS	4134	male	South Asian Ancestry	Bengali	BEB
+HG04135	SAS	4135	female	South Asian Ancestry	Bengali	BEB
+HG04136	SAS	4136	female	South Asian Ancestry	Bengali	BEB
+HG04140	SAS	4140	male	South Asian Ancestry	Bengali	BEB
+HG04141	SAS	4141	female	South Asian Ancestry	Bengali	BEB
+HG04142	SAS	4142	female	South Asian Ancestry	Bengali	BEB
+HG04144	SAS	4144	female	South Asian Ancestry	Bengali	BEB
+HG04146	SAS	4146	male	South Asian Ancestry	Bengali	BEB
+HG04147	SAS	4147	female	South Asian Ancestry	Bengali	BEB
+HG04148	SAS	4148	female	South Asian Ancestry	Bengali	BEB
+HG04149	SAS	4149	male	South Asian Ancestry	Bengali	BEB
+HG04150	SAS	4150	female	South Asian Ancestry	Bengali	BEB
+HG04151	SAS	4151	female	South Asian Ancestry	Bengali	BEB
+HG04152	SAS	4152	male	South Asian Ancestry	Bengali	BEB
+HG04153	SAS	4153	female	South Asian Ancestry	Bengali	BEB
+HG04155	SAS	4155	male	South Asian Ancestry	Bengali	BEB
+HG04156	SAS	4156	female	South Asian Ancestry	Bengali	BEB
+HG04157	SAS	4157	male	South Asian Ancestry	Bengali	BEB
+HG04158	SAS	4158	male	South Asian Ancestry	Bengali	BEB
+HG04159	SAS	4159	female	South Asian Ancestry	Bengali	BEB
+HG04160	SAS	4160	male	South Asian Ancestry	Bengali	BEB
+HG04161	SAS	4161	male	South Asian Ancestry	Bengali	BEB
+HG04162	SAS	4162	female	South Asian Ancestry	Bengali	BEB
+HG04164	SAS	4164	male	South Asian Ancestry	Bengali	BEB
+HG04171	SAS	4171	female	South Asian Ancestry	Bengali	BEB
+HG04173	SAS	4173	male	South Asian Ancestry	Bengali	BEB
+HG04174	SAS	4174	female	South Asian Ancestry	Bengali	BEB
+HG04175	SAS	4175	female	South Asian Ancestry	Bengali	BEB
+HG04176	SAS	4176	male	South Asian Ancestry	Bengali	BEB
+HG04177	SAS	4177	female	South Asian Ancestry	Bengali	BEB
+HG04180	SAS	4180	female	South Asian Ancestry	Bengali	BEB
+HG04182	SAS	4182	male	South Asian Ancestry	Bengali	BEB
+HG04183	SAS	4183	female	South Asian Ancestry	Bengali	BEB
+HG04184	SAS	4184	female	South Asian Ancestry	Bengali	BEB
+HG04185	SAS	4185	male	South Asian Ancestry	Bengali	BEB
+HG04186	SAS	4186	female	South Asian Ancestry	Bengali	BEB
+HG04187	SAS	4187	male	South Asian Ancestry	Bengali	BEB
+HG04188	SAS	4188	male	South Asian Ancestry	Bengali	BEB
+HG04189	SAS	4189	female	South Asian Ancestry	Bengali	BEB
+HG04191	SAS	4191	male	South Asian Ancestry	Bengali	BEB
+HG04192	SAS	4192	female	South Asian Ancestry	Bengali	BEB
+HG04193	SAS	4193	male	South Asian Ancestry	Bengali	BEB
+HG04194	SAS	4194	male	South Asian Ancestry	Bengali	BEB
+HG04195	SAS	4195	female	South Asian Ancestry	Bengali	BEB
+HG03006	SAS	3006	male	"South Asia (SGDP),South Asian Ancestry"	"Bengali,Bengali"	BEB
+HG03007	SAS	3007	female	"South Asia (SGDP),South Asian Ancestry"	"Bengali,Bengali"	BEB
+HG00096	EUR	96	male	European Ancestry	British	GBR
+HG00097	EUR	97	female	European Ancestry	British	GBR
+HG00099	EUR	99	female	European Ancestry	British	GBR
+HG00100	EUR	100	female	European Ancestry	British	GBR
+HG00101	EUR	101	male	European Ancestry	British	GBR
+HG00102	EUR	102	female	European Ancestry	British	GBR
+HG00103	EUR	103	male	European Ancestry	British	GBR
+HG00105	EUR	105	male	European Ancestry	British	GBR
+HG00106	EUR	106	female	European Ancestry	British	GBR
+HG00107	EUR	107	male	European Ancestry	British	GBR
+HG00108	EUR	108	male	European Ancestry	British	GBR
+HG00109	EUR	109	male	European Ancestry	British	GBR
+HG00110	EUR	110	female	European Ancestry	British	GBR
+HG00111	EUR	111	female	European Ancestry	British	GBR
+HG00112	EUR	112	male	European Ancestry	British	GBR
+HG00113	EUR	113	male	European Ancestry	British	GBR
+HG00114	EUR	114	male	European Ancestry	British	GBR
+HG00115	EUR	115	male	European Ancestry	British	GBR
+HG00116	EUR	116	male	European Ancestry	British	GBR
+HG00117	EUR	117	male	European Ancestry	British	GBR
+HG00118	EUR	118	female	European Ancestry	British	GBR
+HG00119	EUR	119	male	European Ancestry	British	GBR
+HG00120	EUR	120	female	European Ancestry	British	GBR
+HG00121	EUR	121	female	European Ancestry	British	GBR
+HG00122	EUR	122	female	European Ancestry	British	GBR
+HG00123	EUR	123	female	European Ancestry	British	GBR
+HG00125	EUR	125	female	European Ancestry	British	GBR
+HG00127	EUR	127	female	European Ancestry	British	GBR
+HG00129	EUR	129	male	European Ancestry	British	GBR
+HG00130	EUR	130	female	European Ancestry	British	GBR
+HG00131	EUR	131	male	European Ancestry	British	GBR
+HG00132	EUR	132	female	European Ancestry	British	GBR
+HG00133	EUR	133	female	European Ancestry	British	GBR
+HG00136	EUR	136	male	European Ancestry	British	GBR
+HG00137	EUR	137	female	European Ancestry	British	GBR
+HG00138	EUR	138	male	European Ancestry	British	GBR
+HG00139	EUR	139	male	European Ancestry	British	GBR
+HG00140	EUR	140	male	European Ancestry	British	GBR
+HG00141	EUR	141	male	European Ancestry	British	GBR
+HG00142	EUR	142	male	European Ancestry	British	GBR
+HG00143	EUR	143	male	European Ancestry	British	GBR
+HG00145	EUR	145	male	European Ancestry	British	GBR
+HG00146	EUR	146	female	European Ancestry	British	GBR
+HG00148	EUR	148	male	European Ancestry	British	GBR
+HG00149	EUR	149	male	European Ancestry	British	GBR
+HG00150	EUR	150	female	European Ancestry	British	GBR
+HG00151	EUR	151	male	European Ancestry	British	GBR
+HG00154	EUR	154	female	European Ancestry	British	GBR
+HG00155	EUR	155	male	European Ancestry	British	GBR
+HG00157	EUR	157	male	European Ancestry	British	GBR
+HG00158	EUR	158	female	European Ancestry	British	GBR
+HG00159	EUR	159	male	European Ancestry	British	GBR
+HG00160	EUR	160	male	European Ancestry	British	GBR
+HG00231	EUR	231	female	European Ancestry	British	GBR
+HG00232	EUR	232	female	European Ancestry	British	GBR
+HG00233	EUR	233	female	European Ancestry	British	GBR
+HG00234	EUR	234	male	European Ancestry	British	GBR
+HG00235	EUR	235	female	European Ancestry	British	GBR
+HG00236	EUR	236	female	European Ancestry	British	GBR
+HG00237	EUR	237	female	European Ancestry	British	GBR
+HG00238	EUR	238	female	European Ancestry	British	GBR
+HG00239	EUR	239	female	European Ancestry	British	GBR
+HG00240	EUR	240	female	European Ancestry	British	GBR
+HG00242	EUR	242	male	European Ancestry	British	GBR
+HG00243	EUR	243	male	European Ancestry	British	GBR
+HG00244	EUR	244	male	European Ancestry	British	GBR
+HG00245	EUR	245	female	European Ancestry	British	GBR
+HG00246	EUR	246	male	European Ancestry	British	GBR
+HG00250	EUR	250	female	European Ancestry	British	GBR
+HG00251	EUR	251	male	European Ancestry	British	GBR
+HG00252	EUR	252	male	European Ancestry	British	GBR
+HG00253	EUR	253	female	European Ancestry	British	GBR
+HG00254	EUR	254	female	European Ancestry	British	GBR
+HG00255	EUR	255	female	European Ancestry	British	GBR
+HG00256	EUR	256	male	European Ancestry	British	GBR
+HG00257	EUR	257	female	European Ancestry	British	GBR
+HG00258	EUR	258	female	European Ancestry	British	GBR
+HG00259	EUR	259	female	European Ancestry	British	GBR
+HG00260	EUR	260	male	European Ancestry	British	GBR
+HG00261	EUR	261	female	European Ancestry	British	GBR
+HG00262	EUR	262	female	European Ancestry	British	GBR
+HG00263	EUR	263	female	European Ancestry	British	GBR
+HG00264	EUR	264	male	European Ancestry	British	GBR
+HG00265	EUR	265	male	European Ancestry	British	GBR
+HG01334	EUR	1334	male	European Ancestry	British	GBR
+HG01789	EUR	1789	male	European Ancestry	British	GBR
+HG01790	EUR	1790	female	European Ancestry	British	GBR
+HG01791	EUR	1791	male	European Ancestry	British	GBR
+HG02215	EUR	2215	female	European Ancestry	British	GBR
+HG00126	EUR	126	male	"European Ancestry,West Eurasia (SGDP)"	"British,English"	GBR
+HG00128	EUR	128	female	"European Ancestry,West Eurasia (SGDP)"	"British,English"	GBR
+GM06984	EUR	6984	male	European Ancestry	CEPH	CEU
+GM06985	EUR	6985	female	European Ancestry	CEPH	CEU
+GM06986	EUR	6986	male	European Ancestry	CEPH	CEU
+GM06989	EUR	6989	female	European Ancestry	CEPH	CEU
+GM06991	EUR	6991	female	European Ancestry	CEPH	CEU
+GM06993	EUR	6993	male	European Ancestry	CEPH	CEU
+GM06994	EUR	6994	male	European Ancestry	CEPH	CEU
+GM06995	EUR	6995	male	European Ancestry	CEPH	CEU
+GM06997	EUR	6997	female	European Ancestry	CEPH	CEU
+GM07000	EUR	7000	female	European Ancestry	CEPH	CEU
+GM07014	EUR	7014	female	European Ancestry	CEPH	CEU
+GM07019	EUR	7019	female	European Ancestry	CEPH	CEU
+GM07022	EUR	7022	male	European Ancestry	CEPH	CEU
+GM07029	EUR	7029	male	European Ancestry	CEPH	CEU
+GM07031	EUR	7031	female	European Ancestry	CEPH	CEU
+GM07034	EUR	7034	male	European Ancestry	CEPH	CEU
+GM07037	EUR	7037	female	European Ancestry	CEPH	CEU
+GM07045	EUR	7045	female	European Ancestry	CEPH	CEU
+GM07048	EUR	7048	male	European Ancestry	CEPH	CEU
+GM07051	EUR	7051	male	European Ancestry	CEPH	CEU
+GM07055	EUR	7055	female	European Ancestry	CEPH	CEU
+GM07056	EUR	7056	female	European Ancestry	CEPH	CEU
+GM07345	EUR	7345	female	European Ancestry	CEPH	CEU
+GM07346	EUR	7346	female	European Ancestry	CEPH	CEU
+GM07347	EUR	7347	male	European Ancestry	CEPH	CEU
+GM07348	EUR	7348	female	European Ancestry	CEPH	CEU
+GM07349	EUR	7349	male	European Ancestry	CEPH	CEU
+GM07357	EUR	7357	male	European Ancestry	CEPH	CEU
+GM07435	EUR	7435	male	European Ancestry	CEPH	CEU
+GM10830	EUR	10830	male	European Ancestry	CEPH	CEU
+GM10831	EUR	10831	female	European Ancestry	CEPH	CEU
+GM10835	EUR	10835	male	European Ancestry	CEPH	CEU
+GM10836	EUR	10836	female	European Ancestry	CEPH	CEU
+GM10837	EUR	10837	male	European Ancestry	CEPH	CEU
+GM10838	EUR	10838	male	European Ancestry	CEPH	CEU
+GM10839	EUR	10839	female	European Ancestry	CEPH	CEU
+GM10840	EUR	10840	female	European Ancestry	CEPH	CEU
+GM10842	EUR	10842	male	European Ancestry	CEPH	CEU
+GM10843	EUR	10843	female	European Ancestry	CEPH	CEU
+GM10845	EUR	10845	male	European Ancestry	CEPH	CEU
+GM10846	EUR	10846	male	European Ancestry	CEPH	CEU
+GM10847	EUR	10847	female	European Ancestry	CEPH	CEU
+GM10851	EUR	10851	male	European Ancestry	CEPH	CEU
+GM10852	EUR	10852	female	European Ancestry	CEPH	CEU
+GM10854	EUR	10854	female	European Ancestry	CEPH	CEU
+GM10855	EUR	10855	female	European Ancestry	CEPH	CEU
+GM10856	EUR	10856	male	European Ancestry	CEPH	CEU
+GM10857	EUR	10857	male	European Ancestry	CEPH	CEU
+GM10859	EUR	10859	female	European Ancestry	CEPH	CEU
+GM10860	EUR	10860	male	European Ancestry	CEPH	CEU
+GM10861	EUR	10861	female	European Ancestry	CEPH	CEU
+GM10863	EUR	10863	female	European Ancestry	CEPH	CEU
+GM10864	EUR	10864	female	European Ancestry	CEPH	CEU
+GM10865	EUR	10865	male	European Ancestry	CEPH	CEU
+GM11829	EUR	11829	male	European Ancestry	CEPH	CEU
+GM11830	EUR	11830	female	European Ancestry	CEPH	CEU
+GM11831	EUR	11831	male	European Ancestry	CEPH	CEU
+GM11832	EUR	11832	female	European Ancestry	CEPH	CEU
+GM11839	EUR	11839	male	European Ancestry	CEPH	CEU
+GM11840	EUR	11840	female	European Ancestry	CEPH	CEU
+GM11843	EUR	11843	male	European Ancestry	CEPH	CEU
+GM11881	EUR	11881	male	European Ancestry	CEPH	CEU
+GM11882	EUR	11882	female	European Ancestry	CEPH	CEU
+GM11891	EUR	11891	male	European Ancestry	CEPH	CEU
+GM11892	EUR	11892	female	European Ancestry	CEPH	CEU
+GM11893	EUR	11893	male	European Ancestry	CEPH	CEU
+GM11894	EUR	11894	female	European Ancestry	CEPH	CEU
+GM11917	EUR	11917	male	European Ancestry	CEPH	CEU
+GM11918	EUR	11918	female	European Ancestry	CEPH	CEU
+GM11919	EUR	11919	male	European Ancestry	CEPH	CEU
+GM11920	EUR	11920	female	European Ancestry	CEPH	CEU
+GM11930	EUR	11930	male	European Ancestry	CEPH	CEU
+GM11931	EUR	11931	female	European Ancestry	CEPH	CEU
+GM11932	EUR	11932	male	European Ancestry	CEPH	CEU
+GM11933	EUR	11933	female	European Ancestry	CEPH	CEU
+GM11992	EUR	11992	male	European Ancestry	CEPH	CEU
+GM11993	EUR	11993	female	European Ancestry	CEPH	CEU
+GM11994	EUR	11994	male	European Ancestry	CEPH	CEU
+GM11995	EUR	11995	female	European Ancestry	CEPH	CEU
+GM12003	EUR	12003	male	European Ancestry	CEPH	CEU
+GM12004	EUR	12004	female	European Ancestry	CEPH	CEU
+GM12005	EUR	12005	male	European Ancestry	CEPH	CEU
+GM12006	EUR	12006	female	European Ancestry	CEPH	CEU
+GM12043	EUR	12043	male	European Ancestry	CEPH	CEU
+GM12044	EUR	12044	female	European Ancestry	CEPH	CEU
+GM12045	EUR	12045	male	European Ancestry	CEPH	CEU
+GM12046	EUR	12046	female	European Ancestry	CEPH	CEU
+GM12056	EUR	12056	male	European Ancestry	CEPH	CEU
+GM12057	EUR	12057	female	European Ancestry	CEPH	CEU
+GM12058	EUR	12058	female	European Ancestry	CEPH	CEU
+GM12144	EUR	12144	male	European Ancestry	CEPH	CEU
+GM12145	EUR	12145	female	European Ancestry	CEPH	CEU
+GM12146	EUR	12146	male	European Ancestry	CEPH	CEU
+GM12154	EUR	12154	male	European Ancestry	CEPH	CEU
+GM12155	EUR	12155	male	European Ancestry	CEPH	CEU
+GM12156	EUR	12156	female	European Ancestry	CEPH	CEU
+GM12234	EUR	12234	female	European Ancestry	CEPH	CEU
+GM12236	EUR	12236	female	European Ancestry	CEPH	CEU
+GM12239	EUR	12239	female	European Ancestry	CEPH	CEU
+GM12248	EUR	12248	male	European Ancestry	CEPH	CEU
+GM12249	EUR	12249	female	European Ancestry	CEPH	CEU
+GM12264	EUR	12264	male	European Ancestry	CEPH	CEU
+GM12272	EUR	12272	male	European Ancestry	CEPH	CEU
+GM12273	EUR	12273	female	European Ancestry	CEPH	CEU
+GM12274	EUR	12274	male	European Ancestry	CEPH	CEU
+GM12275	EUR	12275	female	European Ancestry	CEPH	CEU
+GM12282	EUR	12282	male	European Ancestry	CEPH	CEU
+GM12283	EUR	12283	female	European Ancestry	CEPH	CEU
+GM12286	EUR	12286	male	European Ancestry	CEPH	CEU
+GM12287	EUR	12287	female	European Ancestry	CEPH	CEU
+GM12329	EUR	12329	female	European Ancestry	CEPH	CEU
+GM12335	EUR	12335	male	European Ancestry	CEPH	CEU
+GM12336	EUR	12336	female	European Ancestry	CEPH	CEU
+GM12340	EUR	12340	male	European Ancestry	CEPH	CEU
+GM12341	EUR	12341	female	European Ancestry	CEPH	CEU
+GM12342	EUR	12342	male	European Ancestry	CEPH	CEU
+GM12343	EUR	12343	female	European Ancestry	CEPH	CEU
+GM12344	EUR	12344	male	European Ancestry	CEPH	CEU
+GM12347	EUR	12347	male	European Ancestry	CEPH	CEU
+GM12348	EUR	12348	female	European Ancestry	CEPH	CEU
+GM12376	EUR	12376	female	European Ancestry	CEPH	CEU
+GM12383	EUR	12383	female	European Ancestry	CEPH	CEU
+GM12386	EUR	12386	female	European Ancestry	CEPH	CEU
+GM12399	EUR	12399	male	European Ancestry	CEPH	CEU
+GM12400	EUR	12400	female	European Ancestry	CEPH	CEU
+GM12413	EUR	12413	male	European Ancestry	CEPH	CEU
+GM12414	EUR	12414	female	European Ancestry	CEPH	CEU
+GM12485	EUR	12485	male	European Ancestry	CEPH	CEU
+GM12489	EUR	12489	female	European Ancestry	CEPH	CEU
+GM12546	EUR	12546	male	European Ancestry	CEPH	CEU
+GM12707	EUR	12707	male	European Ancestry	CEPH	CEU
+GM12716	EUR	12716	male	European Ancestry	CEPH	CEU
+GM12717	EUR	12717	female	European Ancestry	CEPH	CEU
+GM12718	EUR	12718	female	European Ancestry	CEPH	CEU
+GM12739	EUR	12739	male	European Ancestry	CEPH	CEU
+GM12740	EUR	12740	female	European Ancestry	CEPH	CEU
+GM12748	EUR	12748	male	European Ancestry	CEPH	CEU
+GM12749	EUR	12749	female	European Ancestry	CEPH	CEU
+GM12750	EUR	12750	male	European Ancestry	CEPH	CEU
+GM12751	EUR	12751	female	European Ancestry	CEPH	CEU
+GM12752	EUR	12752	male	European Ancestry	CEPH	CEU
+GM12753	EUR	12753	female	European Ancestry	CEPH	CEU
+GM12760	EUR	12760	male	European Ancestry	CEPH	CEU
+GM12761	EUR	12761	female	European Ancestry	CEPH	CEU
+GM12762	EUR	12762	male	European Ancestry	CEPH	CEU
+GM12763	EUR	12763	female	European Ancestry	CEPH	CEU
+GM12766	EUR	12766	male	European Ancestry	CEPH	CEU
+GM12767	EUR	12767	female	European Ancestry	CEPH	CEU
+GM12775	EUR	12775	male	European Ancestry	CEPH	CEU
+GM12776	EUR	12776	female	European Ancestry	CEPH	CEU
+GM12777	EUR	12777	male	European Ancestry	CEPH	CEU
+GM12778	EUR	12778	female	European Ancestry	CEPH	CEU
+GM12801	EUR	12801	male	European Ancestry	CEPH	CEU
+GM12802	EUR	12802	female	European Ancestry	CEPH	CEU
+GM12812	EUR	12812	male	European Ancestry	CEPH	CEU
+GM12813	EUR	12813	female	European Ancestry	CEPH	CEU
+GM12814	EUR	12814	male	European Ancestry	CEPH	CEU
+GM12815	EUR	12815	female	European Ancestry	CEPH	CEU
+GM12817	EUR	12817	male	European Ancestry	CEPH	CEU
+GM12818	EUR	12818	female	European Ancestry	CEPH	CEU
+GM12827	EUR	12827	male	European Ancestry	CEPH	CEU
+GM12828	EUR	12828	female	European Ancestry	CEPH	CEU
+GM12829	EUR	12829	male	European Ancestry	CEPH	CEU
+GM12830	EUR	12830	female	European Ancestry	CEPH	CEU
+GM12832	EUR	12832	female	European Ancestry	CEPH	CEU
+GM12842	EUR	12842	male	European Ancestry	CEPH	CEU
+GM12843	EUR	12843	female	European Ancestry	CEPH	CEU
+GM12864	EUR	12864	male	European Ancestry	CEPH	CEU
+GM12865	EUR	12865	female	European Ancestry	CEPH	CEU
+GM12872	EUR	12872	male	European Ancestry	CEPH	CEU
+GM12873	EUR	12873	female	European Ancestry	CEPH	CEU
+GM12874	EUR	12874	male	European Ancestry	CEPH	CEU
+GM12875	EUR	12875	female	European Ancestry	CEPH	CEU
+GM12877	EUR	12877	male	European Ancestry	CEPH	CEU
+GM12878	EUR	12878	female	European Ancestry	CEPH	CEU
+GM12889	EUR	12889	male	European Ancestry	CEPH	CEU
+GM12890	EUR	12890	female	European Ancestry	CEPH	CEU
+GM12891	EUR	12891	male	European Ancestry	CEPH	CEU
+GM12892	EUR	12892	female	European Ancestry	CEPH	CEU
+HG01112	AMR	1112	male	American Ancestry	Colombian	CLM
+HG01113	AMR	1113	female	American Ancestry	Colombian	CLM
+HG01114	AMR	1114	female	American Ancestry	Colombian	CLM
+HG01119	AMR	1119	female	American Ancestry	Colombian	CLM
+HG01121	AMR	1121	male	American Ancestry	Colombian	CLM
+HG01122	AMR	1122	female	American Ancestry	Colombian	CLM
+HG01124	AMR	1124	male	American Ancestry	Colombian	CLM
+HG01125	AMR	1125	female	American Ancestry	Colombian	CLM
+HG01126	AMR	1126	male	American Ancestry	Colombian	CLM
+HG01130	AMR	1130	male	American Ancestry	Colombian	CLM
+HG01131	AMR	1131	female	American Ancestry	Colombian	CLM
+HG01133	AMR	1133	male	American Ancestry	Colombian	CLM
+HG01134	AMR	1134	female	American Ancestry	Colombian	CLM
+HG01135	AMR	1135	male	American Ancestry	Colombian	CLM
+HG01136	AMR	1136	male	American Ancestry	Colombian	CLM
+HG01137	AMR	1137	female	American Ancestry	Colombian	CLM
+HG01138	AMR	1138	male	American Ancestry	Colombian	CLM
+HG01139	AMR	1139	male	American Ancestry	Colombian	CLM
+HG01140	AMR	1140	female	American Ancestry	Colombian	CLM
+HG01141	AMR	1141	female	American Ancestry	Colombian	CLM
+HG01142	AMR	1142	male	American Ancestry	Colombian	CLM
+HG01148	AMR	1148	male	American Ancestry	Colombian	CLM
+HG01149	AMR	1149	female	American Ancestry	Colombian	CLM
+HG01150	AMR	1150	female	American Ancestry	Colombian	CLM
+HG01250	AMR	1250	male	American Ancestry	Colombian	CLM
+HG01251	AMR	1251	female	American Ancestry	Colombian	CLM
+HG01252	AMR	1252	male	American Ancestry	Colombian	CLM
+HG01253	AMR	1253	male	American Ancestry	Colombian	CLM
+HG01254	AMR	1254	female	American Ancestry	Colombian	CLM
+HG01255	AMR	1255	male	American Ancestry	Colombian	CLM
+HG01256	AMR	1256	male	American Ancestry	Colombian	CLM
+HG01257	AMR	1257	female	American Ancestry	Colombian	CLM
+HG01258	AMR	1258	male	American Ancestry	Colombian	CLM
+HG01259	AMR	1259	male	American Ancestry	Colombian	CLM
+HG01260	AMR	1260	female	American Ancestry	Colombian	CLM
+HG01261	AMR	1261	male	American Ancestry	Colombian	CLM
+HG01269	AMR	1269	female	American Ancestry	Colombian	CLM
+HG01271	AMR	1271	male	American Ancestry	Colombian	CLM
+HG01272	AMR	1272	female	American Ancestry	Colombian	CLM
+HG01273	AMR	1273	male	American Ancestry	Colombian	CLM
+HG01274	AMR	1274	male	American Ancestry	Colombian	CLM
+HG01275	AMR	1275	female	American Ancestry	Colombian	CLM
+HG01276	AMR	1276	female	American Ancestry	Colombian	CLM
+HG01277	AMR	1277	male	American Ancestry	Colombian	CLM
+HG01278	AMR	1278	female	American Ancestry	Colombian	CLM
+HG01279	AMR	1279	female	American Ancestry	Colombian	CLM
+HG01280	AMR	1280	male	American Ancestry	Colombian	CLM
+HG01281	AMR	1281	female	American Ancestry	Colombian	CLM
+HG01284	AMR	1284	female	American Ancestry	Colombian	CLM
+HG01341	AMR	1341	male	American Ancestry	Colombian	CLM
+HG01342	AMR	1342	female	American Ancestry	Colombian	CLM
+HG01343	AMR	1343	female	American Ancestry	Colombian	CLM
+HG01344	AMR	1344	male	American Ancestry	Colombian	CLM
+HG01345	AMR	1345	female	American Ancestry	Colombian	CLM
+HG01346	AMR	1346	female	American Ancestry	Colombian	CLM
+HG01347	AMR	1347	male	American Ancestry	Colombian	CLM
+HG01348	AMR	1348	female	American Ancestry	Colombian	CLM
+HG01349	AMR	1349	female	American Ancestry	Colombian	CLM
+HG01350	AMR	1350	male	American Ancestry	Colombian	CLM
+HG01351	AMR	1351	female	American Ancestry	Colombian	CLM
+HG01352	AMR	1352	female	American Ancestry	Colombian	CLM
+HG01353	AMR	1353	male	American Ancestry	Colombian	CLM
+HG01354	AMR	1354	female	American Ancestry	Colombian	CLM
+HG01355	AMR	1355	female	American Ancestry	Colombian	CLM
+HG01356	AMR	1356	male	American Ancestry	Colombian	CLM
+HG01357	AMR	1357	female	American Ancestry	Colombian	CLM
+HG01358	AMR	1358	male	American Ancestry	Colombian	CLM
+HG01359	AMR	1359	male	American Ancestry	Colombian	CLM
+HG01360	AMR	1360	female	American Ancestry	Colombian	CLM
+HG01361	AMR	1361	female	American Ancestry	Colombian	CLM
+HG01362	AMR	1362	male	American Ancestry	Colombian	CLM
+HG01363	AMR	1363	female	American Ancestry	Colombian	CLM
+HG01365	AMR	1365	male	American Ancestry	Colombian	CLM
+HG01366	AMR	1366	female	American Ancestry	Colombian	CLM
+HG01367	AMR	1367	female	American Ancestry	Colombian	CLM
+HG01369	AMR	1369	female	American Ancestry	Colombian	CLM
+HG01372	AMR	1372	female	American Ancestry	Colombian	CLM
+HG01374	AMR	1374	male	American Ancestry	Colombian	CLM
+HG01375	AMR	1375	female	American Ancestry	Colombian	CLM
+HG01376	AMR	1376	female	American Ancestry	Colombian	CLM
+HG01377	AMR	1377	male	American Ancestry	Colombian	CLM
+HG01378	AMR	1378	female	American Ancestry	Colombian	CLM
+HG01379	AMR	1379	female	American Ancestry	Colombian	CLM
+HG01383	AMR	1383	male	American Ancestry	Colombian	CLM
+HG01384	AMR	1384	female	American Ancestry	Colombian	CLM
+HG01385	AMR	1385	female	American Ancestry	Colombian	CLM
+HG01389	AMR	1389	male	American Ancestry	Colombian	CLM
+HG01390	AMR	1390	female	American Ancestry	Colombian	CLM
+HG01391	AMR	1391	female	American Ancestry	Colombian	CLM
+HG01431	AMR	1431	male	American Ancestry	Colombian	CLM
+HG01432	AMR	1432	female	American Ancestry	Colombian	CLM
+HG01433	AMR	1433	male	American Ancestry	Colombian	CLM
+HG01435	AMR	1435	female	American Ancestry	Colombian	CLM
+HG01437	AMR	1437	male	American Ancestry	Colombian	CLM
+HG01438	AMR	1438	female	American Ancestry	Colombian	CLM
+HG01439	AMR	1439	female	American Ancestry	Colombian	CLM
+HG01440	AMR	1440	male	American Ancestry	Colombian	CLM
+HG01441	AMR	1441	female	American Ancestry	Colombian	CLM
+HG01443	AMR	1443	male	American Ancestry	Colombian	CLM
+HG01444	AMR	1444	female	American Ancestry	Colombian	CLM
+HG01447	AMR	1447	female	American Ancestry	Colombian	CLM
+HG01455	AMR	1455	male	American Ancestry	Colombian	CLM
+HG01456	AMR	1456	female	American Ancestry	Colombian	CLM
+HG01457	AMR	1457	male	American Ancestry	Colombian	CLM
+HG01459	AMR	1459	female	American Ancestry	Colombian	CLM
+HG01461	AMR	1461	male	American Ancestry	Colombian	CLM
+HG01462	AMR	1462	female	American Ancestry	Colombian	CLM
+HG01463	AMR	1463	female	American Ancestry	Colombian	CLM
+HG01464	AMR	1464	male	American Ancestry	Colombian	CLM
+HG01465	AMR	1465	female	American Ancestry	Colombian	CLM
+HG01466	AMR	1466	female	American Ancestry	Colombian	CLM
+HG01468	AMR	1468	female	American Ancestry	Colombian	CLM
+HG01474	AMR	1474	female	American Ancestry	Colombian	CLM
+HG01479	AMR	1479	male	American Ancestry	Colombian	CLM
+HG01485	AMR	1485	male	American Ancestry	Colombian	CLM
+HG01486	AMR	1486	female	American Ancestry	Colombian	CLM
+HG01488	AMR	1488	male	American Ancestry	Colombian	CLM
+HG01489	AMR	1489	female	American Ancestry	Colombian	CLM
+HG01490	AMR	1490	female	American Ancestry	Colombian	CLM
+HG01491	AMR	1491	male	American Ancestry	Colombian	CLM
+HG01492	AMR	1492	female	American Ancestry	Colombian	CLM
+HG01493	AMR	1493	female	American Ancestry	Colombian	CLM
+HG01494	AMR	1494	male	American Ancestry	Colombian	CLM
+HG01495	AMR	1495	female	American Ancestry	Colombian	CLM
+HG01496	AMR	1496	female	American Ancestry	Colombian	CLM
+HG01497	AMR	1497	male	American Ancestry	Colombian	CLM
+HG01498	AMR	1498	female	American Ancestry	Colombian	CLM
+HG01499	AMR	1499	male	American Ancestry	Colombian	CLM
+HG01550	AMR	1550	male	American Ancestry	Colombian	CLM
+HG01551	AMR	1551	female	American Ancestry	Colombian	CLM
+HG01552	AMR	1552	male	American Ancestry	Colombian	CLM
+HG01556	AMR	1556	male	American Ancestry	Colombian	CLM
+HG00759	EAS	759	female	East Asian Ancestry	Dai Chinese	CDX
+HG00766	EAS	766	female	East Asian Ancestry	Dai Chinese	CDX
+HG00844	EAS	844	male	East Asian Ancestry	Dai Chinese	CDX
+HG00851	EAS	851	female	East Asian Ancestry	Dai Chinese	CDX
+HG00864	EAS	864	female	East Asian Ancestry	Dai Chinese	CDX
+HG00867	EAS	867	female	East Asian Ancestry	Dai Chinese	CDX
+HG00879	EAS	879	female	East Asian Ancestry	Dai Chinese	CDX
+HG00881	EAS	881	male	East Asian Ancestry	Dai Chinese	CDX
+HG00956	EAS	956	female	East Asian Ancestry	Dai Chinese	CDX
+HG00978	EAS	978	female	East Asian Ancestry	Dai Chinese	CDX
+HG00982	EAS	982	male	East Asian Ancestry	Dai Chinese	CDX
+HG01028	EAS	1028	male	East Asian Ancestry	Dai Chinese	CDX
+HG01029	EAS	1029	female	East Asian Ancestry	Dai Chinese	CDX
+HG01031	EAS	1031	male	East Asian Ancestry	Dai Chinese	CDX
+HG01046	EAS	1046	female	East Asian Ancestry	Dai Chinese	CDX
+HG01794	EAS	1794	female	East Asian Ancestry	Dai Chinese	CDX
+HG01795	EAS	1795	female	East Asian Ancestry	Dai Chinese	CDX
+HG01796	EAS	1796	female	East Asian Ancestry	Dai Chinese	CDX
+HG01797	EAS	1797	female	East Asian Ancestry	Dai Chinese	CDX
+HG01798	EAS	1798	female	East Asian Ancestry	Dai Chinese	CDX
+HG01799	EAS	1799	female	East Asian Ancestry	Dai Chinese	CDX
+HG01800	EAS	1800	female	East Asian Ancestry	Dai Chinese	CDX
+HG01801	EAS	1801	female	East Asian Ancestry	Dai Chinese	CDX
+HG01802	EAS	1802	female	East Asian Ancestry	Dai Chinese	CDX
+HG01804	EAS	1804	female	East Asian Ancestry	Dai Chinese	CDX
+HG01805	EAS	1805	female	East Asian Ancestry	Dai Chinese	CDX
+HG01806	EAS	1806	female	East Asian Ancestry	Dai Chinese	CDX
+HG01807	EAS	1807	female	East Asian Ancestry	Dai Chinese	CDX
+HG01808	EAS	1808	female	East Asian Ancestry	Dai Chinese	CDX
+HG01809	EAS	1809	female	East Asian Ancestry	Dai Chinese	CDX
+HG01810	EAS	1810	male	East Asian Ancestry	Dai Chinese	CDX
+HG01811	EAS	1811	male	East Asian Ancestry	Dai Chinese	CDX
+HG01812	EAS	1812	female	East Asian Ancestry	Dai Chinese	CDX
+HG01813	EAS	1813	female	East Asian Ancestry	Dai Chinese	CDX
+HG01815	EAS	1815	female	East Asian Ancestry	Dai Chinese	CDX
+HG01816	EAS	1816	male	East Asian Ancestry	Dai Chinese	CDX
+HG01817	EAS	1817	female	East Asian Ancestry	Dai Chinese	CDX
+HG02151	EAS	2151	female	East Asian Ancestry	Dai Chinese	CDX
+HG02152	EAS	2152	female	East Asian Ancestry	Dai Chinese	CDX
+HG02153	EAS	2153	female	East Asian Ancestry	Dai Chinese	CDX
+HG02154	EAS	2154	female	East Asian Ancestry	Dai Chinese	CDX
+HG02155	EAS	2155	female	East Asian Ancestry	Dai Chinese	CDX
+HG02156	EAS	2156	female	East Asian Ancestry	Dai Chinese	CDX
+HG02164	EAS	2164	female	East Asian Ancestry	Dai Chinese	CDX
+HG02165	EAS	2165	female	East Asian Ancestry	Dai Chinese	CDX
+HG02166	EAS	2166	female	East Asian Ancestry	Dai Chinese	CDX
+HG02178	EAS	2178	female	East Asian Ancestry	Dai Chinese	CDX
+HG02179	EAS	2179	female	East Asian Ancestry	Dai Chinese	CDX
+HG02180	EAS	2180	female	East Asian Ancestry	Dai Chinese	CDX
+HG02181	EAS	2181	female	East Asian Ancestry	Dai Chinese	CDX
+HG02182	EAS	2182	female	East Asian Ancestry	Dai Chinese	CDX
+HG02184	EAS	2184	female	East Asian Ancestry	Dai Chinese	CDX
+HG02185	EAS	2185	female	East Asian Ancestry	Dai Chinese	CDX
+HG02186	EAS	2186	female	East Asian Ancestry	Dai Chinese	CDX
+HG02187	EAS	2187	female	East Asian Ancestry	Dai Chinese	CDX
+HG02188	EAS	2188	female	East Asian Ancestry	Dai Chinese	CDX
+HG02190	EAS	2190	female	East Asian Ancestry	Dai Chinese	CDX
+HG02250	EAS	2250	male	East Asian Ancestry	Dai Chinese	CDX
+HG02351	EAS	2351	male	East Asian Ancestry	Dai Chinese	CDX
+HG02353	EAS	2353	male	East Asian Ancestry	Dai Chinese	CDX
+HG02355	EAS	2355	male	East Asian Ancestry	Dai Chinese	CDX
+HG02356	EAS	2356	male	East Asian Ancestry	Dai Chinese	CDX
+HG02360	EAS	2360	male	East Asian Ancestry	Dai Chinese	CDX
+HG02364	EAS	2364	male	East Asian Ancestry	Dai Chinese	CDX
+HG02367	EAS	2367	male	East Asian Ancestry	Dai Chinese	CDX
+HG02371	EAS	2371	male	East Asian Ancestry	Dai Chinese	CDX
+HG02373	EAS	2373	male	East Asian Ancestry	Dai Chinese	CDX
+HG02374	EAS	2374	male	East Asian Ancestry	Dai Chinese	CDX
+HG02375	EAS	2375	male	East Asian Ancestry	Dai Chinese	CDX
+HG02379	EAS	2379	male	East Asian Ancestry	Dai Chinese	CDX
+HG02380	EAS	2380	male	East Asian Ancestry	Dai Chinese	CDX
+HG02382	EAS	2382	male	East Asian Ancestry	Dai Chinese	CDX
+HG02383	EAS	2383	male	East Asian Ancestry	Dai Chinese	CDX
+HG02384	EAS	2384	male	East Asian Ancestry	Dai Chinese	CDX
+HG02385	EAS	2385	male	East Asian Ancestry	Dai Chinese	CDX
+HG02386	EAS	2386	male	East Asian Ancestry	Dai Chinese	CDX
+HG02389	EAS	2389	male	East Asian Ancestry	Dai Chinese	CDX
+HG02390	EAS	2390	male	East Asian Ancestry	Dai Chinese	CDX
+HG02391	EAS	2391	male	East Asian Ancestry	Dai Chinese	CDX
+HG02392	EAS	2392	male	East Asian Ancestry	Dai Chinese	CDX
+HG02394	EAS	2394	male	East Asian Ancestry	Dai Chinese	CDX
+HG02395	EAS	2395	male	East Asian Ancestry	Dai Chinese	CDX
+HG02396	EAS	2396	male	East Asian Ancestry	Dai Chinese	CDX
+HG02397	EAS	2397	male	East Asian Ancestry	Dai Chinese	CDX
+HG02398	EAS	2398	male	East Asian Ancestry	Dai Chinese	CDX
+HG02399	EAS	2399	male	East Asian Ancestry	Dai Chinese	CDX
+HG02401	EAS	2401	male	East Asian Ancestry	Dai Chinese	CDX
+HG02402	EAS	2402	male	East Asian Ancestry	Dai Chinese	CDX
+HG02406	EAS	2406	male	East Asian Ancestry	Dai Chinese	CDX
+HG02407	EAS	2407	male	East Asian Ancestry	Dai Chinese	CDX
+HG02408	EAS	2408	male	East Asian Ancestry	Dai Chinese	CDX
+HG02409	EAS	2409	male	East Asian Ancestry	Dai Chinese	CDX
+HG02410	EAS	2410	male	East Asian Ancestry	Dai Chinese	CDX
+HG02922	AFR	2922	female	African Ancestry	Esan	ESN
+HG02923	AFR	2923	male	African Ancestry	Esan	ESN
+HG02924	AFR	2924	male	African Ancestry	Esan	ESN
+HG02938	AFR	2938	male	African Ancestry	Esan	ESN
+HG02941	AFR	2941	male	African Ancestry	Esan	ESN
+HG02944	AFR	2944	male	African Ancestry	Esan	ESN
+HG02945	AFR	2945	female	African Ancestry	Esan	ESN
+HG02946	AFR	2946	female	African Ancestry	Esan	ESN
+HG02947	AFR	2947	male	African Ancestry	Esan	ESN
+HG02948	AFR	2948	male	African Ancestry	Esan	ESN
+HG02952	AFR	2952	female	African Ancestry	Esan	ESN
+HG02953	AFR	2953	male	African Ancestry	Esan	ESN
+HG02954	AFR	2954	male	African Ancestry	Esan	ESN
+HG02964	AFR	2964	female	African Ancestry	Esan	ESN
+HG02965	AFR	2965	male	African Ancestry	Esan	ESN
+HG02966	AFR	2966	male	African Ancestry	Esan	ESN
+HG02968	AFR	2968	male	African Ancestry	Esan	ESN
+HG02970	AFR	2970	female	African Ancestry	Esan	ESN
+HG02971	AFR	2971	male	African Ancestry	Esan	ESN
+HG02972	AFR	2972	male	African Ancestry	Esan	ESN
+HG02973	AFR	2973	male	African Ancestry	Esan	ESN
+HG02974	AFR	2974	female	African Ancestry	Esan	ESN
+HG02975	AFR	2975	male	African Ancestry	Esan	ESN
+HG02976	AFR	2976	female	African Ancestry	Esan	ESN
+HG02977	AFR	2977	male	African Ancestry	Esan	ESN
+HG02978	AFR	2978	female	African Ancestry	Esan	ESN
+HG02979	AFR	2979	female	African Ancestry	Esan	ESN
+HG02980	AFR	2980	male	African Ancestry	Esan	ESN
+HG02981	AFR	2981	male	African Ancestry	Esan	ESN
+HG03099	AFR	3099	female	African Ancestry	Esan	ESN
+HG03101	AFR	3101	male	African Ancestry	Esan	ESN
+HG03103	AFR	3103	male	African Ancestry	Esan	ESN
+HG03105	AFR	3105	female	African Ancestry	Esan	ESN
+HG03108	AFR	3108	female	African Ancestry	Esan	ESN
+HG03109	AFR	3109	male	African Ancestry	Esan	ESN
+HG03110	AFR	3110	female	African Ancestry	Esan	ESN
+HG03111	AFR	3111	female	African Ancestry	Esan	ESN
+HG03112	AFR	3112	male	African Ancestry	Esan	ESN
+HG03113	AFR	3113	female	African Ancestry	Esan	ESN
+HG03114	AFR	3114	female	African Ancestry	Esan	ESN
+HG03115	AFR	3115	male	African Ancestry	Esan	ESN
+HG03116	AFR	3116	female	African Ancestry	Esan	ESN
+HG03117	AFR	3117	female	African Ancestry	Esan	ESN
+HG03118	AFR	3118	male	African Ancestry	Esan	ESN
+HG03119	AFR	3119	female	African Ancestry	Esan	ESN
+HG03120	AFR	3120	male	African Ancestry	Esan	ESN
+HG03121	AFR	3121	female	African Ancestry	Esan	ESN
+HG03122	AFR	3122	male	African Ancestry	Esan	ESN
+HG03123	AFR	3123	female	African Ancestry	Esan	ESN
+HG03124	AFR	3124	male	African Ancestry	Esan	ESN
+HG03125	AFR	3125	female	African Ancestry	Esan	ESN
+HG03126	AFR	3126	female	African Ancestry	Esan	ESN
+HG03127	AFR	3127	male	African Ancestry	Esan	ESN
+HG03128	AFR	3128	male	African Ancestry	Esan	ESN
+HG03129	AFR	3129	female	African Ancestry	Esan	ESN
+HG03130	AFR	3130	male	African Ancestry	Esan	ESN
+HG03131	AFR	3131	male	African Ancestry	Esan	ESN
+HG03132	AFR	3132	female	African Ancestry	Esan	ESN
+HG03133	AFR	3133	male	African Ancestry	Esan	ESN
+HG03134	AFR	3134	male	African Ancestry	Esan	ESN
+HG03135	AFR	3135	female	African Ancestry	Esan	ESN
+HG03136	AFR	3136	male	African Ancestry	Esan	ESN
+HG03137	AFR	3137	male	African Ancestry	Esan	ESN
+HG03139	AFR	3139	male	African Ancestry	Esan	ESN
+HG03157	AFR	3157	male	African Ancestry	Esan	ESN
+HG03159	AFR	3159	female	African Ancestry	Esan	ESN
+HG03160	AFR	3160	male	African Ancestry	Esan	ESN
+HG03161	AFR	3161	male	African Ancestry	Esan	ESN
+HG03162	AFR	3162	female	African Ancestry	Esan	ESN
+HG03163	AFR	3163	male	African Ancestry	Esan	ESN
+HG03164	AFR	3164	female	African Ancestry	Esan	ESN
+HG03166	AFR	3166	male	African Ancestry	Esan	ESN
+HG03168	AFR	3168	female	African Ancestry	Esan	ESN
+HG03169	AFR	3169	male	African Ancestry	Esan	ESN
+HG03170	AFR	3170	male	African Ancestry	Esan	ESN
+HG03171	AFR	3171	female	African Ancestry	Esan	ESN
+HG03172	AFR	3172	male	African Ancestry	Esan	ESN
+HG03175	AFR	3175	male	African Ancestry	Esan	ESN
+HG03176	AFR	3176	male	African Ancestry	Esan	ESN
+HG03189	AFR	3189	female	African Ancestry	Esan	ESN
+HG03190	AFR	3190	male	African Ancestry	Esan	ESN
+HG03191	AFR	3191	male	African Ancestry	Esan	ESN
+HG03193	AFR	3193	male	African Ancestry	Esan	ESN
+HG03195	AFR	3195	female	African Ancestry	Esan	ESN
+HG03196	AFR	3196	male	African Ancestry	Esan	ESN
+HG03197	AFR	3197	male	African Ancestry	Esan	ESN
+HG03198	AFR	3198	female	African Ancestry	Esan	ESN
+HG03199	AFR	3199	male	African Ancestry	Esan	ESN
+HG03200	AFR	3200	female	African Ancestry	Esan	ESN
+HG03202	AFR	3202	male	African Ancestry	Esan	ESN
+HG03265	AFR	3265	male	African Ancestry	Esan	ESN
+HG03267	AFR	3267	female	African Ancestry	Esan	ESN
+HG03268	AFR	3268	male	African Ancestry	Esan	ESN
+HG03269	AFR	3269	male	African Ancestry	Esan	ESN
+HG03270	AFR	3270	female	African Ancestry	Esan	ESN
+HG03271	AFR	3271	male	African Ancestry	Esan	ESN
+HG03272	AFR	3272	female	African Ancestry	Esan	ESN
+HG03279	AFR	3279	female	African Ancestry	Esan	ESN
+HG03280	AFR	3280	male	African Ancestry	Esan	ESN
+HG03291	AFR	3291	female	African Ancestry	Esan	ESN
+HG03294	AFR	3294	female	African Ancestry	Esan	ESN
+HG03295	AFR	3295	male	African Ancestry	Esan	ESN
+HG03296	AFR	3296	male	African Ancestry	Esan	ESN
+HG03297	AFR	3297	female	African Ancestry	Esan	ESN
+HG03298	AFR	3298	male	African Ancestry	Esan	ESN
+HG03299	AFR	3299	male	African Ancestry	Esan	ESN
+HG03300	AFR	3300	female	African Ancestry	Esan	ESN
+HG03301	AFR	3301	male	African Ancestry	Esan	ESN
+HG03302	AFR	3302	male	African Ancestry	Esan	ESN
+HG03303	AFR	3303	female	African Ancestry	Esan	ESN
+HG03304	AFR	3304	male	African Ancestry	Esan	ESN
+HG03305	AFR	3305	female	African Ancestry	Esan	ESN
+HG03306	AFR	3306	female	African Ancestry	Esan	ESN
+HG03307	AFR	3307	male	African Ancestry	Esan	ESN
+HG03308	AFR	3308	male	African Ancestry	Esan	ESN
+HG03309	AFR	3309	female	African Ancestry	Esan	ESN
+HG03310	AFR	3310	female	African Ancestry	Esan	ESN
+HG03311	AFR	3311	male	African Ancestry	Esan	ESN
+HG03312	AFR	3312	female	African Ancestry	Esan	ESN
+HG03313	AFR	3313	male	African Ancestry	Esan	ESN
+HG03314	AFR	3314	male	African Ancestry	Esan	ESN
+HG03342	AFR	3342	female	African Ancestry	Esan	ESN
+HG03343	AFR	3343	male	African Ancestry	Esan	ESN
+HG03344	AFR	3344	male	African Ancestry	Esan	ESN
+HG03350	AFR	3350	male	African Ancestry	Esan	ESN
+HG03351	AFR	3351	female	African Ancestry	Esan	ESN
+HG03352	AFR	3352	male	African Ancestry	Esan	ESN
+HG03354	AFR	3354	female	African Ancestry	Esan	ESN
+HG03363	AFR	3363	female	African Ancestry	Esan	ESN
+HG03366	AFR	3366	female	African Ancestry	Esan	ESN
+HG03367	AFR	3367	male	African Ancestry	Esan	ESN
+HG03368	AFR	3368	male	African Ancestry	Esan	ESN
+HG03369	AFR	3369	female	African Ancestry	Esan	ESN
+HG03370	AFR	3370	male	African Ancestry	Esan	ESN
+HG03371	AFR	3371	male	African Ancestry	Esan	ESN
+HG03372	AFR	3372	female	African Ancestry	Esan	ESN
+HG03373	AFR	3373	male	African Ancestry	Esan	ESN
+HG03374	AFR	3374	female	African Ancestry	Esan	ESN
+HG03493	AFR	3493	female	African Ancestry	Esan	ESN
+HG03499	AFR	3499	female	African Ancestry	Esan	ESN
+HG03511	AFR	3511	female	African Ancestry	Esan	ESN
+HG03514	AFR	3514	female	African Ancestry	Esan	ESN
+HG03515	AFR	3515	male	African Ancestry	Esan	ESN
+HG03516	AFR	3516	female	African Ancestry	Esan	ESN
+HG03517	AFR	3517	female	African Ancestry	Esan	ESN
+HG03518	AFR	3518	male	African Ancestry	Esan	ESN
+HG03519	AFR	3519	male	African Ancestry	Esan	ESN
+HG03520	AFR	3520	female	African Ancestry	Esan	ESN
+HG03521	AFR	3521	male	African Ancestry	Esan	ESN
+HG03522	AFR	3522	female	African Ancestry	Esan	ESN
+HG02943	AFR	2943	female	"African Ancestry,Africa (SGDP)"	"Esan,Esan"	ESN
+HG03100	AFR	3100	male	"African Ancestry,Africa (SGDP)"	"Esan,Esan"	ESN
+HG00171	EUR	171	female	European Ancestry	Finnish	FIN
+HG00173	EUR	173	female	European Ancestry	Finnish	FIN
+HG00176	EUR	176	female	European Ancestry	Finnish	FIN
+HG00177	EUR	177	female	European Ancestry	Finnish	FIN
+HG00178	EUR	178	female	European Ancestry	Finnish	FIN
+HG00179	EUR	179	female	European Ancestry	Finnish	FIN
+HG00180	EUR	180	female	European Ancestry	Finnish	FIN
+HG00181	EUR	181	male	European Ancestry	Finnish	FIN
+HG00182	EUR	182	male	European Ancestry	Finnish	FIN
+HG00183	EUR	183	male	European Ancestry	Finnish	FIN
+HG00185	EUR	185	male	European Ancestry	Finnish	FIN
+HG00186	EUR	186	male	European Ancestry	Finnish	FIN
+HG00187	EUR	187	male	European Ancestry	Finnish	FIN
+HG00188	EUR	188	male	European Ancestry	Finnish	FIN
+HG00189	EUR	189	male	European Ancestry	Finnish	FIN
+HG00266	EUR	266	female	European Ancestry	Finnish	FIN
+HG00267	EUR	267	male	European Ancestry	Finnish	FIN
+HG00268	EUR	268	female	European Ancestry	Finnish	FIN
+HG00269	EUR	269	female	European Ancestry	Finnish	FIN
+HG00271	EUR	271	male	European Ancestry	Finnish	FIN
+HG00272	EUR	272	female	European Ancestry	Finnish	FIN
+HG00273	EUR	273	male	European Ancestry	Finnish	FIN
+HG00274	EUR	274	female	European Ancestry	Finnish	FIN
+HG00275	EUR	275	female	European Ancestry	Finnish	FIN
+HG00276	EUR	276	female	European Ancestry	Finnish	FIN
+HG00277	EUR	277	male	European Ancestry	Finnish	FIN
+HG00278	EUR	278	male	European Ancestry	Finnish	FIN
+HG00280	EUR	280	male	European Ancestry	Finnish	FIN
+HG00281	EUR	281	female	European Ancestry	Finnish	FIN
+HG00282	EUR	282	female	European Ancestry	Finnish	FIN
+HG00284	EUR	284	male	European Ancestry	Finnish	FIN
+HG00285	EUR	285	female	European Ancestry	Finnish	FIN
+HG00288	EUR	288	female	European Ancestry	Finnish	FIN
+HG00290	EUR	290	male	European Ancestry	Finnish	FIN
+HG00304	EUR	304	female	European Ancestry	Finnish	FIN
+HG00306	EUR	306	female	European Ancestry	Finnish	FIN
+HG00308	EUR	308	male	European Ancestry	Finnish	FIN
+HG00309	EUR	309	female	European Ancestry	Finnish	FIN
+HG00310	EUR	310	male	European Ancestry	Finnish	FIN
+HG00311	EUR	311	male	European Ancestry	Finnish	FIN
+HG00313	EUR	313	female	European Ancestry	Finnish	FIN
+HG00315	EUR	315	female	European Ancestry	Finnish	FIN
+HG00318	EUR	318	female	European Ancestry	Finnish	FIN
+HG00319	EUR	319	female	European Ancestry	Finnish	FIN
+HG00320	EUR	320	female	European Ancestry	Finnish	FIN
+HG00321	EUR	321	male	European Ancestry	Finnish	FIN
+HG00323	EUR	323	female	European Ancestry	Finnish	FIN
+HG00324	EUR	324	female	European Ancestry	Finnish	FIN
+HG00325	EUR	325	male	European Ancestry	Finnish	FIN
+HG00326	EUR	326	female	European Ancestry	Finnish	FIN
+HG00327	EUR	327	female	European Ancestry	Finnish	FIN
+HG00328	EUR	328	female	European Ancestry	Finnish	FIN
+HG00329	EUR	329	male	European Ancestry	Finnish	FIN
+HG00330	EUR	330	female	European Ancestry	Finnish	FIN
+HG00331	EUR	331	female	European Ancestry	Finnish	FIN
+HG00332	EUR	332	female	European Ancestry	Finnish	FIN
+HG00334	EUR	334	female	European Ancestry	Finnish	FIN
+HG00335	EUR	335	male	European Ancestry	Finnish	FIN
+HG00336	EUR	336	male	European Ancestry	Finnish	FIN
+HG00337	EUR	337	female	European Ancestry	Finnish	FIN
+HG00338	EUR	338	male	European Ancestry	Finnish	FIN
+HG00339	EUR	339	female	European Ancestry	Finnish	FIN
+HG00341	EUR	341	male	European Ancestry	Finnish	FIN
+HG00342	EUR	342	male	European Ancestry	Finnish	FIN
+HG00343	EUR	343	female	European Ancestry	Finnish	FIN
+HG00344	EUR	344	female	European Ancestry	Finnish	FIN
+HG00345	EUR	345	male	European Ancestry	Finnish	FIN
+HG00346	EUR	346	female	European Ancestry	Finnish	FIN
+HG00349	EUR	349	female	European Ancestry	Finnish	FIN
+HG00350	EUR	350	female	European Ancestry	Finnish	FIN
+HG00351	EUR	351	male	European Ancestry	Finnish	FIN
+HG00353	EUR	353	female	European Ancestry	Finnish	FIN
+HG00355	EUR	355	female	European Ancestry	Finnish	FIN
+HG00356	EUR	356	female	European Ancestry	Finnish	FIN
+HG00357	EUR	357	female	European Ancestry	Finnish	FIN
+HG00358	EUR	358	male	European Ancestry	Finnish	FIN
+HG00361	EUR	361	female	European Ancestry	Finnish	FIN
+HG00362	EUR	362	female	European Ancestry	Finnish	FIN
+HG00364	EUR	364	female	European Ancestry	Finnish	FIN
+HG00365	EUR	365	female	European Ancestry	Finnish	FIN
+HG00366	EUR	366	male	European Ancestry	Finnish	FIN
+HG00367	EUR	367	female	European Ancestry	Finnish	FIN
+HG00368	EUR	368	female	European Ancestry	Finnish	FIN
+HG00369	EUR	369	male	European Ancestry	Finnish	FIN
+HG00371	EUR	371	male	European Ancestry	Finnish	FIN
+HG00372	EUR	372	male	European Ancestry	Finnish	FIN
+HG00373	EUR	373	female	European Ancestry	Finnish	FIN
+HG00375	EUR	375	male	European Ancestry	Finnish	FIN
+HG00376	EUR	376	female	European Ancestry	Finnish	FIN
+HG00378	EUR	378	female	European Ancestry	Finnish	FIN
+HG00379	EUR	379	female	European Ancestry	Finnish	FIN
+HG00380	EUR	380	female	European Ancestry	Finnish	FIN
+HG00381	EUR	381	female	European Ancestry	Finnish	FIN
+HG00382	EUR	382	male	European Ancestry	Finnish	FIN
+HG00383	EUR	383	female	European Ancestry	Finnish	FIN
+HG00384	EUR	384	female	European Ancestry	Finnish	FIN
+HG00174	EUR	174	female	"European Ancestry,West Eurasia (SGDP)"	"Finnish,Finnish"	FIN
+HG00190	EUR	190	male	"European Ancestry,West Eurasia (SGDP)"	"Finnish,Finnish"	FIN
+HG00360	EUR	360	male	"European Ancestry,West Eurasia (SGDP)"	"Finnish,Finnish"	FIN
+HG02461	AFR	2461	male	African Ancestry	Gambian Mandinka	GWD
+HG02462	AFR	2462	female	African Ancestry	Gambian Mandinka	GWD
+HG02463	AFR	2463	male	African Ancestry	Gambian Mandinka	GWD
+HG02465	AFR	2465	female	African Ancestry	Gambian Mandinka	GWD
+HG02466	AFR	2466	male	African Ancestry	Gambian Mandinka	GWD
+HG02561	AFR	2561	male	African Ancestry	Gambian Mandinka	GWD
+HG02562	AFR	2562	female	African Ancestry	Gambian Mandinka	GWD
+HG02563	AFR	2563	male	African Ancestry	Gambian Mandinka	GWD
+HG02568	AFR	2568	female	African Ancestry	Gambian Mandinka	GWD
+HG02569	AFR	2569	male	African Ancestry	Gambian Mandinka	GWD
+HG02570	AFR	2570	male	African Ancestry	Gambian Mandinka	GWD
+HG02571	AFR	2571	female	African Ancestry	Gambian Mandinka	GWD
+HG02572	AFR	2572	male	African Ancestry	Gambian Mandinka	GWD
+HG02573	AFR	2573	male	African Ancestry	Gambian Mandinka	GWD
+HG02575	AFR	2575	male	African Ancestry	Gambian Mandinka	GWD
+HG02582	AFR	2582	male	African Ancestry	Gambian Mandinka	GWD
+HG02583	AFR	2583	female	African Ancestry	Gambian Mandinka	GWD
+HG02584	AFR	2584	male	African Ancestry	Gambian Mandinka	GWD
+HG02585	AFR	2585	male	African Ancestry	Gambian Mandinka	GWD
+HG02586	AFR	2586	female	African Ancestry	Gambian Mandinka	GWD
+HG02587	AFR	2587	female	African Ancestry	Gambian Mandinka	GWD
+HG02588	AFR	2588	male	African Ancestry	Gambian Mandinka	GWD
+HG02589	AFR	2589	female	African Ancestry	Gambian Mandinka	GWD
+HG02590	AFR	2590	male	African Ancestry	Gambian Mandinka	GWD
+HG02594	AFR	2594	male	African Ancestry	Gambian Mandinka	GWD
+HG02595	AFR	2595	female	African Ancestry	Gambian Mandinka	GWD
+HG02596	AFR	2596	male	African Ancestry	Gambian Mandinka	GWD
+HG02610	AFR	2610	male	African Ancestry	Gambian Mandinka	GWD
+HG02611	AFR	2611	female	African Ancestry	Gambian Mandinka	GWD
+HG02612	AFR	2612	male	African Ancestry	Gambian Mandinka	GWD
+HG02613	AFR	2613	male	African Ancestry	Gambian Mandinka	GWD
+HG02614	AFR	2614	female	African Ancestry	Gambian Mandinka	GWD
+HG02615	AFR	2615	female	African Ancestry	Gambian Mandinka	GWD
+HG02620	AFR	2620	male	African Ancestry	Gambian Mandinka	GWD
+HG02621	AFR	2621	female	African Ancestry	Gambian Mandinka	GWD
+HG02622	AFR	2622	female	African Ancestry	Gambian Mandinka	GWD
+HG02623	AFR	2623	male	African Ancestry	Gambian Mandinka	GWD
+HG02624	AFR	2624	female	African Ancestry	Gambian Mandinka	GWD
+HG02625	AFR	2625	male	African Ancestry	Gambian Mandinka	GWD
+HG02628	AFR	2628	male	African Ancestry	Gambian Mandinka	GWD
+HG02629	AFR	2629	female	African Ancestry	Gambian Mandinka	GWD
+HG02630	AFR	2630	female	African Ancestry	Gambian Mandinka	GWD
+HG02634	AFR	2634	male	African Ancestry	Gambian Mandinka	GWD
+HG02635	AFR	2635	female	African Ancestry	Gambian Mandinka	GWD
+HG02636	AFR	2636	male	African Ancestry	Gambian Mandinka	GWD
+HG02642	AFR	2642	male	African Ancestry	Gambian Mandinka	GWD
+HG02643	AFR	2643	female	African Ancestry	Gambian Mandinka	GWD
+HG02644	AFR	2644	male	African Ancestry	Gambian Mandinka	GWD
+HG02645	AFR	2645	male	African Ancestry	Gambian Mandinka	GWD
+HG02646	AFR	2646	female	African Ancestry	Gambian Mandinka	GWD
+HG02647	AFR	2647	male	African Ancestry	Gambian Mandinka	GWD
+HG02666	AFR	2666	male	African Ancestry	Gambian Mandinka	GWD
+HG02667	AFR	2667	female	African Ancestry	Gambian Mandinka	GWD
+HG02668	AFR	2668	male	African Ancestry	Gambian Mandinka	GWD
+HG02675	AFR	2675	male	African Ancestry	Gambian Mandinka	GWD
+HG02676	AFR	2676	female	African Ancestry	Gambian Mandinka	GWD
+HG02677	AFR	2677	female	African Ancestry	Gambian Mandinka	GWD
+HG02678	AFR	2678	male	African Ancestry	Gambian Mandinka	GWD
+HG02679	AFR	2679	female	African Ancestry	Gambian Mandinka	GWD
+HG02680	AFR	2680	female	African Ancestry	Gambian Mandinka	GWD
+HG02702	AFR	2702	male	African Ancestry	Gambian Mandinka	GWD
+HG02703	AFR	2703	female	African Ancestry	Gambian Mandinka	GWD
+HG02704	AFR	2704	female	African Ancestry	Gambian Mandinka	GWD
+HG02715	AFR	2715	male	African Ancestry	Gambian Mandinka	GWD
+HG02716	AFR	2716	female	African Ancestry	Gambian Mandinka	GWD
+HG02717	AFR	2717	male	African Ancestry	Gambian Mandinka	GWD
+HG02721	AFR	2721	male	African Ancestry	Gambian Mandinka	GWD
+HG02722	AFR	2722	female	African Ancestry	Gambian Mandinka	GWD
+HG02723	AFR	2723	female	African Ancestry	Gambian Mandinka	GWD
+HG02756	AFR	2756	male	African Ancestry	Gambian Mandinka	GWD
+HG02757	AFR	2757	female	African Ancestry	Gambian Mandinka	GWD
+HG02759	AFR	2759	male	African Ancestry	Gambian Mandinka	GWD
+HG02760	AFR	2760	female	African Ancestry	Gambian Mandinka	GWD
+HG02761	AFR	2761	female	African Ancestry	Gambian Mandinka	GWD
+HG02762	AFR	2762	male	African Ancestry	Gambian Mandinka	GWD
+HG02763	AFR	2763	female	African Ancestry	Gambian Mandinka	GWD
+HG02764	AFR	2764	male	African Ancestry	Gambian Mandinka	GWD
+HG02768	AFR	2768	male	African Ancestry	Gambian Mandinka	GWD
+HG02769	AFR	2769	female	African Ancestry	Gambian Mandinka	GWD
+HG02770	AFR	2770	female	African Ancestry	Gambian Mandinka	GWD
+HG02771	AFR	2771	male	African Ancestry	Gambian Mandinka	GWD
+HG02772	AFR	2772	female	African Ancestry	Gambian Mandinka	GWD
+HG02773	AFR	2773	male	African Ancestry	Gambian Mandinka	GWD
+HG02798	AFR	2798	male	African Ancestry	Gambian Mandinka	GWD
+HG02799	AFR	2799	female	African Ancestry	Gambian Mandinka	GWD
+HG02800	AFR	2800	male	African Ancestry	Gambian Mandinka	GWD
+HG02804	AFR	2804	male	African Ancestry	Gambian Mandinka	GWD
+HG02805	AFR	2805	female	African Ancestry	Gambian Mandinka	GWD
+HG02806	AFR	2806	female	African Ancestry	Gambian Mandinka	GWD
+HG02807	AFR	2807	male	African Ancestry	Gambian Mandinka	GWD
+HG02808	AFR	2808	female	African Ancestry	Gambian Mandinka	GWD
+HG02809	AFR	2809	female	African Ancestry	Gambian Mandinka	GWD
+HG02810	AFR	2810	male	African Ancestry	Gambian Mandinka	GWD
+HG02811	AFR	2811	female	African Ancestry	Gambian Mandinka	GWD
+HG02812	AFR	2812	male	African Ancestry	Gambian Mandinka	GWD
+HG02813	AFR	2813	male	African Ancestry	Gambian Mandinka	GWD
+HG02814	AFR	2814	female	African Ancestry	Gambian Mandinka	GWD
+HG02815	AFR	2815	male	African Ancestry	Gambian Mandinka	GWD
+HG02816	AFR	2816	male	African Ancestry	Gambian Mandinka	GWD
+HG02817	AFR	2817	female	African Ancestry	Gambian Mandinka	GWD
+HG02818	AFR	2818	female	African Ancestry	Gambian Mandinka	GWD
+HG02819	AFR	2819	male	African Ancestry	Gambian Mandinka	GWD
+HG02820	AFR	2820	female	African Ancestry	Gambian Mandinka	GWD
+HG02821	AFR	2821	male	African Ancestry	Gambian Mandinka	GWD
+HG02836	AFR	2836	male	African Ancestry	Gambian Mandinka	GWD
+HG02837	AFR	2837	female	African Ancestry	Gambian Mandinka	GWD
+HG02838	AFR	2838	male	African Ancestry	Gambian Mandinka	GWD
+HG02839	AFR	2839	male	African Ancestry	Gambian Mandinka	GWD
+HG02840	AFR	2840	female	African Ancestry	Gambian Mandinka	GWD
+HG02841	AFR	2841	female	African Ancestry	Gambian Mandinka	GWD
+HG02851	AFR	2851	male	African Ancestry	Gambian Mandinka	GWD
+HG02852	AFR	2852	female	African Ancestry	Gambian Mandinka	GWD
+HG02853	AFR	2853	male	African Ancestry	Gambian Mandinka	GWD
+HG02854	AFR	2854	male	African Ancestry	Gambian Mandinka	GWD
+HG02855	AFR	2855	female	African Ancestry	Gambian Mandinka	GWD
+HG02856	AFR	2856	male	African Ancestry	Gambian Mandinka	GWD
+HG02860	AFR	2860	male	African Ancestry	Gambian Mandinka	GWD
+HG02861	AFR	2861	female	African Ancestry	Gambian Mandinka	GWD
+HG02862	AFR	2862	female	African Ancestry	Gambian Mandinka	GWD
+HG02869	AFR	2869	male	African Ancestry	Gambian Mandinka	GWD
+HG02870	AFR	2870	female	African Ancestry	Gambian Mandinka	GWD
+HG02871	AFR	2871	female	African Ancestry	Gambian Mandinka	GWD
+HG02878	AFR	2878	male	African Ancestry	Gambian Mandinka	GWD
+HG02879	AFR	2879	female	African Ancestry	Gambian Mandinka	GWD
+HG02880	AFR	2880	female	African Ancestry	Gambian Mandinka	GWD
+HG02881	AFR	2881	male	African Ancestry	Gambian Mandinka	GWD
+HG02882	AFR	2882	female	African Ancestry	Gambian Mandinka	GWD
+HG02883	AFR	2883	male	African Ancestry	Gambian Mandinka	GWD
+HG02884	AFR	2884	male	African Ancestry	Gambian Mandinka	GWD
+HG02885	AFR	2885	female	African Ancestry	Gambian Mandinka	GWD
+HG02886	AFR	2886	female	African Ancestry	Gambian Mandinka	GWD
+HG02887	AFR	2887	male	African Ancestry	Gambian Mandinka	GWD
+HG02888	AFR	2888	female	African Ancestry	Gambian Mandinka	GWD
+HG02889	AFR	2889	female	African Ancestry	Gambian Mandinka	GWD
+HG02890	AFR	2890	male	African Ancestry	Gambian Mandinka	GWD
+HG02891	AFR	2891	female	African Ancestry	Gambian Mandinka	GWD
+HG02892	AFR	2892	male	African Ancestry	Gambian Mandinka	GWD
+HG02895	AFR	2895	male	African Ancestry	Gambian Mandinka	GWD
+HG02896	AFR	2896	female	African Ancestry	Gambian Mandinka	GWD
+HG02897	AFR	2897	female	African Ancestry	Gambian Mandinka	GWD
+HG02982	AFR	2982	male	African Ancestry	Gambian Mandinka	GWD
+HG02983	AFR	2983	female	African Ancestry	Gambian Mandinka	GWD
+HG02984	AFR	2984	male	African Ancestry	Gambian Mandinka	GWD
+HG03024	AFR	3024	male	African Ancestry	Gambian Mandinka	GWD
+HG03025	AFR	3025	female	African Ancestry	Gambian Mandinka	GWD
+HG03026	AFR	3026	female	African Ancestry	Gambian Mandinka	GWD
+HG03027	AFR	3027	male	African Ancestry	Gambian Mandinka	GWD
+HG03028	AFR	3028	female	African Ancestry	Gambian Mandinka	GWD
+HG03029	AFR	3029	male	African Ancestry	Gambian Mandinka	GWD
+HG03033	AFR	3033	male	African Ancestry	Gambian Mandinka	GWD
+HG03034	AFR	3034	female	African Ancestry	Gambian Mandinka	GWD
+HG03035	AFR	3035	male	African Ancestry	Gambian Mandinka	GWD
+HG03039	AFR	3039	male	African Ancestry	Gambian Mandinka	GWD
+HG03040	AFR	3040	female	African Ancestry	Gambian Mandinka	GWD
+HG03041	AFR	3041	female	African Ancestry	Gambian Mandinka	GWD
+HG03045	AFR	3045	male	African Ancestry	Gambian Mandinka	GWD
+HG03046	AFR	3046	female	African Ancestry	Gambian Mandinka	GWD
+HG03047	AFR	3047	female	African Ancestry	Gambian Mandinka	GWD
+HG03048	AFR	3048	male	African Ancestry	Gambian Mandinka	GWD
+HG03049	AFR	3049	female	African Ancestry	Gambian Mandinka	GWD
+HG03050	AFR	3050	male	African Ancestry	Gambian Mandinka	GWD
+HG03240	AFR	3240	male	African Ancestry	Gambian Mandinka	GWD
+HG03241	AFR	3241	female	African Ancestry	Gambian Mandinka	GWD
+HG03242	AFR	3242	male	African Ancestry	Gambian Mandinka	GWD
+HG03246	AFR	3246	male	African Ancestry	Gambian Mandinka	GWD
+HG03247	AFR	3247	female	African Ancestry	Gambian Mandinka	GWD
+HG03248	AFR	3248	male	African Ancestry	Gambian Mandinka	GWD
+HG03249	AFR	3249	male	African Ancestry	Gambian Mandinka	GWD
+HG03250	AFR	3250	female	African Ancestry	Gambian Mandinka	GWD
+HG03251	AFR	3251	female	African Ancestry	Gambian Mandinka	GWD
+HG03258	AFR	3258	male	African Ancestry	Gambian Mandinka	GWD
+HG03259	AFR	3259	female	African Ancestry	Gambian Mandinka	GWD
+HG03260	AFR	3260	male	African Ancestry	Gambian Mandinka	GWD
+HG03538	AFR	3538	male	African Ancestry	Gambian Mandinka	GWD
+HG03539	AFR	3539	female	African Ancestry	Gambian Mandinka	GWD
+HG03540	AFR	3540	female	African Ancestry	Gambian Mandinka	GWD
+HG02464	AFR	2464	male	"African Ancestry,Africa (SGDP)"	"Gambian Mandinka,Gambian"	GWD
+HG02574	AFR	2574	female	"African Ancestry,Africa (SGDP)"	"Gambian Mandinka,Gambian"	GWD
+GM20845	SAS	20845	male	South Asian Ancestry	Gujarati	GIH
+GM20846	SAS	20846	male	South Asian Ancestry	Gujarati	GIH
+GM20847	SAS	20847	female	South Asian Ancestry	Gujarati	GIH
+GM20849	SAS	20849	female	South Asian Ancestry	Gujarati	GIH
+GM20850	SAS	20850	male	South Asian Ancestry	Gujarati	GIH
+GM20851	SAS	20851	female	South Asian Ancestry	Gujarati	GIH
+GM20852	SAS	20852	male	South Asian Ancestry	Gujarati	GIH
+GM20853	SAS	20853	female	South Asian Ancestry	Gujarati	GIH
+GM20854	SAS	20854	female	South Asian Ancestry	Gujarati	GIH
+GM20856	SAS	20856	female	South Asian Ancestry	Gujarati	GIH
+GM20858	SAS	20858	male	South Asian Ancestry	Gujarati	GIH
+GM20859	SAS	20859	female	South Asian Ancestry	Gujarati	GIH
+GM20861	SAS	20861	male	South Asian Ancestry	Gujarati	GIH
+GM20862	SAS	20862	female	South Asian Ancestry	Gujarati	GIH
+GM20863	SAS	20863	male	South Asian Ancestry	Gujarati	GIH
+GM20864	SAS	20864	male	South Asian Ancestry	Gujarati	GIH
+GM20866	SAS	20866	male	South Asian Ancestry	Gujarati	GIH
+GM20867	SAS	20867	male	South Asian Ancestry	Gujarati	GIH
+GM20868	SAS	20868	female	South Asian Ancestry	Gujarati	GIH
+GM20869	SAS	20869	female	South Asian Ancestry	Gujarati	GIH
+GM20870	SAS	20870	male	South Asian Ancestry	Gujarati	GIH
+GM20872	SAS	20872	female	South Asian Ancestry	Gujarati	GIH
+GM20874	SAS	20874	female	South Asian Ancestry	Gujarati	GIH
+GM20875	SAS	20875	female	South Asian Ancestry	Gujarati	GIH
+GM20876	SAS	20876	female	South Asian Ancestry	Gujarati	GIH
+GM20877	SAS	20877	female	South Asian Ancestry	Gujarati	GIH
+GM20878	SAS	20878	female	South Asian Ancestry	Gujarati	GIH
+GM20881	SAS	20881	female	South Asian Ancestry	Gujarati	GIH
+GM20882	SAS	20882	female	South Asian Ancestry	Gujarati	GIH
+GM20884	SAS	20884	male	South Asian Ancestry	Gujarati	GIH
+GM20885	SAS	20885	male	South Asian Ancestry	Gujarati	GIH
+GM20886	SAS	20886	female	South Asian Ancestry	Gujarati	GIH
+GM20887	SAS	20887	male	South Asian Ancestry	Gujarati	GIH
+GM20888	SAS	20888	female	South Asian Ancestry	Gujarati	GIH
+GM20889	SAS	20889	male	South Asian Ancestry	Gujarati	GIH
+GM20890	SAS	20890	male	South Asian Ancestry	Gujarati	GIH
+GM20891	SAS	20891	male	South Asian Ancestry	Gujarati	GIH
+GM20892	SAS	20892	female	South Asian Ancestry	Gujarati	GIH
+GM20894	SAS	20894	female	South Asian Ancestry	Gujarati	GIH
+GM20895	SAS	20895	male	South Asian Ancestry	Gujarati	GIH
+GM20896	SAS	20896	female	South Asian Ancestry	Gujarati	GIH
+GM20897	SAS	20897	male	South Asian Ancestry	Gujarati	GIH
+GM20899	SAS	20899	female	South Asian Ancestry	Gujarati	GIH
+GM20900	SAS	20900	female	South Asian Ancestry	Gujarati	GIH
+GM20901	SAS	20901	male	South Asian Ancestry	Gujarati	GIH
+GM20902	SAS	20902	female	South Asian Ancestry	Gujarati	GIH
+GM20903	SAS	20903	male	South Asian Ancestry	Gujarati	GIH
+GM20904	SAS	20904	male	South Asian Ancestry	Gujarati	GIH
+GM20905	SAS	20905	male	South Asian Ancestry	Gujarati	GIH
+GM20906	SAS	20906	female	South Asian Ancestry	Gujarati	GIH
+GM20908	SAS	20908	female	South Asian Ancestry	Gujarati	GIH
+GM20910	SAS	20910	female	South Asian Ancestry	Gujarati	GIH
+GM20911	SAS	20911	male	South Asian Ancestry	Gujarati	GIH
+GM21086	SAS	21086	female	South Asian Ancestry	Gujarati	GIH
+GM21087	SAS	21087	male	South Asian Ancestry	Gujarati	GIH
+GM21088	SAS	21088	female	South Asian Ancestry	Gujarati	GIH
+GM21089	SAS	21089	female	South Asian Ancestry	Gujarati	GIH
+GM21090	SAS	21090	male	South Asian Ancestry	Gujarati	GIH
+GM21091	SAS	21091	male	South Asian Ancestry	Gujarati	GIH
+GM21092	SAS	21092	male	South Asian Ancestry	Gujarati	GIH
+GM21093	SAS	21093	male	South Asian Ancestry	Gujarati	GIH
+GM21094	SAS	21094	male	South Asian Ancestry	Gujarati	GIH
+GM21095	SAS	21095	male	South Asian Ancestry	Gujarati	GIH
+GM21097	SAS	21097	female	South Asian Ancestry	Gujarati	GIH
+GM21098	SAS	21098	male	South Asian Ancestry	Gujarati	GIH
+GM21099	SAS	21099	male	South Asian Ancestry	Gujarati	GIH
+GM21100	SAS	21100	male	South Asian Ancestry	Gujarati	GIH
+GM21101	SAS	21101	female	South Asian Ancestry	Gujarati	GIH
+GM21102	SAS	21102	female	South Asian Ancestry	Gujarati	GIH
+GM21103	SAS	21103	female	South Asian Ancestry	Gujarati	GIH
+GM21104	SAS	21104	male	South Asian Ancestry	Gujarati	GIH
+GM21105	SAS	21105	male	South Asian Ancestry	Gujarati	GIH
+GM21106	SAS	21106	female	South Asian Ancestry	Gujarati	GIH
+GM21107	SAS	21107	male	South Asian Ancestry	Gujarati	GIH
+GM21108	SAS	21108	female	South Asian Ancestry	Gujarati	GIH
+GM21109	SAS	21109	male	South Asian Ancestry	Gujarati	GIH
+GM21110	SAS	21110	female	South Asian Ancestry	Gujarati	GIH
+GM21111	SAS	21111	male	South Asian Ancestry	Gujarati	GIH
+GM21112	SAS	21112	male	South Asian Ancestry	Gujarati	GIH
+GM21113	SAS	21113	male	South Asian Ancestry	Gujarati	GIH
+GM21114	SAS	21114	male	South Asian Ancestry	Gujarati	GIH
+GM21115	SAS	21115	male	South Asian Ancestry	Gujarati	GIH
+GM21116	SAS	21116	male	South Asian Ancestry	Gujarati	GIH
+GM21117	SAS	21117	male	South Asian Ancestry	Gujarati	GIH
+GM21118	SAS	21118	male	South Asian Ancestry	Gujarati	GIH
+GM21119	SAS	21119	male	South Asian Ancestry	Gujarati	GIH
+GM21120	SAS	21120	female	South Asian Ancestry	Gujarati	GIH
+GM21122	SAS	21122	female	South Asian Ancestry	Gujarati	GIH
+GM21123	SAS	21123	male	South Asian Ancestry	Gujarati	GIH
+GM21124	SAS	21124	male	South Asian Ancestry	Gujarati	GIH
+GM21125	SAS	21125	female	South Asian Ancestry	Gujarati	GIH
+GM21126	SAS	21126	male	South Asian Ancestry	Gujarati	GIH
+GM21127	SAS	21127	male	South Asian Ancestry	Gujarati	GIH
+GM21128	SAS	21128	male	South Asian Ancestry	Gujarati	GIH
+GM21129	SAS	21129	male	South Asian Ancestry	Gujarati	GIH
+GM21130	SAS	21130	male	South Asian Ancestry	Gujarati	GIH
+GM21133	SAS	21133	male	South Asian Ancestry	Gujarati	GIH
+GM21135	SAS	21135	male	South Asian Ancestry	Gujarati	GIH
+GM21137	SAS	21137	female	South Asian Ancestry	Gujarati	GIH
+GM21141	SAS	21141	female	South Asian Ancestry	Gujarati	GIH
+GM21142	SAS	21142	female	South Asian Ancestry	Gujarati	GIH
+GM21143	SAS	21143	female	South Asian Ancestry	Gujarati	GIH
+GM21144	SAS	21144	female	South Asian Ancestry	Gujarati	GIH
+GM18525	EAS	18525	female	East Asian Ancestry	Han Chinese	CHB
+GM18526	EAS	18526	female	East Asian Ancestry	Han Chinese	CHB
+GM18528	EAS	18528	female	East Asian Ancestry	Han Chinese	CHB
+GM18530	EAS	18530	male	East Asian Ancestry	Han Chinese	CHB
+GM18531	EAS	18531	female	East Asian Ancestry	Han Chinese	CHB
+GM18532	EAS	18532	female	East Asian Ancestry	Han Chinese	CHB
+GM18533	EAS	18533	female	East Asian Ancestry	Han Chinese	CHB
+GM18534	EAS	18534	male	East Asian Ancestry	Han Chinese	CHB
+GM18535	EAS	18535	female	East Asian Ancestry	Han Chinese	CHB
+GM18536	EAS	18536	male	East Asian Ancestry	Han Chinese	CHB
+GM18537	EAS	18537	female	East Asian Ancestry	Han Chinese	CHB
+GM18538	EAS	18538	female	East Asian Ancestry	Han Chinese	CHB
+GM18539	EAS	18539	female	East Asian Ancestry	Han Chinese	CHB
+GM18541	EAS	18541	female	East Asian Ancestry	Han Chinese	CHB
+GM18542	EAS	18542	female	East Asian Ancestry	Han Chinese	CHB
+GM18543	EAS	18543	male	East Asian Ancestry	Han Chinese	CHB
+GM18544	EAS	18544	male	East Asian Ancestry	Han Chinese	CHB
+GM18545	EAS	18545	female	East Asian Ancestry	Han Chinese	CHB
+GM18546	EAS	18546	male	East Asian Ancestry	Han Chinese	CHB
+GM18547	EAS	18547	female	East Asian Ancestry	Han Chinese	CHB
+GM18548	EAS	18548	male	East Asian Ancestry	Han Chinese	CHB
+GM18549	EAS	18549	male	East Asian Ancestry	Han Chinese	CHB
+GM18550	EAS	18550	female	East Asian Ancestry	Han Chinese	CHB
+GM18552	EAS	18552	female	East Asian Ancestry	Han Chinese	CHB
+GM18553	EAS	18553	female	East Asian Ancestry	Han Chinese	CHB
+GM18555	EAS	18555	female	East Asian Ancestry	Han Chinese	CHB
+GM18557	EAS	18557	male	East Asian Ancestry	Han Chinese	CHB
+GM18558	EAS	18558	male	East Asian Ancestry	Han Chinese	CHB
+GM18559	EAS	18559	male	East Asian Ancestry	Han Chinese	CHB
+GM18560	EAS	18560	female	East Asian Ancestry	Han Chinese	CHB
+GM18561	EAS	18561	male	East Asian Ancestry	Han Chinese	CHB
+GM18562	EAS	18562	male	East Asian Ancestry	Han Chinese	CHB
+GM18563	EAS	18563	male	East Asian Ancestry	Han Chinese	CHB
+GM18564	EAS	18564	female	East Asian Ancestry	Han Chinese	CHB
+GM18565	EAS	18565	female	East Asian Ancestry	Han Chinese	CHB
+GM18566	EAS	18566	female	East Asian Ancestry	Han Chinese	CHB
+GM18567	EAS	18567	female	East Asian Ancestry	Han Chinese	CHB
+GM18570	EAS	18570	female	East Asian Ancestry	Han Chinese	CHB
+GM18571	EAS	18571	female	East Asian Ancestry	Han Chinese	CHB
+GM18572	EAS	18572	male	East Asian Ancestry	Han Chinese	CHB
+GM18573	EAS	18573	female	East Asian Ancestry	Han Chinese	CHB
+GM18574	EAS	18574	female	East Asian Ancestry	Han Chinese	CHB
+GM18577	EAS	18577	female	East Asian Ancestry	Han Chinese	CHB
+GM18579	EAS	18579	female	East Asian Ancestry	Han Chinese	CHB
+GM18582	EAS	18582	female	East Asian Ancestry	Han Chinese	CHB
+GM18591	EAS	18591	female	East Asian Ancestry	Han Chinese	CHB
+GM18592	EAS	18592	female	East Asian Ancestry	Han Chinese	CHB
+GM18593	EAS	18593	female	East Asian Ancestry	Han Chinese	CHB
+GM18595	EAS	18595	female	East Asian Ancestry	Han Chinese	CHB
+GM18596	EAS	18596	female	East Asian Ancestry	Han Chinese	CHB
+GM18597	EAS	18597	female	East Asian Ancestry	Han Chinese	CHB
+GM18599	EAS	18599	female	East Asian Ancestry	Han Chinese	CHB
+GM18602	EAS	18602	female	East Asian Ancestry	Han Chinese	CHB
+GM18603	EAS	18603	male	East Asian Ancestry	Han Chinese	CHB
+GM18605	EAS	18605	male	East Asian Ancestry	Han Chinese	CHB
+GM18606	EAS	18606	male	East Asian Ancestry	Han Chinese	CHB
+GM18608	EAS	18608	male	East Asian Ancestry	Han Chinese	CHB
+GM18609	EAS	18609	male	East Asian Ancestry	Han Chinese	CHB
+GM18610	EAS	18610	female	East Asian Ancestry	Han Chinese	CHB
+GM18611	EAS	18611	male	East Asian Ancestry	Han Chinese	CHB
+GM18612	EAS	18612	male	East Asian Ancestry	Han Chinese	CHB
+GM18613	EAS	18613	male	East Asian Ancestry	Han Chinese	CHB
+GM18614	EAS	18614	female	East Asian Ancestry	Han Chinese	CHB
+GM18615	EAS	18615	female	East Asian Ancestry	Han Chinese	CHB
+GM18616	EAS	18616	female	East Asian Ancestry	Han Chinese	CHB
+GM18617	EAS	18617	female	East Asian Ancestry	Han Chinese	CHB
+GM18618	EAS	18618	female	East Asian Ancestry	Han Chinese	CHB
+GM18619	EAS	18619	female	East Asian Ancestry	Han Chinese	CHB
+GM18620	EAS	18620	male	East Asian Ancestry	Han Chinese	CHB
+GM18621	EAS	18621	male	East Asian Ancestry	Han Chinese	CHB
+GM18622	EAS	18622	male	East Asian Ancestry	Han Chinese	CHB
+GM18623	EAS	18623	male	East Asian Ancestry	Han Chinese	CHB
+GM18624	EAS	18624	male	East Asian Ancestry	Han Chinese	CHB
+GM18625	EAS	18625	female	East Asian Ancestry	Han Chinese	CHB
+GM18626	EAS	18626	female	East Asian Ancestry	Han Chinese	CHB
+GM18627	EAS	18627	female	East Asian Ancestry	Han Chinese	CHB
+GM18628	EAS	18628	female	East Asian Ancestry	Han Chinese	CHB
+GM18629	EAS	18629	male	East Asian Ancestry	Han Chinese	CHB
+GM18630	EAS	18630	female	East Asian Ancestry	Han Chinese	CHB
+GM18631	EAS	18631	female	East Asian Ancestry	Han Chinese	CHB
+GM18632	EAS	18632	male	East Asian Ancestry	Han Chinese	CHB
+GM18633	EAS	18633	male	East Asian Ancestry	Han Chinese	CHB
+GM18634	EAS	18634	female	East Asian Ancestry	Han Chinese	CHB
+GM18635	EAS	18635	male	East Asian Ancestry	Han Chinese	CHB
+GM18636	EAS	18636	male	East Asian Ancestry	Han Chinese	CHB
+GM18637	EAS	18637	male	East Asian Ancestry	Han Chinese	CHB
+GM18638	EAS	18638	male	East Asian Ancestry	Han Chinese	CHB
+GM18639	EAS	18639	male	East Asian Ancestry	Han Chinese	CHB
+GM18640	EAS	18640	female	East Asian Ancestry	Han Chinese	CHB
+GM18641	EAS	18641	female	East Asian Ancestry	Han Chinese	CHB
+GM18642	EAS	18642	female	East Asian Ancestry	Han Chinese	CHB
+GM18643	EAS	18643	male	East Asian Ancestry	Han Chinese	CHB
+GM18644	EAS	18644	female	East Asian Ancestry	Han Chinese	CHB
+GM18645	EAS	18645	male	East Asian Ancestry	Han Chinese	CHB
+GM18646	EAS	18646	female	East Asian Ancestry	Han Chinese	CHB
+GM18647	EAS	18647	male	East Asian Ancestry	Han Chinese	CHB
+GM18648	EAS	18648	male	East Asian Ancestry	Han Chinese	CHB
+GM18740	EAS	18740	male	East Asian Ancestry	Han Chinese	CHB
+GM18745	EAS	18745	male	East Asian Ancestry	Han Chinese	CHB
+GM18747	EAS	18747	male	East Asian Ancestry	Han Chinese	CHB
+GM18748	EAS	18748	male	East Asian Ancestry	Han Chinese	CHB
+GM18749	EAS	18749	male	East Asian Ancestry	Han Chinese	CHB
+GM18757	EAS	18757	male	East Asian Ancestry	Han Chinese	CHB
+HG01500	EUR	1500	male	European Ancestry	Iberian	IBS
+HG01501	EUR	1501	female	European Ancestry	Iberian	IBS
+HG01502	EUR	1502	male	European Ancestry	Iberian	IBS
+HG01505	EUR	1505	male	European Ancestry	Iberian	IBS
+HG01506	EUR	1506	male	European Ancestry	Iberian	IBS
+HG01507	EUR	1507	female	European Ancestry	Iberian	IBS
+HG01508	EUR	1508	male	European Ancestry	Iberian	IBS
+HG01509	EUR	1509	male	European Ancestry	Iberian	IBS
+HG01510	EUR	1510	female	European Ancestry	Iberian	IBS
+HG01511	EUR	1511	female	European Ancestry	Iberian	IBS
+HG01512	EUR	1512	male	European Ancestry	Iberian	IBS
+HG01513	EUR	1513	female	European Ancestry	Iberian	IBS
+HG01514	EUR	1514	female	European Ancestry	Iberian	IBS
+HG01515	EUR	1515	male	European Ancestry	Iberian	IBS
+HG01516	EUR	1516	female	European Ancestry	Iberian	IBS
+HG01517	EUR	1517	female	European Ancestry	Iberian	IBS
+HG01518	EUR	1518	male	European Ancestry	Iberian	IBS
+HG01519	EUR	1519	female	European Ancestry	Iberian	IBS
+HG01520	EUR	1520	female	European Ancestry	Iberian	IBS
+HG01521	EUR	1521	male	European Ancestry	Iberian	IBS
+HG01522	EUR	1522	female	European Ancestry	Iberian	IBS
+HG01523	EUR	1523	male	European Ancestry	Iberian	IBS
+HG01524	EUR	1524	male	European Ancestry	Iberian	IBS
+HG01525	EUR	1525	female	European Ancestry	Iberian	IBS
+HG01526	EUR	1526	male	European Ancestry	Iberian	IBS
+HG01527	EUR	1527	male	European Ancestry	Iberian	IBS
+HG01528	EUR	1528	female	European Ancestry	Iberian	IBS
+HG01529	EUR	1529	male	European Ancestry	Iberian	IBS
+HG01530	EUR	1530	male	European Ancestry	Iberian	IBS
+HG01531	EUR	1531	female	European Ancestry	Iberian	IBS
+HG01532	EUR	1532	male	European Ancestry	Iberian	IBS
+HG01536	EUR	1536	male	European Ancestry	Iberian	IBS
+HG01537	EUR	1537	female	European Ancestry	Iberian	IBS
+HG01538	EUR	1538	female	European Ancestry	Iberian	IBS
+HG01601	EUR	1601	male	European Ancestry	Iberian	IBS
+HG01602	EUR	1602	female	European Ancestry	Iberian	IBS
+HG01603	EUR	1603	male	European Ancestry	Iberian	IBS
+HG01604	EUR	1604	female	European Ancestry	Iberian	IBS
+HG01605	EUR	1605	female	European Ancestry	Iberian	IBS
+HG01606	EUR	1606	male	European Ancestry	Iberian	IBS
+HG01607	EUR	1607	female	European Ancestry	Iberian	IBS
+HG01608	EUR	1608	male	European Ancestry	Iberian	IBS
+HG01609	EUR	1609	male	European Ancestry	Iberian	IBS
+HG01610	EUR	1610	male	European Ancestry	Iberian	IBS
+HG01611	EUR	1611	male	European Ancestry	Iberian	IBS
+HG01612	EUR	1612	female	European Ancestry	Iberian	IBS
+HG01613	EUR	1613	female	European Ancestry	Iberian	IBS
+HG01614	EUR	1614	female	European Ancestry	Iberian	IBS
+HG01615	EUR	1615	male	European Ancestry	Iberian	IBS
+HG01616	EUR	1616	female	European Ancestry	Iberian	IBS
+HG01617	EUR	1617	male	European Ancestry	Iberian	IBS
+HG01618	EUR	1618	female	European Ancestry	Iberian	IBS
+HG01619	EUR	1619	male	European Ancestry	Iberian	IBS
+HG01620	EUR	1620	female	European Ancestry	Iberian	IBS
+HG01621	EUR	1621	male	European Ancestry	Iberian	IBS
+HG01622	EUR	1622	female	European Ancestry	Iberian	IBS
+HG01623	EUR	1623	female	European Ancestry	Iberian	IBS
+HG01624	EUR	1624	male	European Ancestry	Iberian	IBS
+HG01625	EUR	1625	male	European Ancestry	Iberian	IBS
+HG01626	EUR	1626	female	European Ancestry	Iberian	IBS
+HG01627	EUR	1627	male	European Ancestry	Iberian	IBS
+HG01628	EUR	1628	female	European Ancestry	Iberian	IBS
+HG01629	EUR	1629	male	European Ancestry	Iberian	IBS
+HG01630	EUR	1630	male	European Ancestry	Iberian	IBS
+HG01631	EUR	1631	male	European Ancestry	Iberian	IBS
+HG01632	EUR	1632	female	European Ancestry	Iberian	IBS
+HG01633	EUR	1633	male	European Ancestry	Iberian	IBS
+HG01667	EUR	1667	male	European Ancestry	Iberian	IBS
+HG01668	EUR	1668	female	European Ancestry	Iberian	IBS
+HG01669	EUR	1669	male	European Ancestry	Iberian	IBS
+HG01670	EUR	1670	female	European Ancestry	Iberian	IBS
+HG01671	EUR	1671	male	European Ancestry	Iberian	IBS
+HG01672	EUR	1672	male	European Ancestry	Iberian	IBS
+HG01673	EUR	1673	female	European Ancestry	Iberian	IBS
+HG01674	EUR	1674	male	European Ancestry	Iberian	IBS
+HG01675	EUR	1675	male	European Ancestry	Iberian	IBS
+HG01676	EUR	1676	female	European Ancestry	Iberian	IBS
+HG01677	EUR	1677	female	European Ancestry	Iberian	IBS
+HG01678	EUR	1678	male	European Ancestry	Iberian	IBS
+HG01679	EUR	1679	female	European Ancestry	Iberian	IBS
+HG01680	EUR	1680	male	European Ancestry	Iberian	IBS
+HG01681	EUR	1681	female	European Ancestry	Iberian	IBS
+HG01682	EUR	1682	male	European Ancestry	Iberian	IBS
+HG01683	EUR	1683	male	European Ancestry	Iberian	IBS
+HG01684	EUR	1684	female	European Ancestry	Iberian	IBS
+HG01685	EUR	1685	female	European Ancestry	Iberian	IBS
+HG01686	EUR	1686	male	European Ancestry	Iberian	IBS
+HG01687	EUR	1687	female	European Ancestry	Iberian	IBS
+HG01694	EUR	1694	male	European Ancestry	Iberian	IBS
+HG01695	EUR	1695	female	European Ancestry	Iberian	IBS
+HG01696	EUR	1696	male	European Ancestry	Iberian	IBS
+HG01697	EUR	1697	female	European Ancestry	Iberian	IBS
+HG01698	EUR	1698	male	European Ancestry	Iberian	IBS
+HG01699	EUR	1699	male	European Ancestry	Iberian	IBS
+HG01700	EUR	1700	male	European Ancestry	Iberian	IBS
+HG01701	EUR	1701	male	European Ancestry	Iberian	IBS
+HG01702	EUR	1702	female	European Ancestry	Iberian	IBS
+HG01703	EUR	1703	male	European Ancestry	Iberian	IBS
+HG01704	EUR	1704	female	European Ancestry	Iberian	IBS
+HG01705	EUR	1705	male	European Ancestry	Iberian	IBS
+HG01706	EUR	1706	female	European Ancestry	Iberian	IBS
+HG01707	EUR	1707	female	European Ancestry	Iberian	IBS
+HG01708	EUR	1708	male	European Ancestry	Iberian	IBS
+HG01709	EUR	1709	male	European Ancestry	Iberian	IBS
+HG01710	EUR	1710	female	European Ancestry	Iberian	IBS
+HG01711	EUR	1711	female	European Ancestry	Iberian	IBS
+HG01746	EUR	1746	female	European Ancestry	Iberian	IBS
+HG01747	EUR	1747	male	European Ancestry	Iberian	IBS
+HG01748	EUR	1748	male	European Ancestry	Iberian	IBS
+HG01755	EUR	1755	female	European Ancestry	Iberian	IBS
+HG01756	EUR	1756	male	European Ancestry	Iberian	IBS
+HG01757	EUR	1757	female	European Ancestry	Iberian	IBS
+HG01761	EUR	1761	male	European Ancestry	Iberian	IBS
+HG01762	EUR	1762	female	European Ancestry	Iberian	IBS
+HG01763	EUR	1763	female	European Ancestry	Iberian	IBS
+HG01765	EUR	1765	male	European Ancestry	Iberian	IBS
+HG01766	EUR	1766	female	European Ancestry	Iberian	IBS
+HG01767	EUR	1767	male	European Ancestry	Iberian	IBS
+HG01768	EUR	1768	female	European Ancestry	Iberian	IBS
+HG01770	EUR	1770	female	European Ancestry	Iberian	IBS
+HG01771	EUR	1771	male	European Ancestry	Iberian	IBS
+HG01772	EUR	1772	female	European Ancestry	Iberian	IBS
+HG01773	EUR	1773	female	European Ancestry	Iberian	IBS
+HG01774	EUR	1774	male	European Ancestry	Iberian	IBS
+HG01775	EUR	1775	male	European Ancestry	Iberian	IBS
+HG01776	EUR	1776	female	European Ancestry	Iberian	IBS
+HG01777	EUR	1777	male	European Ancestry	Iberian	IBS
+HG01778	EUR	1778	male	European Ancestry	Iberian	IBS
+HG01779	EUR	1779	female	European Ancestry	Iberian	IBS
+HG01780	EUR	1780	male	European Ancestry	Iberian	IBS
+HG01781	EUR	1781	male	European Ancestry	Iberian	IBS
+HG01782	EUR	1782	female	European Ancestry	Iberian	IBS
+HG01784	EUR	1784	female	European Ancestry	Iberian	IBS
+HG01785	EUR	1785	male	European Ancestry	Iberian	IBS
+HG01786	EUR	1786	female	European Ancestry	Iberian	IBS
+HG02219	EUR	2219	male	European Ancestry	Iberian	IBS
+HG02220	EUR	2220	female	European Ancestry	Iberian	IBS
+HG02221	EUR	2221	male	European Ancestry	Iberian	IBS
+HG02222	EUR	2222	female	European Ancestry	Iberian	IBS
+HG02223	EUR	2223	female	European Ancestry	Iberian	IBS
+HG02224	EUR	2224	male	European Ancestry	Iberian	IBS
+HG02225	EUR	2225	female	European Ancestry	Iberian	IBS
+HG02229	EUR	2229	female	European Ancestry	Iberian	IBS
+HG02230	EUR	2230	female	European Ancestry	Iberian	IBS
+HG02231	EUR	2231	male	European Ancestry	Iberian	IBS
+HG02232	EUR	2232	female	European Ancestry	Iberian	IBS
+HG02233	EUR	2233	male	European Ancestry	Iberian	IBS
+HG02234	EUR	2234	male	European Ancestry	Iberian	IBS
+HG02235	EUR	2235	female	European Ancestry	Iberian	IBS
+HG02236	EUR	2236	male	European Ancestry	Iberian	IBS
+HG02237	EUR	2237	female	European Ancestry	Iberian	IBS
+HG02238	EUR	2238	male	European Ancestry	Iberian	IBS
+HG02239	EUR	2239	female	European Ancestry	Iberian	IBS
+HG02240	EUR	2240	female	European Ancestry	Iberian	IBS
+HG01783	EUR	1783	male	"European Ancestry,African Ancestry"	"Iberian,Mende"	"IBS,MSL"
+HG01503	EUR	1503	male	"European Ancestry,West Eurasia (SGDP)"	"Iberian,Spanish"	IBS
+HG01504	EUR	1504	female	"European Ancestry,West Eurasia (SGDP)"	"Iberian,Spanish"	IBS
+GM18939	EAS	18939	female	East Asian Ancestry	Japanese	JPT
+GM18941	EAS	18941	female	East Asian Ancestry	Japanese	JPT
+GM18942	EAS	18942	female	East Asian Ancestry	Japanese	JPT
+GM18943	EAS	18943	male	East Asian Ancestry	Japanese	JPT
+GM18944	EAS	18944	male	East Asian Ancestry	Japanese	JPT
+GM18945	EAS	18945	male	East Asian Ancestry	Japanese	JPT
+GM18946	EAS	18946	female	East Asian Ancestry	Japanese	JPT
+GM18947	EAS	18947	female	East Asian Ancestry	Japanese	JPT
+GM18948	EAS	18948	male	East Asian Ancestry	Japanese	JPT
+GM18949	EAS	18949	female	East Asian Ancestry	Japanese	JPT
+GM18950	EAS	18950	female	East Asian Ancestry	Japanese	JPT
+GM18951	EAS	18951	female	East Asian Ancestry	Japanese	JPT
+GM18952	EAS	18952	male	East Asian Ancestry	Japanese	JPT
+GM18953	EAS	18953	male	East Asian Ancestry	Japanese	JPT
+GM18954	EAS	18954	female	East Asian Ancestry	Japanese	JPT
+GM18956	EAS	18956	female	East Asian Ancestry	Japanese	JPT
+GM18957	EAS	18957	female	East Asian Ancestry	Japanese	JPT
+GM18959	EAS	18959	male	East Asian Ancestry	Japanese	JPT
+GM18960	EAS	18960	male	East Asian Ancestry	Japanese	JPT
+GM18961	EAS	18961	male	East Asian Ancestry	Japanese	JPT
+GM18962	EAS	18962	male	East Asian Ancestry	Japanese	JPT
+GM18963	EAS	18963	female	East Asian Ancestry	Japanese	JPT
+GM18964	EAS	18964	female	East Asian Ancestry	Japanese	JPT
+GM18965	EAS	18965	male	East Asian Ancestry	Japanese	JPT
+GM18966	EAS	18966	male	East Asian Ancestry	Japanese	JPT
+GM18967	EAS	18967	male	East Asian Ancestry	Japanese	JPT
+GM18968	EAS	18968	female	East Asian Ancestry	Japanese	JPT
+GM18969	EAS	18969	female	East Asian Ancestry	Japanese	JPT
+GM18970	EAS	18970	male	East Asian Ancestry	Japanese	JPT
+GM18971	EAS	18971	male	East Asian Ancestry	Japanese	JPT
+GM18972	EAS	18972	female	East Asian Ancestry	Japanese	JPT
+GM18973	EAS	18973	female	East Asian Ancestry	Japanese	JPT
+GM18974	EAS	18974	male	East Asian Ancestry	Japanese	JPT
+GM18975	EAS	18975	female	East Asian Ancestry	Japanese	JPT
+GM18976	EAS	18976	female	East Asian Ancestry	Japanese	JPT
+GM18977	EAS	18977	male	East Asian Ancestry	Japanese	JPT
+GM18978	EAS	18978	female	East Asian Ancestry	Japanese	JPT
+GM18979	EAS	18979	female	East Asian Ancestry	Japanese	JPT
+GM18980	EAS	18980	female	East Asian Ancestry	Japanese	JPT
+GM18981	EAS	18981	female	East Asian Ancestry	Japanese	JPT
+GM18982	EAS	18982	male	East Asian Ancestry	Japanese	JPT
+GM18983	EAS	18983	male	East Asian Ancestry	Japanese	JPT
+GM18984	EAS	18984	male	East Asian Ancestry	Japanese	JPT
+GM18985	EAS	18985	male	East Asian Ancestry	Japanese	JPT
+GM18986	EAS	18986	male	East Asian Ancestry	Japanese	JPT
+GM18987	EAS	18987	female	East Asian Ancestry	Japanese	JPT
+GM18988	EAS	18988	male	East Asian Ancestry	Japanese	JPT
+GM18989	EAS	18989	male	East Asian Ancestry	Japanese	JPT
+GM18990	EAS	18990	male	East Asian Ancestry	Japanese	JPT
+GM18991	EAS	18991	female	East Asian Ancestry	Japanese	JPT
+GM18992	EAS	18992	female	East Asian Ancestry	Japanese	JPT
+GM18993	EAS	18993	female	East Asian Ancestry	Japanese	JPT
+GM18994	EAS	18994	male	East Asian Ancestry	Japanese	JPT
+GM18995	EAS	18995	male	East Asian Ancestry	Japanese	JPT
+GM18997	EAS	18997	female	East Asian Ancestry	Japanese	JPT
+GM18998	EAS	18998	female	East Asian Ancestry	Japanese	JPT
+GM18999	EAS	18999	female	East Asian Ancestry	Japanese	JPT
+GM19000	EAS	19000	male	East Asian Ancestry	Japanese	JPT
+GM19001	EAS	19001	female	East Asian Ancestry	Japanese	JPT
+GM19002	EAS	19002	female	East Asian Ancestry	Japanese	JPT
+GM19003	EAS	19003	female	East Asian Ancestry	Japanese	JPT
+GM19004	EAS	19004	male	East Asian Ancestry	Japanese	JPT
+GM19005	EAS	19005	male	East Asian Ancestry	Japanese	JPT
+GM19006	EAS	19006	male	East Asian Ancestry	Japanese	JPT
+GM19007	EAS	19007	male	East Asian Ancestry	Japanese	JPT
+GM19009	EAS	19009	male	East Asian Ancestry	Japanese	JPT
+GM19010	EAS	19010	female	East Asian Ancestry	Japanese	JPT
+GM19011	EAS	19011	female	East Asian Ancestry	Japanese	JPT
+GM19012	EAS	19012	male	East Asian Ancestry	Japanese	JPT
+GM19054	EAS	19054	female	East Asian Ancestry	Japanese	JPT
+GM19055	EAS	19055	male	East Asian Ancestry	Japanese	JPT
+GM19056	EAS	19056	male	East Asian Ancestry	Japanese	JPT
+GM19057	EAS	19057	female	East Asian Ancestry	Japanese	JPT
+GM19058	EAS	19058	male	East Asian Ancestry	Japanese	JPT
+GM19059	EAS	19059	female	East Asian Ancestry	Japanese	JPT
+GM19060	EAS	19060	male	East Asian Ancestry	Japanese	JPT
+GM19062	EAS	19062	male	East Asian Ancestry	Japanese	JPT
+GM19063	EAS	19063	male	East Asian Ancestry	Japanese	JPT
+GM19064	EAS	19064	female	East Asian Ancestry	Japanese	JPT
+GM19065	EAS	19065	female	East Asian Ancestry	Japanese	JPT
+GM19066	EAS	19066	male	East Asian Ancestry	Japanese	JPT
+GM19067	EAS	19067	male	East Asian Ancestry	Japanese	JPT
+GM19068	EAS	19068	male	East Asian Ancestry	Japanese	JPT
+GM19070	EAS	19070	male	East Asian Ancestry	Japanese	JPT
+GM19072	EAS	19072	male	East Asian Ancestry	Japanese	JPT
+GM19074	EAS	19074	female	East Asian Ancestry	Japanese	JPT
+GM19075	EAS	19075	male	East Asian Ancestry	Japanese	JPT
+GM19076	EAS	19076	male	East Asian Ancestry	Japanese	JPT
+GM19077	EAS	19077	female	East Asian Ancestry	Japanese	JPT
+GM19078	EAS	19078	female	East Asian Ancestry	Japanese	JPT
+GM19079	EAS	19079	male	East Asian Ancestry	Japanese	JPT
+GM19080	EAS	19080	female	East Asian Ancestry	Japanese	JPT
+GM19081	EAS	19081	female	East Asian Ancestry	Japanese	JPT
+GM19082	EAS	19082	male	East Asian Ancestry	Japanese	JPT
+GM19083	EAS	19083	male	East Asian Ancestry	Japanese	JPT
+GM19084	EAS	19084	female	East Asian Ancestry	Japanese	JPT
+GM19085	EAS	19085	male	East Asian Ancestry	Japanese	JPT
+GM19086	EAS	19086	male	East Asian Ancestry	Japanese	JPT
+GM19087	EAS	19087	female	East Asian Ancestry	Japanese	JPT
+GM19088	EAS	19088	male	East Asian Ancestry	Japanese	JPT
+GM19089	EAS	19089	male	East Asian Ancestry	Japanese	JPT
+GM19090	EAS	19090	female	East Asian Ancestry	Japanese	JPT
+GM19091	EAS	19091	male	East Asian Ancestry	Japanese	JPT
+GM18940	EAS	18940	male	"East Asia (SGDP),East Asian Ancestry"	"Japanese,Japanese"	JPT
+HG01595	EAS	1595	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01596	EAS	1596	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01597	EAS	1597	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01598	EAS	1598	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01599	EAS	1599	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01840	EAS	1840	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01841	EAS	1841	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01842	EAS	1842	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01843	EAS	1843	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01844	EAS	1844	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01845	EAS	1845	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01847	EAS	1847	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01848	EAS	1848	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01849	EAS	1849	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01850	EAS	1850	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01851	EAS	1851	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01852	EAS	1852	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01853	EAS	1853	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01855	EAS	1855	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01857	EAS	1857	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01858	EAS	1858	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01859	EAS	1859	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01860	EAS	1860	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01861	EAS	1861	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01862	EAS	1862	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01863	EAS	1863	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01864	EAS	1864	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01865	EAS	1865	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01866	EAS	1866	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01867	EAS	1867	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01868	EAS	1868	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01869	EAS	1869	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01870	EAS	1870	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01871	EAS	1871	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01872	EAS	1872	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01873	EAS	1873	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01874	EAS	1874	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01878	EAS	1878	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02015	EAS	2015	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02016	EAS	2016	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02017	EAS	2017	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02018	EAS	2018	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02019	EAS	2019	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02020	EAS	2020	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02023	EAS	2023	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02024	EAS	2024	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02025	EAS	2025	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02026	EAS	2026	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02027	EAS	2027	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02028	EAS	2028	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02029	EAS	2029	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02030	EAS	2030	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02031	EAS	2031	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02032	EAS	2032	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02035	EAS	2035	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02040	EAS	2040	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02047	EAS	2047	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02048	EAS	2048	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02049	EAS	2049	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02050	EAS	2050	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02056	EAS	2056	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02057	EAS	2057	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02058	EAS	2058	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02059	EAS	2059	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02060	EAS	2060	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02061	EAS	2061	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02064	EAS	2064	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02067	EAS	2067	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02068	EAS	2068	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02069	EAS	2069	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02070	EAS	2070	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02071	EAS	2071	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02072	EAS	2072	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02073	EAS	2073	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02074	EAS	2074	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02075	EAS	2075	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02076	EAS	2076	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02077	EAS	2077	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02078	EAS	2078	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02079	EAS	2079	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02080	EAS	2080	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02081	EAS	2081	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02082	EAS	2082	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02083	EAS	2083	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02084	EAS	2084	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02085	EAS	2085	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02086	EAS	2086	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02087	EAS	2087	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02088	EAS	2088	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02113	EAS	2113	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02116	EAS	2116	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02120	EAS	2120	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02121	EAS	2121	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02122	EAS	2122	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02126	EAS	2126	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02127	EAS	2127	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02128	EAS	2128	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02129	EAS	2129	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02130	EAS	2130	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02131	EAS	2131	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02132	EAS	2132	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02133	EAS	2133	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02134	EAS	2134	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02135	EAS	2135	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02136	EAS	2136	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02137	EAS	2137	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02138	EAS	2138	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02139	EAS	2139	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02140	EAS	2140	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02141	EAS	2141	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02142	EAS	2142	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02512	EAS	2512	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02513	EAS	2513	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02514	EAS	2514	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02521	EAS	2521	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02522	EAS	2522	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02523	EAS	2523	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02524	EAS	2524	male	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02525	EAS	2525	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG02526	EAS	2526	female	East Asian Ancestry	Kinh Vietnamese	KHV
+HG01600	EAS	1600	female	"East Asia (SGDP),East Asian Ancestry"	"Kinh,Kinh Vietnamese"	KHV
+HG01846	EAS	1846	male	"East Asia (SGDP),East Asian Ancestry"	"Kinh,Kinh Vietnamese"	KHV
+GM19431	AFR	19431	female	African Ancestry	Luhya	LWK
+GM19443	AFR	19443	male	African Ancestry	Luhya	LWK
+GM19454	AFR	19454	male	African Ancestry	Luhya	LWK
+GM19471	AFR	19471	female	African Ancestry	Luhya	LWK
+GM19473	AFR	19473	female	African Ancestry	Luhya	LWK
+GM19017	AFR	19017	female	African Ancestry	Luhya	LWK
+GM19019	AFR	19019	female	African Ancestry	Luhya	LWK
+GM19020	AFR	19020	male	African Ancestry	Luhya	LWK
+GM19024	AFR	19024	female	African Ancestry	Luhya	LWK
+GM19025	AFR	19025	male	African Ancestry	Luhya	LWK
+GM19026	AFR	19026	male	African Ancestry	Luhya	LWK
+GM19027	AFR	19027	male	African Ancestry	Luhya	LWK
+GM19028	AFR	19028	male	African Ancestry	Luhya	LWK
+GM19030	AFR	19030	female	African Ancestry	Luhya	LWK
+GM19031	AFR	19031	male	African Ancestry	Luhya	LWK
+GM19035	AFR	19035	male	African Ancestry	Luhya	LWK
+GM19036	AFR	19036	female	African Ancestry	Luhya	LWK
+GM19037	AFR	19037	female	African Ancestry	Luhya	LWK
+GM19038	AFR	19038	female	African Ancestry	Luhya	LWK
+GM19041	AFR	19041	male	African Ancestry	Luhya	LWK
+GM19042	AFR	19042	female	African Ancestry	Luhya	LWK
+GM19043	AFR	19043	male	African Ancestry	Luhya	LWK
+GM19307	AFR	19307	male	African Ancestry	Luhya	LWK
+GM19308	AFR	19308	male	African Ancestry	Luhya	LWK
+GM19309	AFR	19309	male	African Ancestry	Luhya	LWK
+GM19310	AFR	19310	female	African Ancestry	Luhya	LWK
+GM19312	AFR	19312	male	African Ancestry	Luhya	LWK
+GM19314	AFR	19314	female	African Ancestry	Luhya	LWK
+GM19315	AFR	19315	female	African Ancestry	Luhya	LWK
+GM19316	AFR	19316	female	African Ancestry	Luhya	LWK
+GM19317	AFR	19317	male	African Ancestry	Luhya	LWK
+GM19318	AFR	19318	male	African Ancestry	Luhya	LWK
+GM19319	AFR	19319	male	African Ancestry	Luhya	LWK
+GM19320	AFR	19320	female	African Ancestry	Luhya	LWK
+GM19321	AFR	19321	female	African Ancestry	Luhya	LWK
+GM19323	AFR	19323	female	African Ancestry	Luhya	LWK
+GM19324	AFR	19324	female	African Ancestry	Luhya	LWK
+GM19327	AFR	19327	female	African Ancestry	Luhya	LWK
+GM19328	AFR	19328	female	African Ancestry	Luhya	LWK
+GM19331	AFR	19331	male	African Ancestry	Luhya	LWK
+GM19332	AFR	19332	female	African Ancestry	Luhya	LWK
+GM19334	AFR	19334	male	African Ancestry	Luhya	LWK
+GM19338	AFR	19338	female	African Ancestry	Luhya	LWK
+GM19346	AFR	19346	male	African Ancestry	Luhya	LWK
+GM19347	AFR	19347	male	African Ancestry	Luhya	LWK
+GM19350	AFR	19350	male	African Ancestry	Luhya	LWK
+GM19351	AFR	19351	female	African Ancestry	Luhya	LWK
+GM19355	AFR	19355	female	African Ancestry	Luhya	LWK
+GM19360	AFR	19360	male	African Ancestry	Luhya	LWK
+GM19372	AFR	19372	male	African Ancestry	Luhya	LWK
+GM19374	AFR	19374	male	African Ancestry	Luhya	LWK
+GM19375	AFR	19375	male	African Ancestry	Luhya	LWK
+GM19376	AFR	19376	male	African Ancestry	Luhya	LWK
+GM19377	AFR	19377	female	African Ancestry	Luhya	LWK
+GM19378	AFR	19378	female	African Ancestry	Luhya	LWK
+GM19379	AFR	19379	female	African Ancestry	Luhya	LWK
+GM19380	AFR	19380	male	African Ancestry	Luhya	LWK
+GM19383	AFR	19383	male	African Ancestry	Luhya	LWK
+GM19384	AFR	19384	male	African Ancestry	Luhya	LWK
+GM19385	AFR	19385	male	African Ancestry	Luhya	LWK
+GM19390	AFR	19390	female	African Ancestry	Luhya	LWK
+GM19391	AFR	19391	female	African Ancestry	Luhya	LWK
+GM19393	AFR	19393	male	African Ancestry	Luhya	LWK
+GM19394	AFR	19394	male	African Ancestry	Luhya	LWK
+GM19395	AFR	19395	female	African Ancestry	Luhya	LWK
+GM19397	AFR	19397	male	African Ancestry	Luhya	LWK
+GM19399	AFR	19399	female	African Ancestry	Luhya	LWK
+GM19401	AFR	19401	female	African Ancestry	Luhya	LWK
+GM19403	AFR	19403	female	African Ancestry	Luhya	LWK
+GM19404	AFR	19404	female	African Ancestry	Luhya	LWK
+GM19428	AFR	19428	male	African Ancestry	Luhya	LWK
+GM19429	AFR	19429	male	African Ancestry	Luhya	LWK
+GM19430	AFR	19430	male	African Ancestry	Luhya	LWK
+GM19434	AFR	19434	female	African Ancestry	Luhya	LWK
+GM19435	AFR	19435	female	African Ancestry	Luhya	LWK
+GM19436	AFR	19436	female	African Ancestry	Luhya	LWK
+GM19437	AFR	19437	female	African Ancestry	Luhya	LWK
+GM19438	AFR	19438	female	African Ancestry	Luhya	LWK
+GM19439	AFR	19439	female	African Ancestry	Luhya	LWK
+GM19440	AFR	19440	female	African Ancestry	Luhya	LWK
+GM19445	AFR	19445	female	African Ancestry	Luhya	LWK
+GM19446	AFR	19446	female	African Ancestry	Luhya	LWK
+GM19448	AFR	19448	male	African Ancestry	Luhya	LWK
+GM19449	AFR	19449	female	African Ancestry	Luhya	LWK
+GM19451	AFR	19451	male	African Ancestry	Luhya	LWK
+GM19452	AFR	19452	male	African Ancestry	Luhya	LWK
+GM19455	AFR	19455	male	African Ancestry	Luhya	LWK
+GM19456	AFR	19456	female	African Ancestry	Luhya	LWK
+GM19457	AFR	19457	female	African Ancestry	Luhya	LWK
+GM19461	AFR	19461	male	African Ancestry	Luhya	LWK
+GM19462	AFR	19462	female	African Ancestry	Luhya	LWK
+GM19463	AFR	19463	female	African Ancestry	Luhya	LWK
+GM19466	AFR	19466	male	African Ancestry	Luhya	LWK
+GM19467	AFR	19467	female	African Ancestry	Luhya	LWK
+GM19468	AFR	19468	female	African Ancestry	Luhya	LWK
+GM19472	AFR	19472	female	African Ancestry	Luhya	LWK
+GM19474	AFR	19474	female	African Ancestry	Luhya	LWK
+GM19475	AFR	19475	female	African Ancestry	Luhya	LWK
+GM19023	AFR	19023	female	"African Ancestry,Africa (SGDP)"	"Luhya,Luhya"	LWK
+HG03052	AFR	3052	female	African Ancestry	Mende	MSL
+HG03054	AFR	3054	male	African Ancestry	Mende	MSL
+HG03055	AFR	3055	female	African Ancestry	Mende	MSL
+HG03056	AFR	3056	male	African Ancestry	Mende	MSL
+HG03057	AFR	3057	male	African Ancestry	Mende	MSL
+HG03058	AFR	3058	female	African Ancestry	Mende	MSL
+HG03060	AFR	3060	male	African Ancestry	Mende	MSL
+HG03061	AFR	3061	female	African Ancestry	Mende	MSL
+HG03063	AFR	3063	male	African Ancestry	Mende	MSL
+HG03064	AFR	3064	female	African Ancestry	Mende	MSL
+HG03065	AFR	3065	male	African Ancestry	Mende	MSL
+HG03066	AFR	3066	male	African Ancestry	Mende	MSL
+HG03069	AFR	3069	male	African Ancestry	Mende	MSL
+HG03072	AFR	3072	male	African Ancestry	Mende	MSL
+HG03073	AFR	3073	female	African Ancestry	Mende	MSL
+HG03074	AFR	3074	male	African Ancestry	Mende	MSL
+HG03076	AFR	3076	female	African Ancestry	Mende	MSL
+HG03077	AFR	3077	male	African Ancestry	Mende	MSL
+HG03079	AFR	3079	female	African Ancestry	Mende	MSL
+HG03081	AFR	3081	male	African Ancestry	Mende	MSL
+HG03082	AFR	3082	female	African Ancestry	Mende	MSL
+HG03084	AFR	3084	male	African Ancestry	Mende	MSL
+HG03086	AFR	3086	female	African Ancestry	Mende	MSL
+HG03088	AFR	3088	female	African Ancestry	Mende	MSL
+HG03091	AFR	3091	female	African Ancestry	Mende	MSL
+HG03095	AFR	3095	female	African Ancestry	Mende	MSL
+HG03096	AFR	3096	male	African Ancestry	Mende	MSL
+HG03097	AFR	3097	female	African Ancestry	Mende	MSL
+HG03098	AFR	3098	male	African Ancestry	Mende	MSL
+HG03209	AFR	3209	male	African Ancestry	Mende	MSL
+HG03212	AFR	3212	female	African Ancestry	Mende	MSL
+HG03224	AFR	3224	male	African Ancestry	Mende	MSL
+HG03225	AFR	3225	male	African Ancestry	Mende	MSL
+HG03376	AFR	3376	male	African Ancestry	Mende	MSL
+HG03378	AFR	3378	female	African Ancestry	Mende	MSL
+HG03380	AFR	3380	female	African Ancestry	Mende	MSL
+HG03382	AFR	3382	male	African Ancestry	Mende	MSL
+HG03383	AFR	3383	female	African Ancestry	Mende	MSL
+HG03385	AFR	3385	male	African Ancestry	Mende	MSL
+HG03388	AFR	3388	male	African Ancestry	Mende	MSL
+HG03391	AFR	3391	male	African Ancestry	Mende	MSL
+HG03393	AFR	3393	female	African Ancestry	Mende	MSL
+HG03394	AFR	3394	male	African Ancestry	Mende	MSL
+HG03397	AFR	3397	male	African Ancestry	Mende	MSL
+HG03398	AFR	3398	female	African Ancestry	Mende	MSL
+HG03401	AFR	3401	female	African Ancestry	Mende	MSL
+HG03408	AFR	3408	male	African Ancestry	Mende	MSL
+HG03410	AFR	3410	female	African Ancestry	Mende	MSL
+HG03419	AFR	3419	female	African Ancestry	Mende	MSL
+HG03428	AFR	3428	female	African Ancestry	Mende	MSL
+HG03431	AFR	3431	female	African Ancestry	Mende	MSL
+HG03432	AFR	3432	male	African Ancestry	Mende	MSL
+HG03433	AFR	3433	male	African Ancestry	Mende	MSL
+HG03436	AFR	3436	male	African Ancestry	Mende	MSL
+HG03437	AFR	3437	female	African Ancestry	Mende	MSL
+HG03438	AFR	3438	female	African Ancestry	Mende	MSL
+HG03439	AFR	3439	male	African Ancestry	Mende	MSL
+HG03442	AFR	3442	male	African Ancestry	Mende	MSL
+HG03445	AFR	3445	male	African Ancestry	Mende	MSL
+HG03446	AFR	3446	female	African Ancestry	Mende	MSL
+HG03449	AFR	3449	female	African Ancestry	Mende	MSL
+HG03451	AFR	3451	male	African Ancestry	Mende	MSL
+HG03452	AFR	3452	female	African Ancestry	Mende	MSL
+HG03453	AFR	3453	female	African Ancestry	Mende	MSL
+HG03454	AFR	3454	male	African Ancestry	Mende	MSL
+HG03455	AFR	3455	female	African Ancestry	Mende	MSL
+HG03456	AFR	3456	male	African Ancestry	Mende	MSL
+HG03457	AFR	3457	male	African Ancestry	Mende	MSL
+HG03458	AFR	3458	female	African Ancestry	Mende	MSL
+HG03460	AFR	3460	male	African Ancestry	Mende	MSL
+HG03461	AFR	3461	female	African Ancestry	Mende	MSL
+HG03464	AFR	3464	female	African Ancestry	Mende	MSL
+HG03469	AFR	3469	male	African Ancestry	Mende	MSL
+HG03470	AFR	3470	female	African Ancestry	Mende	MSL
+HG03472	AFR	3472	male	African Ancestry	Mende	MSL
+HG03473	AFR	3473	female	African Ancestry	Mende	MSL
+HG03476	AFR	3476	female	African Ancestry	Mende	MSL
+HG03478	AFR	3478	male	African Ancestry	Mende	MSL
+HG03479	AFR	3479	female	African Ancestry	Mende	MSL
+HG03480	AFR	3480	female	African Ancestry	Mende	MSL
+HG03484	AFR	3484	male	African Ancestry	Mende	MSL
+HG03485	AFR	3485	female	African Ancestry	Mende	MSL
+HG03486	AFR	3486	female	African Ancestry	Mende	MSL
+HG03547	AFR	3547	male	African Ancestry	Mende	MSL
+HG03548	AFR	3548	female	African Ancestry	Mende	MSL
+HG03556	AFR	3556	male	African Ancestry	Mende	MSL
+HG03557	AFR	3557	female	African Ancestry	Mende	MSL
+HG03558	AFR	3558	female	African Ancestry	Mende	MSL
+HG03559	AFR	3559	male	African Ancestry	Mende	MSL
+HG03563	AFR	3563	female	African Ancestry	Mende	MSL
+HG03565	AFR	3565	male	African Ancestry	Mende	MSL
+HG03567	AFR	3567	female	African Ancestry	Mende	MSL
+HG03569	AFR	3569	female	African Ancestry	Mende	MSL
+HG03571	AFR	3571	male	African Ancestry	Mende	MSL
+HG03572	AFR	3572	female	African Ancestry	Mende	MSL
+HG03574	AFR	3574	male	African Ancestry	Mende	MSL
+HG03575	AFR	3575	female	African Ancestry	Mende	MSL
+HG03576	AFR	3576	female	African Ancestry	Mende	MSL
+HG03577	AFR	3577	male	African Ancestry	Mende	MSL
+HG03578	AFR	3578	female	African Ancestry	Mende	MSL
+HG03579	AFR	3579	male	African Ancestry	Mende	MSL
+HG03582	AFR	3582	male	African Ancestry	Mende	MSL
+HG03583	AFR	3583	female	African Ancestry	Mende	MSL
+HG03584	AFR	3584	female	African Ancestry	Mende	MSL
+HG03078	AFR	3078	male	"African Ancestry,Africa (SGDP)"	"Mende,Mende"	MSL
+HG03085	AFR	3085	female	"African Ancestry,Africa (SGDP)"	"Mende,Mende"	MSL
+GM19648	AMR	19648	female	American Ancestry	Mexican Ancestry	MXL
+GM19649	AMR	19649	male	American Ancestry	Mexican Ancestry	MXL
+GM19650	AMR	19650	male	American Ancestry	Mexican Ancestry	MXL
+GM19651	AMR	19651	female	American Ancestry	Mexican Ancestry	MXL
+GM19652	AMR	19652	male	American Ancestry	Mexican Ancestry	MXL
+GM19653	AMR	19653	female	American Ancestry	Mexican Ancestry	MXL
+GM19654	AMR	19654	female	American Ancestry	Mexican Ancestry	MXL
+GM19655	AMR	19655	male	American Ancestry	Mexican Ancestry	MXL
+GM19656	AMR	19656	female	American Ancestry	Mexican Ancestry	MXL
+GM19657	AMR	19657	female	American Ancestry	Mexican Ancestry	MXL
+GM19658	AMR	19658	male	American Ancestry	Mexican Ancestry	MXL
+GM19659	AMR	19659	female	American Ancestry	Mexican Ancestry	MXL
+GM19660	AMR	19660	female	American Ancestry	Mexican Ancestry	MXL
+GM19661	AMR	19661	male	American Ancestry	Mexican Ancestry	MXL
+GM19662	AMR	19662	female	American Ancestry	Mexican Ancestry	MXL
+GM19663	AMR	19663	female	American Ancestry	Mexican Ancestry	MXL
+GM19664	AMR	19664	male	American Ancestry	Mexican Ancestry	MXL
+GM19665	AMR	19665	female	American Ancestry	Mexican Ancestry	MXL
+GM19669	AMR	19669	female	American Ancestry	Mexican Ancestry	MXL
+GM19670	AMR	19670	male	American Ancestry	Mexican Ancestry	MXL
+GM19671	AMR	19671	female	American Ancestry	Mexican Ancestry	MXL
+GM19675	AMR	19675	female	American Ancestry	Mexican Ancestry	MXL
+GM19676	AMR	19676	male	American Ancestry	Mexican Ancestry	MXL
+GM19677	AMR	19677	female	American Ancestry	Mexican Ancestry	MXL
+GM19678	AMR	19678	female	American Ancestry	Mexican Ancestry	MXL
+GM19679	AMR	19679	male	American Ancestry	Mexican Ancestry	MXL
+GM19680	AMR	19680	female	American Ancestry	Mexican Ancestry	MXL
+GM19681	AMR	19681	female	American Ancestry	Mexican Ancestry	MXL
+GM19682	AMR	19682	male	American Ancestry	Mexican Ancestry	MXL
+GM19683	AMR	19683	female	American Ancestry	Mexican Ancestry	MXL
+GM19684	AMR	19684	female	American Ancestry	Mexican Ancestry	MXL
+GM19685	AMR	19685	male	American Ancestry	Mexican Ancestry	MXL
+GM19686	AMR	19686	female	American Ancestry	Mexican Ancestry	MXL
+GM19716	AMR	19716	female	American Ancestry	Mexican Ancestry	MXL
+GM19717	AMR	19717	male	American Ancestry	Mexican Ancestry	MXL
+GM19718	AMR	19718	female	American Ancestry	Mexican Ancestry	MXL
+GM19719	AMR	19719	female	American Ancestry	Mexican Ancestry	MXL
+GM19720	AMR	19720	male	American Ancestry	Mexican Ancestry	MXL
+GM19721	AMR	19721	female	American Ancestry	Mexican Ancestry	MXL
+GM19722	AMR	19722	female	American Ancestry	Mexican Ancestry	MXL
+GM19723	AMR	19723	male	American Ancestry	Mexican Ancestry	MXL
+GM19724	AMR	19724	male	American Ancestry	Mexican Ancestry	MXL
+GM19725	AMR	19725	female	American Ancestry	Mexican Ancestry	MXL
+GM19726	AMR	19726	male	American Ancestry	Mexican Ancestry	MXL
+GM19727	AMR	19727	male	American Ancestry	Mexican Ancestry	MXL
+GM19728	AMR	19728	female	American Ancestry	Mexican Ancestry	MXL
+GM19729	AMR	19729	male	American Ancestry	Mexican Ancestry	MXL
+GM19730	AMR	19730	female	American Ancestry	Mexican Ancestry	MXL
+GM19731	AMR	19731	female	American Ancestry	Mexican Ancestry	MXL
+GM19732	AMR	19732	male	American Ancestry	Mexican Ancestry	MXL
+GM19733	AMR	19733	female	American Ancestry	Mexican Ancestry	MXL
+GM19734	AMR	19734	female	American Ancestry	Mexican Ancestry	MXL
+GM19735	AMR	19735	male	American Ancestry	Mexican Ancestry	MXL
+GM19740	AMR	19740	female	American Ancestry	Mexican Ancestry	MXL
+GM19741	AMR	19741	male	American Ancestry	Mexican Ancestry	MXL
+GM19746	AMR	19746	female	American Ancestry	Mexican Ancestry	MXL
+GM19747	AMR	19747	male	American Ancestry	Mexican Ancestry	MXL
+GM19748	AMR	19748	female	American Ancestry	Mexican Ancestry	MXL
+GM19749	AMR	19749	female	American Ancestry	Mexican Ancestry	MXL
+GM19750	AMR	19750	male	American Ancestry	Mexican Ancestry	MXL
+GM19751	AMR	19751	male	American Ancestry	Mexican Ancestry	MXL
+GM19752	AMR	19752	female	American Ancestry	Mexican Ancestry	MXL
+GM19755	AMR	19755	female	American Ancestry	Mexican Ancestry	MXL
+GM19756	AMR	19756	male	American Ancestry	Mexican Ancestry	MXL
+GM19757	AMR	19757	male	American Ancestry	Mexican Ancestry	MXL
+GM19758	AMR	19758	female	American Ancestry	Mexican Ancestry	MXL
+GM19759	AMR	19759	male	American Ancestry	Mexican Ancestry	MXL
+GM19760	AMR	19760	female	American Ancestry	Mexican Ancestry	MXL
+GM19761	AMR	19761	female	American Ancestry	Mexican Ancestry	MXL
+GM19762	AMR	19762	male	American Ancestry	Mexican Ancestry	MXL
+GM19763	AMR	19763	female	American Ancestry	Mexican Ancestry	MXL
+GM19764	AMR	19764	female	American Ancestry	Mexican Ancestry	MXL
+GM19770	AMR	19770	female	American Ancestry	Mexican Ancestry	MXL
+GM19771	AMR	19771	male	American Ancestry	Mexican Ancestry	MXL
+GM19772	AMR	19772	male	American Ancestry	Mexican Ancestry	MXL
+GM19773	AMR	19773	female	American Ancestry	Mexican Ancestry	MXL
+GM19774	AMR	19774	male	American Ancestry	Mexican Ancestry	MXL
+GM19775	AMR	19775	female	American Ancestry	Mexican Ancestry	MXL
+GM19776	AMR	19776	female	American Ancestry	Mexican Ancestry	MXL
+GM19777	AMR	19777	male	American Ancestry	Mexican Ancestry	MXL
+GM19778	AMR	19778	male	American Ancestry	Mexican Ancestry	MXL
+GM19779	AMR	19779	female	American Ancestry	Mexican Ancestry	MXL
+GM19780	AMR	19780	male	American Ancestry	Mexican Ancestry	MXL
+GM19781	AMR	19781	female	American Ancestry	Mexican Ancestry	MXL
+GM19782	AMR	19782	female	American Ancestry	Mexican Ancestry	MXL
+GM19783	AMR	19783	male	American Ancestry	Mexican Ancestry	MXL
+GM19784	AMR	19784	male	American Ancestry	Mexican Ancestry	MXL
+GM19785	AMR	19785	female	American Ancestry	Mexican Ancestry	MXL
+GM19786	AMR	19786	male	American Ancestry	Mexican Ancestry	MXL
+GM19787	AMR	19787	male	American Ancestry	Mexican Ancestry	MXL
+GM19788	AMR	19788	female	American Ancestry	Mexican Ancestry	MXL
+GM19789	AMR	19789	male	American Ancestry	Mexican Ancestry	MXL
+GM19790	AMR	19790	female	American Ancestry	Mexican Ancestry	MXL
+GM19792	AMR	19792	male	American Ancestry	Mexican Ancestry	MXL
+GM19794	AMR	19794	female	American Ancestry	Mexican Ancestry	MXL
+GM19795	AMR	19795	male	American Ancestry	Mexican Ancestry	MXL
+GM19796	AMR	19796	male	American Ancestry	Mexican Ancestry	MXL
+HG01565	AMR	1565	male	American Ancestry	Peruvian	PEL
+HG01566	AMR	1566	female	American Ancestry	Peruvian	PEL
+HG01567	AMR	1567	female	American Ancestry	Peruvian	PEL
+HG01571	AMR	1571	male	American Ancestry	Peruvian	PEL
+HG01572	AMR	1572	female	American Ancestry	Peruvian	PEL
+HG01573	AMR	1573	female	American Ancestry	Peruvian	PEL
+HG01577	AMR	1577	male	American Ancestry	Peruvian	PEL
+HG01578	AMR	1578	female	American Ancestry	Peruvian	PEL
+HG01579	AMR	1579	male	American Ancestry	Peruvian	PEL
+HG01892	AMR	1892	male	American Ancestry	Peruvian	PEL
+HG01893	AMR	1893	female	American Ancestry	Peruvian	PEL
+HG01898	AMR	1898	female	American Ancestry	Peruvian	PEL
+HG01917	AMR	1917	male	American Ancestry	Peruvian	PEL
+HG01918	AMR	1918	female	American Ancestry	Peruvian	PEL
+HG01919	AMR	1919	female	American Ancestry	Peruvian	PEL
+HG01920	AMR	1920	male	American Ancestry	Peruvian	PEL
+HG01921	AMR	1921	female	American Ancestry	Peruvian	PEL
+HG01922	AMR	1922	female	American Ancestry	Peruvian	PEL
+HG01923	AMR	1923	male	American Ancestry	Peruvian	PEL
+HG01924	AMR	1924	female	American Ancestry	Peruvian	PEL
+HG01925	AMR	1925	female	American Ancestry	Peruvian	PEL
+HG01926	AMR	1926	male	American Ancestry	Peruvian	PEL
+HG01927	AMR	1927	female	American Ancestry	Peruvian	PEL
+HG01928	AMR	1928	male	American Ancestry	Peruvian	PEL
+HG01932	AMR	1932	male	American Ancestry	Peruvian	PEL
+HG01933	AMR	1933	female	American Ancestry	Peruvian	PEL
+HG01934	AMR	1934	male	American Ancestry	Peruvian	PEL
+HG01935	AMR	1935	male	American Ancestry	Peruvian	PEL
+HG01936	AMR	1936	female	American Ancestry	Peruvian	PEL
+HG01937	AMR	1937	male	American Ancestry	Peruvian	PEL
+HG01938	AMR	1938	male	American Ancestry	Peruvian	PEL
+HG01939	AMR	1939	female	American Ancestry	Peruvian	PEL
+HG01940	AMR	1940	female	American Ancestry	Peruvian	PEL
+HG01941	AMR	1941	male	American Ancestry	Peruvian	PEL
+HG01942	AMR	1942	female	American Ancestry	Peruvian	PEL
+HG01943	AMR	1943	male	American Ancestry	Peruvian	PEL
+HG01944	AMR	1944	male	American Ancestry	Peruvian	PEL
+HG01945	AMR	1945	female	American Ancestry	Peruvian	PEL
+HG01946	AMR	1946	male	American Ancestry	Peruvian	PEL
+HG01947	AMR	1947	male	American Ancestry	Peruvian	PEL
+HG01948	AMR	1948	female	American Ancestry	Peruvian	PEL
+HG01949	AMR	1949	female	American Ancestry	Peruvian	PEL
+HG01950	AMR	1950	male	American Ancestry	Peruvian	PEL
+HG01951	AMR	1951	female	American Ancestry	Peruvian	PEL
+HG01952	AMR	1952	male	American Ancestry	Peruvian	PEL
+HG01953	AMR	1953	male	American Ancestry	Peruvian	PEL
+HG01954	AMR	1954	female	American Ancestry	Peruvian	PEL
+HG01955	AMR	1955	female	American Ancestry	Peruvian	PEL
+HG01961	AMR	1961	male	American Ancestry	Peruvian	PEL
+HG01965	AMR	1965	female	American Ancestry	Peruvian	PEL
+HG01967	AMR	1967	male	American Ancestry	Peruvian	PEL
+HG01968	AMR	1968	female	American Ancestry	Peruvian	PEL
+HG01969	AMR	1969	female	American Ancestry	Peruvian	PEL
+HG01970	AMR	1970	male	American Ancestry	Peruvian	PEL
+HG01971	AMR	1971	female	American Ancestry	Peruvian	PEL
+HG01972	AMR	1972	female	American Ancestry	Peruvian	PEL
+HG01973	AMR	1973	female	American Ancestry	Peruvian	PEL
+HG01974	AMR	1974	male	American Ancestry	Peruvian	PEL
+HG01975	AMR	1975	female	American Ancestry	Peruvian	PEL
+HG01976	AMR	1976	female	American Ancestry	Peruvian	PEL
+HG01977	AMR	1977	male	American Ancestry	Peruvian	PEL
+HG01978	AMR	1978	female	American Ancestry	Peruvian	PEL
+HG01979	AMR	1979	male	American Ancestry	Peruvian	PEL
+HG01980	AMR	1980	female	American Ancestry	Peruvian	PEL
+HG01981	AMR	1981	female	American Ancestry	Peruvian	PEL
+HG01982	AMR	1982	male	American Ancestry	Peruvian	PEL
+HG01983	AMR	1983	female	American Ancestry	Peruvian	PEL
+HG01984	AMR	1984	male	American Ancestry	Peruvian	PEL
+HG01991	AMR	1991	male	American Ancestry	Peruvian	PEL
+HG01992	AMR	1992	female	American Ancestry	Peruvian	PEL
+HG01993	AMR	1993	female	American Ancestry	Peruvian	PEL
+HG01997	AMR	1997	female	American Ancestry	Peruvian	PEL
+HG01998	AMR	1998	male	American Ancestry	Peruvian	PEL
+HG02002	AMR	2002	male	American Ancestry	Peruvian	PEL
+HG02003	AMR	2003	female	American Ancestry	Peruvian	PEL
+HG02004	AMR	2004	female	American Ancestry	Peruvian	PEL
+HG02006	AMR	2006	female	American Ancestry	Peruvian	PEL
+HG02008	AMR	2008	male	American Ancestry	Peruvian	PEL
+HG02089	AMR	2089	female	American Ancestry	Peruvian	PEL
+HG02090	AMR	2090	male	American Ancestry	Peruvian	PEL
+HG02091	AMR	2091	female	American Ancestry	Peruvian	PEL
+HG02102	AMR	2102	female	American Ancestry	Peruvian	PEL
+HG02104	AMR	2104	male	American Ancestry	Peruvian	PEL
+HG02105	AMR	2105	female	American Ancestry	Peruvian	PEL
+HG02106	AMR	2106	female	American Ancestry	Peruvian	PEL
+HG02146	AMR	2146	male	American Ancestry	Peruvian	PEL
+HG02147	AMR	2147	female	American Ancestry	Peruvian	PEL
+HG02148	AMR	2148	female	American Ancestry	Peruvian	PEL
+HG02150	AMR	2150	male	American Ancestry	Peruvian	PEL
+HG02252	AMR	2252	female	American Ancestry	Peruvian	PEL
+HG02253	AMR	2253	male	American Ancestry	Peruvian	PEL
+HG02259	AMR	2259	male	American Ancestry	Peruvian	PEL
+HG02260	AMR	2260	female	American Ancestry	Peruvian	PEL
+HG02261	AMR	2261	male	American Ancestry	Peruvian	PEL
+HG02262	AMR	2262	male	American Ancestry	Peruvian	PEL
+HG02265	AMR	2265	male	American Ancestry	Peruvian	PEL
+HG02266	AMR	2266	female	American Ancestry	Peruvian	PEL
+HG02271	AMR	2271	male	American Ancestry	Peruvian	PEL
+HG02272	AMR	2272	female	American Ancestry	Peruvian	PEL
+HG02273	AMR	2273	female	American Ancestry	Peruvian	PEL
+HG02274	AMR	2274	male	American Ancestry	Peruvian	PEL
+HG02275	AMR	2275	female	American Ancestry	Peruvian	PEL
+HG02277	AMR	2277	male	American Ancestry	Peruvian	PEL
+HG02278	AMR	2278	female	American Ancestry	Peruvian	PEL
+HG02279	AMR	2279	male	American Ancestry	Peruvian	PEL
+HG02285	AMR	2285	male	American Ancestry	Peruvian	PEL
+HG02286	AMR	2286	female	American Ancestry	Peruvian	PEL
+HG02287	AMR	2287	female	American Ancestry	Peruvian	PEL
+HG02291	AMR	2291	male	American Ancestry	Peruvian	PEL
+HG02292	AMR	2292	female	American Ancestry	Peruvian	PEL
+HG02293	AMR	2293	female	American Ancestry	Peruvian	PEL
+HG02298	AMR	2298	female	American Ancestry	Peruvian	PEL
+HG02299	AMR	2299	male	American Ancestry	Peruvian	PEL
+HG02300	AMR	2300	male	American Ancestry	Peruvian	PEL
+HG02301	AMR	2301	female	American Ancestry	Peruvian	PEL
+HG02302	AMR	2302	male	American Ancestry	Peruvian	PEL
+HG02303	AMR	2303	female	American Ancestry	Peruvian	PEL
+HG02304	AMR	2304	male	American Ancestry	Peruvian	PEL
+HG02312	AMR	2312	female	American Ancestry	Peruvian	PEL
+HG02345	AMR	2345	female	American Ancestry	Peruvian	PEL
+HG02348	AMR	2348	female	American Ancestry	Peruvian	PEL
+HG02425	AMR	2425	female	American Ancestry	Peruvian	PEL
+HG00551	AMR	551	female	American Ancestry	Puerto Rican	PUR
+HG00552	AMR	552	male	American Ancestry	Puerto Rican	PUR
+HG00553	AMR	553	male	American Ancestry	Puerto Rican	PUR
+HG00554	AMR	554	female	American Ancestry	Puerto Rican	PUR
+HG00555	AMR	555	female	American Ancestry	Puerto Rican	PUR
+HG00637	AMR	637	male	American Ancestry	Puerto Rican	PUR
+HG00638	AMR	638	female	American Ancestry	Puerto Rican	PUR
+HG00639	AMR	639	female	American Ancestry	Puerto Rican	PUR
+HG00640	AMR	640	male	American Ancestry	Puerto Rican	PUR
+HG00641	AMR	641	female	American Ancestry	Puerto Rican	PUR
+HG00642	AMR	642	male	American Ancestry	Puerto Rican	PUR
+HG00731	AMR	731	male	American Ancestry	Puerto Rican	PUR
+HG00732	AMR	732	female	American Ancestry	Puerto Rican	PUR
+HG00733	AMR	733	female	American Ancestry	Puerto Rican	PUR
+HG00734	AMR	734	female	American Ancestry	Puerto Rican	PUR
+HG00735	AMR	735	female	American Ancestry	Puerto Rican	PUR
+HG00736	AMR	736	male	American Ancestry	Puerto Rican	PUR
+HG00737	AMR	737	female	American Ancestry	Puerto Rican	PUR
+HG00738	AMR	738	male	American Ancestry	Puerto Rican	PUR
+HG00739	AMR	739	male	American Ancestry	Puerto Rican	PUR
+HG00740	AMR	740	female	American Ancestry	Puerto Rican	PUR
+HG00741	AMR	741	female	American Ancestry	Puerto Rican	PUR
+HG00742	AMR	742	male	American Ancestry	Puerto Rican	PUR
+HG00743	AMR	743	female	American Ancestry	Puerto Rican	PUR
+HG01047	AMR	1047	male	American Ancestry	Puerto Rican	PUR
+HG01048	AMR	1048	male	American Ancestry	Puerto Rican	PUR
+HG01049	AMR	1049	female	American Ancestry	Puerto Rican	PUR
+HG01050	AMR	1050	female	American Ancestry	Puerto Rican	PUR
+HG01051	AMR	1051	male	American Ancestry	Puerto Rican	PUR
+HG01052	AMR	1052	female	American Ancestry	Puerto Rican	PUR
+HG01053	AMR	1053	female	American Ancestry	Puerto Rican	PUR
+HG01054	AMR	1054	male	American Ancestry	Puerto Rican	PUR
+HG01055	AMR	1055	female	American Ancestry	Puerto Rican	PUR
+HG01056	AMR	1056	male	American Ancestry	Puerto Rican	PUR
+HG01058	AMR	1058	female	American Ancestry	Puerto Rican	PUR
+HG01060	AMR	1060	male	American Ancestry	Puerto Rican	PUR
+HG01061	AMR	1061	female	American Ancestry	Puerto Rican	PUR
+HG01062	AMR	1062	female	American Ancestry	Puerto Rican	PUR
+HG01063	AMR	1063	male	American Ancestry	Puerto Rican	PUR
+HG01064	AMR	1064	female	American Ancestry	Puerto Rican	PUR
+HG01066	AMR	1066	male	American Ancestry	Puerto Rican	PUR
+HG01067	AMR	1067	female	American Ancestry	Puerto Rican	PUR
+HG01068	AMR	1068	female	American Ancestry	Puerto Rican	PUR
+HG01069	AMR	1069	male	American Ancestry	Puerto Rican	PUR
+HG01070	AMR	1070	female	American Ancestry	Puerto Rican	PUR
+HG01071	AMR	1071	female	American Ancestry	Puerto Rican	PUR
+HG01072	AMR	1072	male	American Ancestry	Puerto Rican	PUR
+HG01073	AMR	1073	female	American Ancestry	Puerto Rican	PUR
+HG01074	AMR	1074	male	American Ancestry	Puerto Rican	PUR
+HG01075	AMR	1075	male	American Ancestry	Puerto Rican	PUR
+HG01077	AMR	1077	female	American Ancestry	Puerto Rican	PUR
+HG01079	AMR	1079	male	American Ancestry	Puerto Rican	PUR
+HG01080	AMR	1080	female	American Ancestry	Puerto Rican	PUR
+HG01081	AMR	1081	female	American Ancestry	Puerto Rican	PUR
+HG01082	AMR	1082	male	American Ancestry	Puerto Rican	PUR
+HG01083	AMR	1083	female	American Ancestry	Puerto Rican	PUR
+HG01084	AMR	1084	female	American Ancestry	Puerto Rican	PUR
+HG01085	AMR	1085	male	American Ancestry	Puerto Rican	PUR
+HG01086	AMR	1086	female	American Ancestry	Puerto Rican	PUR
+HG01087	AMR	1087	female	American Ancestry	Puerto Rican	PUR
+HG01088	AMR	1088	male	American Ancestry	Puerto Rican	PUR
+HG01089	AMR	1089	female	American Ancestry	Puerto Rican	PUR
+HG01092	AMR	1092	female	American Ancestry	Puerto Rican	PUR
+HG01094	AMR	1094	male	American Ancestry	Puerto Rican	PUR
+HG01095	AMR	1095	female	American Ancestry	Puerto Rican	PUR
+HG01096	AMR	1096	male	American Ancestry	Puerto Rican	PUR
+HG01097	AMR	1097	male	American Ancestry	Puerto Rican	PUR
+HG01098	AMR	1098	female	American Ancestry	Puerto Rican	PUR
+HG01099	AMR	1099	male	American Ancestry	Puerto Rican	PUR
+HG01100	AMR	1100	female	American Ancestry	Puerto Rican	PUR
+HG01101	AMR	1101	male	American Ancestry	Puerto Rican	PUR
+HG01102	AMR	1102	female	American Ancestry	Puerto Rican	PUR
+HG01103	AMR	1103	female	American Ancestry	Puerto Rican	PUR
+HG01104	AMR	1104	male	American Ancestry	Puerto Rican	PUR
+HG01105	AMR	1105	female	American Ancestry	Puerto Rican	PUR
+HG01106	AMR	1106	male	American Ancestry	Puerto Rican	PUR
+HG01107	AMR	1107	male	American Ancestry	Puerto Rican	PUR
+HG01108	AMR	1108	female	American Ancestry	Puerto Rican	PUR
+HG01109	AMR	1109	male	American Ancestry	Puerto Rican	PUR
+HG01110	AMR	1110	male	American Ancestry	Puerto Rican	PUR
+HG01111	AMR	1111	female	American Ancestry	Puerto Rican	PUR
+HG01161	AMR	1161	male	American Ancestry	Puerto Rican	PUR
+HG01162	AMR	1162	female	American Ancestry	Puerto Rican	PUR
+HG01164	AMR	1164	male	American Ancestry	Puerto Rican	PUR
+HG01167	AMR	1167	male	American Ancestry	Puerto Rican	PUR
+HG01168	AMR	1168	female	American Ancestry	Puerto Rican	PUR
+HG01169	AMR	1169	female	American Ancestry	Puerto Rican	PUR
+HG01170	AMR	1170	male	American Ancestry	Puerto Rican	PUR
+HG01171	AMR	1171	female	American Ancestry	Puerto Rican	PUR
+HG01172	AMR	1172	male	American Ancestry	Puerto Rican	PUR
+HG01173	AMR	1173	male	American Ancestry	Puerto Rican	PUR
+HG01174	AMR	1174	female	American Ancestry	Puerto Rican	PUR
+HG01175	AMR	1175	female	American Ancestry	Puerto Rican	PUR
+HG01176	AMR	1176	male	American Ancestry	Puerto Rican	PUR
+HG01177	AMR	1177	female	American Ancestry	Puerto Rican	PUR
+HG01178	AMR	1178	male	American Ancestry	Puerto Rican	PUR
+HG01182	AMR	1182	male	American Ancestry	Puerto Rican	PUR
+HG01183	AMR	1183	female	American Ancestry	Puerto Rican	PUR
+HG01184	AMR	1184	female	American Ancestry	Puerto Rican	PUR
+HG01187	AMR	1187	male	American Ancestry	Puerto Rican	PUR
+HG01188	AMR	1188	female	American Ancestry	Puerto Rican	PUR
+HG01189	AMR	1189	male	American Ancestry	Puerto Rican	PUR
+HG01190	AMR	1190	male	American Ancestry	Puerto Rican	PUR
+HG01191	AMR	1191	female	American Ancestry	Puerto Rican	PUR
+HG01192	AMR	1192	male	American Ancestry	Puerto Rican	PUR
+HG01197	AMR	1197	male	American Ancestry	Puerto Rican	PUR
+HG01198	AMR	1198	female	American Ancestry	Puerto Rican	PUR
+HG01199	AMR	1199	male	American Ancestry	Puerto Rican	PUR
+HG01200	AMR	1200	male	American Ancestry	Puerto Rican	PUR
+HG01204	AMR	1204	male	American Ancestry	Puerto Rican	PUR
+HG01205	AMR	1205	female	American Ancestry	Puerto Rican	PUR
+HG01206	AMR	1206	male	American Ancestry	Puerto Rican	PUR
+HG01241	AMR	1241	male	American Ancestry	Puerto Rican	PUR
+HG01242	AMR	1242	female	American Ancestry	Puerto Rican	PUR
+HG01243	AMR	1243	male	American Ancestry	Puerto Rican	PUR
+HG01247	AMR	1247	male	American Ancestry	Puerto Rican	PUR
+HG01248	AMR	1248	female	American Ancestry	Puerto Rican	PUR
+HG01249	AMR	1249	female	American Ancestry	Puerto Rican	PUR
+HG01286	AMR	1286	male	American Ancestry	Puerto Rican	PUR
+HG01302	AMR	1302	male	American Ancestry	Puerto Rican	PUR
+HG01303	AMR	1303	female	American Ancestry	Puerto Rican	PUR
+HG01305	AMR	1305	male	American Ancestry	Puerto Rican	PUR
+HG01308	AMR	1308	male	American Ancestry	Puerto Rican	PUR
+HG01311	AMR	1311	male	American Ancestry	Puerto Rican	PUR
+HG01312	AMR	1312	female	American Ancestry	Puerto Rican	PUR
+HG01323	AMR	1323	female	American Ancestry	Puerto Rican	PUR
+HG01325	AMR	1325	male	American Ancestry	Puerto Rican	PUR
+HG01326	AMR	1326	female	American Ancestry	Puerto Rican	PUR
+HG01392	AMR	1392	male	American Ancestry	Puerto Rican	PUR
+HG01393	AMR	1393	female	American Ancestry	Puerto Rican	PUR
+HG01395	AMR	1395	male	American Ancestry	Puerto Rican	PUR
+HG01396	AMR	1396	female	American Ancestry	Puerto Rican	PUR
+HG01398	AMR	1398	male	American Ancestry	Puerto Rican	PUR
+HG01402	AMR	1402	male	American Ancestry	Puerto Rican	PUR
+HG01403	AMR	1403	female	American Ancestry	Puerto Rican	PUR
+HG01405	AMR	1405	male	American Ancestry	Puerto Rican	PUR
+HG01412	AMR	1412	male	American Ancestry	Puerto Rican	PUR
+HG01413	AMR	1413	male	American Ancestry	Puerto Rican	PUR
+HG01414	AMR	1414	female	American Ancestry	Puerto Rican	PUR
+HG01583	SAS	1583	male	South Asian Ancestry	Punjabi	PJL
+HG01586	SAS	1586	male	South Asian Ancestry	Punjabi	PJL
+HG01589	SAS	1589	male	South Asian Ancestry	Punjabi	PJL
+HG01593	SAS	1593	female	South Asian Ancestry	Punjabi	PJL
+HG02490	SAS	2490	male	South Asian Ancestry	Punjabi	PJL
+HG02491	SAS	2491	female	South Asian Ancestry	Punjabi	PJL
+HG02492	SAS	2492	male	South Asian Ancestry	Punjabi	PJL
+HG02493	SAS	2493	male	South Asian Ancestry	Punjabi	PJL
+HG02495	SAS	2495	female	South Asian Ancestry	Punjabi	PJL
+HG02597	SAS	2597	male	South Asian Ancestry	Punjabi	PJL
+HG02600	SAS	2600	male	South Asian Ancestry	Punjabi	PJL
+HG02601	SAS	2601	female	South Asian Ancestry	Punjabi	PJL
+HG02602	SAS	2602	male	South Asian Ancestry	Punjabi	PJL
+HG02603	SAS	2603	male	South Asian Ancestry	Punjabi	PJL
+HG02604	SAS	2604	female	South Asian Ancestry	Punjabi	PJL
+HG02605	SAS	2605	female	South Asian Ancestry	Punjabi	PJL
+HG02648	SAS	2648	male	South Asian Ancestry	Punjabi	PJL
+HG02649	SAS	2649	female	South Asian Ancestry	Punjabi	PJL
+HG02650	SAS	2650	male	South Asian Ancestry	Punjabi	PJL
+HG02651	SAS	2651	male	South Asian Ancestry	Punjabi	PJL
+HG02652	SAS	2652	female	South Asian Ancestry	Punjabi	PJL
+HG02653	SAS	2653	female	South Asian Ancestry	Punjabi	PJL
+HG02654	SAS	2654	male	South Asian Ancestry	Punjabi	PJL
+HG02655	SAS	2655	female	South Asian Ancestry	Punjabi	PJL
+HG02656	SAS	2656	male	South Asian Ancestry	Punjabi	PJL
+HG02657	SAS	2657	male	South Asian Ancestry	Punjabi	PJL
+HG02658	SAS	2658	female	South Asian Ancestry	Punjabi	PJL
+HG02659	SAS	2659	female	South Asian Ancestry	Punjabi	PJL
+HG02660	SAS	2660	male	South Asian Ancestry	Punjabi	PJL
+HG02661	SAS	2661	female	South Asian Ancestry	Punjabi	PJL
+HG02662	SAS	2662	female	South Asian Ancestry	Punjabi	PJL
+HG02681	SAS	2681	male	South Asian Ancestry	Punjabi	PJL
+HG02682	SAS	2682	female	South Asian Ancestry	Punjabi	PJL
+HG02683	SAS	2683	female	South Asian Ancestry	Punjabi	PJL
+HG02684	SAS	2684	male	South Asian Ancestry	Punjabi	PJL
+HG02685	SAS	2685	female	South Asian Ancestry	Punjabi	PJL
+HG02686	SAS	2686	male	South Asian Ancestry	Punjabi	PJL
+HG02687	SAS	2687	male	South Asian Ancestry	Punjabi	PJL
+HG02688	SAS	2688	female	South Asian Ancestry	Punjabi	PJL
+HG02689	SAS	2689	male	South Asian Ancestry	Punjabi	PJL
+HG02690	SAS	2690	male	South Asian Ancestry	Punjabi	PJL
+HG02691	SAS	2691	female	South Asian Ancestry	Punjabi	PJL
+HG02692	SAS	2692	female	South Asian Ancestry	Punjabi	PJL
+HG02694	SAS	2694	female	South Asian Ancestry	Punjabi	PJL
+HG02696	SAS	2696	male	South Asian Ancestry	Punjabi	PJL
+HG02697	SAS	2697	female	South Asian Ancestry	Punjabi	PJL
+HG02698	SAS	2698	male	South Asian Ancestry	Punjabi	PJL
+HG02699	SAS	2699	male	South Asian Ancestry	Punjabi	PJL
+HG02700	SAS	2700	female	South Asian Ancestry	Punjabi	PJL
+HG02701	SAS	2701	male	South Asian Ancestry	Punjabi	PJL
+HG02725	SAS	2725	female	South Asian Ancestry	Punjabi	PJL
+HG02726	SAS	2726	female	South Asian Ancestry	Punjabi	PJL
+HG02727	SAS	2727	male	South Asian Ancestry	Punjabi	PJL
+HG02728	SAS	2728	female	South Asian Ancestry	Punjabi	PJL
+HG02729	SAS	2729	male	South Asian Ancestry	Punjabi	PJL
+HG02731	SAS	2731	female	South Asian Ancestry	Punjabi	PJL
+HG02733	SAS	2733	male	South Asian Ancestry	Punjabi	PJL
+HG02734	SAS	2734	female	South Asian Ancestry	Punjabi	PJL
+HG02735	SAS	2735	male	South Asian Ancestry	Punjabi	PJL
+HG02736	SAS	2736	male	South Asian Ancestry	Punjabi	PJL
+HG02737	SAS	2737	female	South Asian Ancestry	Punjabi	PJL
+HG02738	SAS	2738	male	South Asian Ancestry	Punjabi	PJL
+HG02774	SAS	2774	male	South Asian Ancestry	Punjabi	PJL
+HG02775	SAS	2775	female	South Asian Ancestry	Punjabi	PJL
+HG02776	SAS	2776	female	South Asian Ancestry	Punjabi	PJL
+HG02778	SAS	2778	female	South Asian Ancestry	Punjabi	PJL
+HG02780	SAS	2780	male	South Asian Ancestry	Punjabi	PJL
+HG02784	SAS	2784	female	South Asian Ancestry	Punjabi	PJL
+HG02785	SAS	2785	female	South Asian Ancestry	Punjabi	PJL
+HG02786	SAS	2786	male	South Asian Ancestry	Punjabi	PJL
+HG02787	SAS	2787	female	South Asian Ancestry	Punjabi	PJL
+HG02788	SAS	2788	female	South Asian Ancestry	Punjabi	PJL
+HG02789	SAS	2789	male	South Asian Ancestry	Punjabi	PJL
+HG02791	SAS	2791	male	South Asian Ancestry	Punjabi	PJL
+HG02792	SAS	2792	male	South Asian Ancestry	Punjabi	PJL
+HG02793	SAS	2793	female	South Asian Ancestry	Punjabi	PJL
+HG02794	SAS	2794	male	South Asian Ancestry	Punjabi	PJL
+HG03015	SAS	3015	male	South Asian Ancestry	Punjabi	PJL
+HG03016	SAS	3016	female	South Asian Ancestry	Punjabi	PJL
+HG03017	SAS	3017	male	South Asian Ancestry	Punjabi	PJL
+HG03018	SAS	3018	male	South Asian Ancestry	Punjabi	PJL
+HG03019	SAS	3019	female	South Asian Ancestry	Punjabi	PJL
+HG03021	SAS	3021	male	South Asian Ancestry	Punjabi	PJL
+HG03022	SAS	3022	female	South Asian Ancestry	Punjabi	PJL
+HG03228	SAS	3228	male	South Asian Ancestry	Punjabi	PJL
+HG03229	SAS	3229	female	South Asian Ancestry	Punjabi	PJL
+HG03230	SAS	3230	female	South Asian Ancestry	Punjabi	PJL
+HG03234	SAS	3234	male	South Asian Ancestry	Punjabi	PJL
+HG03235	SAS	3235	female	South Asian Ancestry	Punjabi	PJL
+HG03236	SAS	3236	female	South Asian Ancestry	Punjabi	PJL
+HG03237	SAS	3237	male	South Asian Ancestry	Punjabi	PJL
+HG03238	SAS	3238	female	South Asian Ancestry	Punjabi	PJL
+HG03239	SAS	3239	female	South Asian Ancestry	Punjabi	PJL
+HG03487	SAS	3487	male	South Asian Ancestry	Punjabi	PJL
+HG03488	SAS	3488	female	South Asian Ancestry	Punjabi	PJL
+HG03489	SAS	3489	male	South Asian Ancestry	Punjabi	PJL
+HG03490	SAS	3490	male	South Asian Ancestry	Punjabi	PJL
+HG03491	SAS	3491	female	South Asian Ancestry	Punjabi	PJL
+HG03492	SAS	3492	male	South Asian Ancestry	Punjabi	PJL
+HG03618	SAS	3618	male	South Asian Ancestry	Punjabi	PJL
+HG03619	SAS	3619	female	South Asian Ancestry	Punjabi	PJL
+HG03620	SAS	3620	female	South Asian Ancestry	Punjabi	PJL
+HG03624	SAS	3624	male	South Asian Ancestry	Punjabi	PJL
+HG03625	SAS	3625	female	South Asian Ancestry	Punjabi	PJL
+HG03626	SAS	3626	female	South Asian Ancestry	Punjabi	PJL
+HG03629	SAS	3629	male	South Asian Ancestry	Punjabi	PJL
+HG03631	SAS	3631	female	South Asian Ancestry	Punjabi	PJL
+HG03633	SAS	3633	male	South Asian Ancestry	Punjabi	PJL
+HG03634	SAS	3634	female	South Asian Ancestry	Punjabi	PJL
+HG03635	SAS	3635	female	South Asian Ancestry	Punjabi	PJL
+HG03636	SAS	3636	male	South Asian Ancestry	Punjabi	PJL
+HG03639	SAS	3639	male	South Asian Ancestry	Punjabi	PJL
+HG03640	SAS	3640	female	South Asian Ancestry	Punjabi	PJL
+HG03641	SAS	3641	male	South Asian Ancestry	Punjabi	PJL
+HG03649	SAS	3649	male	South Asian Ancestry	Punjabi	PJL
+HG03650	SAS	3650	female	South Asian Ancestry	Punjabi	PJL
+HG03651	SAS	3651	male	South Asian Ancestry	Punjabi	PJL
+HG03652	SAS	3652	male	South Asian Ancestry	Punjabi	PJL
+HG03653	SAS	3653	female	South Asian Ancestry	Punjabi	PJL
+HG03654	SAS	3654	male	South Asian Ancestry	Punjabi	PJL
+HG03660	SAS	3660	male	South Asian Ancestry	Punjabi	PJL
+HG03663	SAS	3663	male	South Asian Ancestry	Punjabi	PJL
+HG03667	SAS	3667	male	South Asian Ancestry	Punjabi	PJL
+HG03668	SAS	3668	female	South Asian Ancestry	Punjabi	PJL
+HG03669	SAS	3669	female	South Asian Ancestry	Punjabi	PJL
+HG03699	SAS	3699	male	South Asian Ancestry	Punjabi	PJL
+HG03700	SAS	3700	female	South Asian Ancestry	Punjabi	PJL
+HG03701	SAS	3701	male	South Asian Ancestry	Punjabi	PJL
+HG03702	SAS	3702	male	South Asian Ancestry	Punjabi	PJL
+HG03703	SAS	3703	female	South Asian Ancestry	Punjabi	PJL
+HG03704	SAS	3704	female	South Asian Ancestry	Punjabi	PJL
+HG03705	SAS	3705	male	South Asian Ancestry	Punjabi	PJL
+HG03706	SAS	3706	female	South Asian Ancestry	Punjabi	PJL
+HG03707	SAS	3707	male	South Asian Ancestry	Punjabi	PJL
+HG03708	SAS	3708	male	South Asian Ancestry	Punjabi	PJL
+HG03709	SAS	3709	female	South Asian Ancestry	Punjabi	PJL
+HG03710	SAS	3710	male	South Asian Ancestry	Punjabi	PJL
+HG03761	SAS	3761	male	South Asian Ancestry	Punjabi	PJL
+HG03762	SAS	3762	female	South Asian Ancestry	Punjabi	PJL
+HG03763	SAS	3763	male	South Asian Ancestry	Punjabi	PJL
+HG03765	SAS	3765	female	South Asian Ancestry	Punjabi	PJL
+HG03767	SAS	3767	male	South Asian Ancestry	Punjabi	PJL
+HG02494	SAS	2494	female	"South Asia (SGDP),South Asian Ancestry"	"Punjabi,Punjabi"	PJL
+HG02724	SAS	2724	male	"South Asia (SGDP),South Asian Ancestry"	"Punjabi,Punjabi"	PJL
+HG02783	SAS	2783	male	"South Asia (SGDP),South Asian Ancestry"	"Punjabi,Punjabi"	PJL
+HG02790	SAS	2790	female	"South Asia (SGDP),South Asian Ancestry"	"Punjabi,Punjabi"	PJL
+HG00403	EAS	403	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00404	EAS	404	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00405	EAS	405	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00406	EAS	406	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00407	EAS	407	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00408	EAS	408	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00409	EAS	409	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00410	EAS	410	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00418	EAS	418	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00419	EAS	419	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00420	EAS	420	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00421	EAS	421	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00422	EAS	422	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00423	EAS	423	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00427	EAS	427	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00428	EAS	428	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00429	EAS	429	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00436	EAS	436	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00437	EAS	437	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00438	EAS	438	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00442	EAS	442	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00443	EAS	443	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00444	EAS	444	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00445	EAS	445	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00446	EAS	446	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00447	EAS	447	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00448	EAS	448	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00449	EAS	449	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00450	EAS	450	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00451	EAS	451	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00452	EAS	452	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00453	EAS	453	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00457	EAS	457	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00458	EAS	458	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00459	EAS	459	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00463	EAS	463	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00464	EAS	464	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00465	EAS	465	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00472	EAS	472	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00473	EAS	473	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00474	EAS	474	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00475	EAS	475	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00476	EAS	476	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00477	EAS	477	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00478	EAS	478	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00479	EAS	479	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00480	EAS	480	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00500	EAS	500	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00501	EAS	501	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00502	EAS	502	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00512	EAS	512	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00513	EAS	513	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00514	EAS	514	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00524	EAS	524	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00525	EAS	525	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00526	EAS	526	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00530	EAS	530	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00531	EAS	531	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00532	EAS	532	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00533	EAS	533	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00534	EAS	534	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00535	EAS	535	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00536	EAS	536	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00537	EAS	537	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00538	EAS	538	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00542	EAS	542	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00543	EAS	543	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00544	EAS	544	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00556	EAS	556	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00557	EAS	557	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00558	EAS	558	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00559	EAS	559	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00560	EAS	560	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00561	EAS	561	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00565	EAS	565	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00566	EAS	566	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00567	EAS	567	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00577	EAS	577	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00578	EAS	578	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00579	EAS	579	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00580	EAS	580	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00581	EAS	581	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00582	EAS	582	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00583	EAS	583	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00584	EAS	584	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00585	EAS	585	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00589	EAS	589	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00590	EAS	590	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00591	EAS	591	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00592	EAS	592	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00593	EAS	593	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00594	EAS	594	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00595	EAS	595	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00596	EAS	596	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00597	EAS	597	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00598	EAS	598	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00599	EAS	599	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00607	EAS	607	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00608	EAS	608	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00609	EAS	609	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00610	EAS	610	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00611	EAS	611	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00612	EAS	612	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00613	EAS	613	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00614	EAS	614	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00615	EAS	615	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00619	EAS	619	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00620	EAS	620	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00621	EAS	621	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00622	EAS	622	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00623	EAS	623	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00625	EAS	625	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00626	EAS	626	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00627	EAS	627	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00628	EAS	628	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00629	EAS	629	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00630	EAS	630	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00631	EAS	631	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00632	EAS	632	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00634	EAS	634	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00635	EAS	635	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00636	EAS	636	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00650	EAS	650	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00651	EAS	651	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00652	EAS	652	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00653	EAS	653	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00654	EAS	654	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00655	EAS	655	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00656	EAS	656	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00657	EAS	657	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00658	EAS	658	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00662	EAS	662	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00663	EAS	663	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00664	EAS	664	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00671	EAS	671	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00672	EAS	672	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00673	EAS	673	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00674	EAS	674	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00675	EAS	675	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00683	EAS	683	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00684	EAS	684	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00685	EAS	685	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00689	EAS	689	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00690	EAS	690	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00691	EAS	691	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00692	EAS	692	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00693	EAS	693	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00694	EAS	694	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00698	EAS	698	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00699	EAS	699	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00700	EAS	700	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00701	EAS	701	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00702	EAS	702	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00703	EAS	703	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00704	EAS	704	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00705	EAS	705	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00706	EAS	706	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00707	EAS	707	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00708	EAS	708	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00709	EAS	709	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00717	EAS	717	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG00728	EAS	728	male	East Asian Ancestry	Southern Han Chinese	CHS
+HG00729	EAS	729	female	East Asian Ancestry	Southern Han Chinese	CHS
+HG03642	SAS	3642	female	South Asian Ancestry	Tamil	STU
+HG03643	SAS	3643	female	South Asian Ancestry	Tamil	STU
+HG03644	SAS	3644	male	South Asian Ancestry	Tamil	STU
+HG03645	SAS	3645	female	South Asian Ancestry	Tamil	STU
+HG03646	SAS	3646	male	South Asian Ancestry	Tamil	STU
+HG03672	SAS	3672	male	South Asian Ancestry	Tamil	STU
+HG03673	SAS	3673	female	South Asian Ancestry	Tamil	STU
+HG03679	SAS	3679	male	South Asian Ancestry	Tamil	STU
+HG03680	SAS	3680	male	South Asian Ancestry	Tamil	STU
+HG03681	SAS	3681	male	South Asian Ancestry	Tamil	STU
+HG03682	SAS	3682	male	South Asian Ancestry	Tamil	STU
+HG03683	SAS	3683	female	South Asian Ancestry	Tamil	STU
+HG03684	SAS	3684	female	South Asian Ancestry	Tamil	STU
+HG03685	SAS	3685	male	South Asian Ancestry	Tamil	STU
+HG03686	SAS	3686	male	South Asian Ancestry	Tamil	STU
+HG03687	SAS	3687	male	South Asian Ancestry	Tamil	STU
+HG03688	SAS	3688	male	South Asian Ancestry	Tamil	STU
+HG03689	SAS	3689	female	South Asian Ancestry	Tamil	STU
+HG03690	SAS	3690	female	South Asian Ancestry	Tamil	STU
+HG03691	SAS	3691	male	South Asian Ancestry	Tamil	STU
+HG03692	SAS	3692	female	South Asian Ancestry	Tamil	STU
+HG03693	SAS	3693	male	South Asian Ancestry	Tamil	STU
+HG03694	SAS	3694	male	South Asian Ancestry	Tamil	STU
+HG03695	SAS	3695	male	South Asian Ancestry	Tamil	STU
+HG03696	SAS	3696	male	South Asian Ancestry	Tamil	STU
+HG03697	SAS	3697	male	South Asian Ancestry	Tamil	STU
+HG03698	SAS	3698	female	South Asian Ancestry	Tamil	STU
+HG03711	SAS	3711	male	South Asian Ancestry	Tamil	STU
+HG03733	SAS	3733	female	South Asian Ancestry	Tamil	STU
+HG03736	SAS	3736	female	South Asian Ancestry	Tamil	STU
+HG03738	SAS	3738	male	South Asian Ancestry	Tamil	STU
+HG03740	SAS	3740	male	South Asian Ancestry	Tamil	STU
+HG03741	SAS	3741	female	South Asian Ancestry	Tamil	STU
+HG03743	SAS	3743	male	South Asian Ancestry	Tamil	STU
+HG03744	SAS	3744	male	South Asian Ancestry	Tamil	STU
+HG03745	SAS	3745	male	South Asian Ancestry	Tamil	STU
+HG03746	SAS	3746	male	South Asian Ancestry	Tamil	STU
+HG03750	SAS	3750	male	South Asian Ancestry	Tamil	STU
+HG03752	SAS	3752	female	South Asian Ancestry	Tamil	STU
+HG03753	SAS	3753	male	South Asian Ancestry	Tamil	STU
+HG03754	SAS	3754	female	South Asian Ancestry	Tamil	STU
+HG03755	SAS	3755	male	South Asian Ancestry	Tamil	STU
+HG03756	SAS	3756	female	South Asian Ancestry	Tamil	STU
+HG03757	SAS	3757	female	South Asian Ancestry	Tamil	STU
+HG03760	SAS	3760	female	South Asian Ancestry	Tamil	STU
+HG03836	SAS	3836	female	South Asian Ancestry	Tamil	STU
+HG03837	SAS	3837	male	South Asian Ancestry	Tamil	STU
+HG03838	SAS	3838	female	South Asian Ancestry	Tamil	STU
+HG03844	SAS	3844	male	South Asian Ancestry	Tamil	STU
+HG03846	SAS	3846	male	South Asian Ancestry	Tamil	STU
+HG03848	SAS	3848	male	South Asian Ancestry	Tamil	STU
+HG03849	SAS	3849	female	South Asian Ancestry	Tamil	STU
+HG03850	SAS	3850	male	South Asian Ancestry	Tamil	STU
+HG03851	SAS	3851	male	South Asian Ancestry	Tamil	STU
+HG03854	SAS	3854	male	South Asian Ancestry	Tamil	STU
+HG03856	SAS	3856	male	South Asian Ancestry	Tamil	STU
+HG03857	SAS	3857	female	South Asian Ancestry	Tamil	STU
+HG03858	SAS	3858	female	South Asian Ancestry	Tamil	STU
+HG03884	SAS	3884	female	South Asian Ancestry	Tamil	STU
+HG03885	SAS	3885	male	South Asian Ancestry	Tamil	STU
+HG03886	SAS	3886	female	South Asian Ancestry	Tamil	STU
+HG03887	SAS	3887	male	South Asian Ancestry	Tamil	STU
+HG03888	SAS	3888	female	South Asian Ancestry	Tamil	STU
+HG03890	SAS	3890	male	South Asian Ancestry	Tamil	STU
+HG03894	SAS	3894	female	South Asian Ancestry	Tamil	STU
+HG03895	SAS	3895	female	South Asian Ancestry	Tamil	STU
+HG03896	SAS	3896	male	South Asian Ancestry	Tamil	STU
+HG03897	SAS	3897	female	South Asian Ancestry	Tamil	STU
+HG03898	SAS	3898	female	South Asian Ancestry	Tamil	STU
+HG03899	SAS	3899	male	South Asian Ancestry	Tamil	STU
+HG03900	SAS	3900	male	South Asian Ancestry	Tamil	STU
+HG03943	SAS	3943	male	South Asian Ancestry	Tamil	STU
+HG03944	SAS	3944	female	South Asian Ancestry	Tamil	STU
+HG03945	SAS	3945	female	South Asian Ancestry	Tamil	STU
+HG03947	SAS	3947	female	South Asian Ancestry	Tamil	STU
+HG03949	SAS	3949	female	South Asian Ancestry	Tamil	STU
+HG03950	SAS	3950	male	South Asian Ancestry	Tamil	STU
+HG03951	SAS	3951	female	South Asian Ancestry	Tamil	STU
+HG03953	SAS	3953	male	South Asian Ancestry	Tamil	STU
+HG03955	SAS	3955	female	South Asian Ancestry	Tamil	STU
+HG03985	SAS	3985	male	South Asian Ancestry	Tamil	STU
+HG03986	SAS	3986	female	South Asian Ancestry	Tamil	STU
+HG03989	SAS	3989	female	South Asian Ancestry	Tamil	STU
+HG03990	SAS	3990	male	South Asian Ancestry	Tamil	STU
+HG03991	SAS	3991	male	South Asian Ancestry	Tamil	STU
+HG03992	SAS	3992	male	South Asian Ancestry	Tamil	STU
+HG03995	SAS	3995	female	South Asian Ancestry	Tamil	STU
+HG03998	SAS	3998	male	South Asian Ancestry	Tamil	STU
+HG03999	SAS	3999	male	South Asian Ancestry	Tamil	STU
+HG04003	SAS	4003	male	South Asian Ancestry	Tamil	STU
+HG04006	SAS	4006	male	South Asian Ancestry	Tamil	STU
+HG04029	SAS	4029	female	South Asian Ancestry	Tamil	STU
+HG04033	SAS	4033	male	South Asian Ancestry	Tamil	STU
+HG04035	SAS	4035	female	South Asian Ancestry	Tamil	STU
+HG04036	SAS	4036	female	South Asian Ancestry	Tamil	STU
+HG04038	SAS	4038	female	South Asian Ancestry	Tamil	STU
+HG04039	SAS	4039	male	South Asian Ancestry	Tamil	STU
+HG04042	SAS	4042	female	South Asian Ancestry	Tamil	STU
+HG04047	SAS	4047	female	South Asian Ancestry	Tamil	STU
+HG04075	SAS	4075	female	South Asian Ancestry	Tamil	STU
+HG04099	SAS	4099	female	South Asian Ancestry	Tamil	STU
+HG04100	SAS	4100	male	South Asian Ancestry	Tamil	STU
+HG04106	SAS	4106	female	South Asian Ancestry	Tamil	STU
+HG04107	SAS	4107	male	South Asian Ancestry	Tamil	STU
+HG04115	SAS	4115	male	South Asian Ancestry	Tamil	STU
+HG04122	SAS	4122	male	South Asian Ancestry	Tamil	STU
+HG04127	SAS	4127	male	South Asian Ancestry	Tamil	STU
+HG04199	SAS	4199	male	South Asian Ancestry	Tamil	STU
+HG04204	SAS	4204	male	South Asian Ancestry	Tamil	STU
+HG04210	SAS	4210	male	South Asian Ancestry	Tamil	STU
+HG04215	SAS	4215	male	South Asian Ancestry	Tamil	STU
+HG04227	SAS	4227	female	South Asian Ancestry	Tamil	STU
+HG04228	SAS	4228	male	South Asian Ancestry	Tamil	STU
+HG04229	SAS	4229	male	South Asian Ancestry	Tamil	STU
+HG03713	SAS	3713	male	South Asian Ancestry	Telugu	ITU
+HG03714	SAS	3714	female	South Asian Ancestry	Telugu	ITU
+HG03716	SAS	3716	male	South Asian Ancestry	Telugu	ITU
+HG03717	SAS	3717	female	South Asian Ancestry	Telugu	ITU
+HG03718	SAS	3718	male	South Asian Ancestry	Telugu	ITU
+HG03719	SAS	3719	female	South Asian Ancestry	Telugu	ITU
+HG03720	SAS	3720	male	South Asian Ancestry	Telugu	ITU
+HG03721	SAS	3721	female	South Asian Ancestry	Telugu	ITU
+HG03722	SAS	3722	female	South Asian Ancestry	Telugu	ITU
+HG03725	SAS	3725	male	South Asian Ancestry	Telugu	ITU
+HG03727	SAS	3727	male	South Asian Ancestry	Telugu	ITU
+HG03729	SAS	3729	male	South Asian Ancestry	Telugu	ITU
+HG03730	SAS	3730	female	South Asian Ancestry	Telugu	ITU
+HG03731	SAS	3731	female	South Asian Ancestry	Telugu	ITU
+HG03732	SAS	3732	male	South Asian Ancestry	Telugu	ITU
+HG03742	SAS	3742	male	South Asian Ancestry	Telugu	ITU
+HG03770	SAS	3770	female	South Asian Ancestry	Telugu	ITU
+HG03771	SAS	3771	male	South Asian Ancestry	Telugu	ITU
+HG03772	SAS	3772	female	South Asian Ancestry	Telugu	ITU
+HG03773	SAS	3773	male	South Asian Ancestry	Telugu	ITU
+HG03774	SAS	3774	female	South Asian Ancestry	Telugu	ITU
+HG03775	SAS	3775	male	South Asian Ancestry	Telugu	ITU
+HG03777	SAS	3777	male	South Asian Ancestry	Telugu	ITU
+HG03778	SAS	3778	male	South Asian Ancestry	Telugu	ITU
+HG03779	SAS	3779	male	South Asian Ancestry	Telugu	ITU
+HG03780	SAS	3780	female	South Asian Ancestry	Telugu	ITU
+HG03781	SAS	3781	female	South Asian Ancestry	Telugu	ITU
+HG03782	SAS	3782	female	South Asian Ancestry	Telugu	ITU
+HG03784	SAS	3784	female	South Asian Ancestry	Telugu	ITU
+HG03785	SAS	3785	male	South Asian Ancestry	Telugu	ITU
+HG03786	SAS	3786	male	South Asian Ancestry	Telugu	ITU
+HG03787	SAS	3787	female	South Asian Ancestry	Telugu	ITU
+HG03788	SAS	3788	male	South Asian Ancestry	Telugu	ITU
+HG03789	SAS	3789	female	South Asian Ancestry	Telugu	ITU
+HG03790	SAS	3790	male	South Asian Ancestry	Telugu	ITU
+HG03792	SAS	3792	male	South Asian Ancestry	Telugu	ITU
+HG03861	SAS	3861	female	South Asian Ancestry	Telugu	ITU
+HG03862	SAS	3862	female	South Asian Ancestry	Telugu	ITU
+HG03864	SAS	3864	male	South Asian Ancestry	Telugu	ITU
+HG03866	SAS	3866	male	South Asian Ancestry	Telugu	ITU
+HG03867	SAS	3867	male	South Asian Ancestry	Telugu	ITU
+HG03868	SAS	3868	female	South Asian Ancestry	Telugu	ITU
+HG03869	SAS	3869	male	South Asian Ancestry	Telugu	ITU
+HG03870	SAS	3870	male	South Asian Ancestry	Telugu	ITU
+HG03871	SAS	3871	male	South Asian Ancestry	Telugu	ITU
+HG03872	SAS	3872	male	South Asian Ancestry	Telugu	ITU
+HG03873	SAS	3873	female	South Asian Ancestry	Telugu	ITU
+HG03874	SAS	3874	female	South Asian Ancestry	Telugu	ITU
+HG03875	SAS	3875	male	South Asian Ancestry	Telugu	ITU
+HG03882	SAS	3882	female	South Asian Ancestry	Telugu	ITU
+HG03960	SAS	3960	male	South Asian Ancestry	Telugu	ITU
+HG03963	SAS	3963	male	South Asian Ancestry	Telugu	ITU
+HG03965	SAS	3965	male	South Asian Ancestry	Telugu	ITU
+HG03967	SAS	3967	male	South Asian Ancestry	Telugu	ITU
+HG03968	SAS	3968	female	South Asian Ancestry	Telugu	ITU
+HG03969	SAS	3969	male	South Asian Ancestry	Telugu	ITU
+HG03971	SAS	3971	male	South Asian Ancestry	Telugu	ITU
+HG03973	SAS	3973	female	South Asian Ancestry	Telugu	ITU
+HG03974	SAS	3974	male	South Asian Ancestry	Telugu	ITU
+HG03976	SAS	3976	male	South Asian Ancestry	Telugu	ITU
+HG03977	SAS	3977	female	South Asian Ancestry	Telugu	ITU
+HG03978	SAS	3978	male	South Asian Ancestry	Telugu	ITU
+HG04001	SAS	4001	female	South Asian Ancestry	Telugu	ITU
+HG04002	SAS	4002	male	South Asian Ancestry	Telugu	ITU
+HG04014	SAS	4014	female	South Asian Ancestry	Telugu	ITU
+HG04015	SAS	4015	male	South Asian Ancestry	Telugu	ITU
+HG04017	SAS	4017	male	South Asian Ancestry	Telugu	ITU
+HG04018	SAS	4018	female	South Asian Ancestry	Telugu	ITU
+HG04019	SAS	4019	male	South Asian Ancestry	Telugu	ITU
+HG04020	SAS	4020	male	South Asian Ancestry	Telugu	ITU
+HG04022	SAS	4022	male	South Asian Ancestry	Telugu	ITU
+HG04023	SAS	4023	male	South Asian Ancestry	Telugu	ITU
+HG04025	SAS	4025	female	South Asian Ancestry	Telugu	ITU
+HG04026	SAS	4026	female	South Asian Ancestry	Telugu	ITU
+HG04054	SAS	4054	female	South Asian Ancestry	Telugu	ITU
+HG04056	SAS	4056	male	South Asian Ancestry	Telugu	ITU
+HG04059	SAS	4059	female	South Asian Ancestry	Telugu	ITU
+HG04060	SAS	4060	male	South Asian Ancestry	Telugu	ITU
+HG04061	SAS	4061	male	South Asian Ancestry	Telugu	ITU
+HG04062	SAS	4062	female	South Asian Ancestry	Telugu	ITU
+HG04063	SAS	4063	female	South Asian Ancestry	Telugu	ITU
+HG04070	SAS	4070	female	South Asian Ancestry	Telugu	ITU
+HG04076	SAS	4076	female	South Asian Ancestry	Telugu	ITU
+HG04080	SAS	4080	male	South Asian Ancestry	Telugu	ITU
+HG04090	SAS	4090	female	South Asian Ancestry	Telugu	ITU
+HG04093	SAS	4093	male	South Asian Ancestry	Telugu	ITU
+HG04094	SAS	4094	male	South Asian Ancestry	Telugu	ITU
+HG04096	SAS	4096	male	South Asian Ancestry	Telugu	ITU
+HG04098	SAS	4098	male	South Asian Ancestry	Telugu	ITU
+HG04118	SAS	4118	female	South Asian Ancestry	Telugu	ITU
+HG04198	SAS	4198	male	South Asian Ancestry	Telugu	ITU
+HG04200	SAS	4200	female	South Asian Ancestry	Telugu	ITU
+HG04202	SAS	4202	female	South Asian Ancestry	Telugu	ITU
+HG04206	SAS	4206	male	South Asian Ancestry	Telugu	ITU
+HG04209	SAS	4209	female	South Asian Ancestry	Telugu	ITU
+HG04211	SAS	4211	male	South Asian Ancestry	Telugu	ITU
+HG04212	SAS	4212	female	South Asian Ancestry	Telugu	ITU
+HG04214	SAS	4214	female	South Asian Ancestry	Telugu	ITU
+HG04216	SAS	4216	female	South Asian Ancestry	Telugu	ITU
+HG04217	SAS	4217	female	South Asian Ancestry	Telugu	ITU
+HG04219	SAS	4219	male	South Asian Ancestry	Telugu	ITU
+HG04222	SAS	4222	male	South Asian Ancestry	Telugu	ITU
+HG04225	SAS	4225	male	South Asian Ancestry	Telugu	ITU
+HG04235	SAS	4235	male	South Asian Ancestry	Telugu	ITU
+HG04238	SAS	4238	male	South Asian Ancestry	Telugu	ITU
+HG04239	SAS	4239	male	South Asian Ancestry	Telugu	ITU
+GM20502	EUR	20502	female	European Ancestry	Toscani	TSI
+GM20503	EUR	20503	female	European Ancestry	Toscani	TSI
+GM20504	EUR	20504	female	European Ancestry	Toscani	TSI
+GM20505	EUR	20505	female	European Ancestry	Toscani	TSI
+GM20506	EUR	20506	female	European Ancestry	Toscani	TSI
+GM20507	EUR	20507	female	European Ancestry	Toscani	TSI
+GM20508	EUR	20508	female	European Ancestry	Toscani	TSI
+GM20509	EUR	20509	male	European Ancestry	Toscani	TSI
+GM20510	EUR	20510	male	European Ancestry	Toscani	TSI
+GM20511	EUR	20511	male	European Ancestry	Toscani	TSI
+GM20512	EUR	20512	male	European Ancestry	Toscani	TSI
+GM20513	EUR	20513	male	European Ancestry	Toscani	TSI
+GM20514	EUR	20514	female	European Ancestry	Toscani	TSI
+GM20515	EUR	20515	male	European Ancestry	Toscani	TSI
+GM20516	EUR	20516	male	European Ancestry	Toscani	TSI
+GM20517	EUR	20517	female	European Ancestry	Toscani	TSI
+GM20518	EUR	20518	male	European Ancestry	Toscani	TSI
+GM20519	EUR	20519	male	European Ancestry	Toscani	TSI
+GM20520	EUR	20520	male	European Ancestry	Toscani	TSI
+GM20521	EUR	20521	male	European Ancestry	Toscani	TSI
+GM20522	EUR	20522	female	European Ancestry	Toscani	TSI
+GM20524	EUR	20524	male	European Ancestry	Toscani	TSI
+GM20525	EUR	20525	male	European Ancestry	Toscani	TSI
+GM20527	EUR	20527	male	European Ancestry	Toscani	TSI
+GM20528	EUR	20528	male	European Ancestry	Toscani	TSI
+GM20529	EUR	20529	female	European Ancestry	Toscani	TSI
+GM20530	EUR	20530	female	European Ancestry	Toscani	TSI
+GM20531	EUR	20531	female	European Ancestry	Toscani	TSI
+GM20532	EUR	20532	male	European Ancestry	Toscani	TSI
+GM20533	EUR	20533	female	European Ancestry	Toscani	TSI
+GM20534	EUR	20534	male	European Ancestry	Toscani	TSI
+GM20535	EUR	20535	female	European Ancestry	Toscani	TSI
+GM20536	EUR	20536	male	European Ancestry	Toscani	TSI
+GM20538	EUR	20538	male	European Ancestry	Toscani	TSI
+GM20539	EUR	20539	male	European Ancestry	Toscani	TSI
+GM20540	EUR	20540	female	European Ancestry	Toscani	TSI
+GM20541	EUR	20541	female	European Ancestry	Toscani	TSI
+GM20542	EUR	20542	female	European Ancestry	Toscani	TSI
+GM20543	EUR	20543	male	European Ancestry	Toscani	TSI
+GM20544	EUR	20544	male	European Ancestry	Toscani	TSI
+GM20581	EUR	20581	male	European Ancestry	Toscani	TSI
+GM20582	EUR	20582	female	European Ancestry	Toscani	TSI
+GM20585	EUR	20585	female	European Ancestry	Toscani	TSI
+GM20586	EUR	20586	male	European Ancestry	Toscani	TSI
+GM20587	EUR	20587	female	European Ancestry	Toscani	TSI
+GM20588	EUR	20588	male	European Ancestry	Toscani	TSI
+GM20589	EUR	20589	female	European Ancestry	Toscani	TSI
+GM20752	EUR	20752	male	European Ancestry	Toscani	TSI
+GM20753	EUR	20753	female	European Ancestry	Toscani	TSI
+GM20754	EUR	20754	male	European Ancestry	Toscani	TSI
+GM20755	EUR	20755	male	European Ancestry	Toscani	TSI
+GM20756	EUR	20756	female	European Ancestry	Toscani	TSI
+GM20757	EUR	20757	female	European Ancestry	Toscani	TSI
+GM20758	EUR	20758	male	European Ancestry	Toscani	TSI
+GM20759	EUR	20759	male	European Ancestry	Toscani	TSI
+GM20760	EUR	20760	female	European Ancestry	Toscani	TSI
+GM20761	EUR	20761	female	European Ancestry	Toscani	TSI
+GM20762	EUR	20762	male	European Ancestry	Toscani	TSI
+GM20763	EUR	20763	male	European Ancestry	Toscani	TSI
+GM20764	EUR	20764	female	European Ancestry	Toscani	TSI
+GM20765	EUR	20765	male	European Ancestry	Toscani	TSI
+GM20766	EUR	20766	female	European Ancestry	Toscani	TSI
+GM20767	EUR	20767	male	European Ancestry	Toscani	TSI
+GM20768	EUR	20768	female	European Ancestry	Toscani	TSI
+GM20769	EUR	20769	female	European Ancestry	Toscani	TSI
+GM20770	EUR	20770	male	European Ancestry	Toscani	TSI
+GM20771	EUR	20771	female	European Ancestry	Toscani	TSI
+GM20772	EUR	20772	female	European Ancestry	Toscani	TSI
+GM20773	EUR	20773	female	European Ancestry	Toscani	TSI
+GM20774	EUR	20774	female	European Ancestry	Toscani	TSI
+GM20775	EUR	20775	female	European Ancestry	Toscani	TSI
+GM20778	EUR	20778	male	European Ancestry	Toscani	TSI
+GM20783	EUR	20783	male	European Ancestry	Toscani	TSI
+GM20785	EUR	20785	male	European Ancestry	Toscani	TSI
+GM20786	EUR	20786	female	European Ancestry	Toscani	TSI
+GM20787	EUR	20787	male	European Ancestry	Toscani	TSI
+GM20790	EUR	20790	female	European Ancestry	Toscani	TSI
+GM20792	EUR	20792	male	European Ancestry	Toscani	TSI
+GM20795	EUR	20795	female	European Ancestry	Toscani	TSI
+GM20796	EUR	20796	male	European Ancestry	Toscani	TSI
+GM20797	EUR	20797	female	European Ancestry	Toscani	TSI
+GM20798	EUR	20798	male	European Ancestry	Toscani	TSI
+GM20799	EUR	20799	female	European Ancestry	Toscani	TSI
+GM20800	EUR	20800	female	European Ancestry	Toscani	TSI
+GM20801	EUR	20801	male	European Ancestry	Toscani	TSI
+GM20802	EUR	20802	female	European Ancestry	Toscani	TSI
+GM20803	EUR	20803	male	European Ancestry	Toscani	TSI
+GM20804	EUR	20804	female	European Ancestry	Toscani	TSI
+GM20805	EUR	20805	male	European Ancestry	Toscani	TSI
+GM20806	EUR	20806	male	European Ancestry	Toscani	TSI
+GM20807	EUR	20807	female	European Ancestry	Toscani	TSI
+GM20808	EUR	20808	female	European Ancestry	Toscani	TSI
+GM20809	EUR	20809	male	European Ancestry	Toscani	TSI
+GM20810	EUR	20810	male	European Ancestry	Toscani	TSI
+GM20811	EUR	20811	male	European Ancestry	Toscani	TSI
+GM20812	EUR	20812	male	European Ancestry	Toscani	TSI
+GM20813	EUR	20813	female	European Ancestry	Toscani	TSI
+GM20814	EUR	20814	male	European Ancestry	Toscani	TSI
+GM20815	EUR	20815	male	European Ancestry	Toscani	TSI
+GM20818	EUR	20818	female	European Ancestry	Toscani	TSI
+GM20819	EUR	20819	female	European Ancestry	Toscani	TSI
+GM20821	EUR	20821	female	European Ancestry	Toscani	TSI
+GM20822	EUR	20822	female	European Ancestry	Toscani	TSI
+GM20826	EUR	20826	female	European Ancestry	Toscani	TSI
+GM20827	EUR	20827	male	European Ancestry	Toscani	TSI
+GM20828	EUR	20828	female	European Ancestry	Toscani	TSI
+GM20832	EUR	20832	female	European Ancestry	Toscani	TSI
+GM18870	AFR	18870	female	African Ancestry	Yoruba	YRI
+GM18876	AFR	18876	female	African Ancestry	Yoruba	YRI
+GM18924	AFR	18924	female	African Ancestry	Yoruba	YRI
+GM18484	AFR	18484	female	African Ancestry	Yoruba	YRI
+GM18485	AFR	18485	male	African Ancestry	Yoruba	YRI
+GM18486	AFR	18486	male	African Ancestry	Yoruba	YRI
+GM18487	AFR	18487	male	African Ancestry	Yoruba	YRI
+GM18488	AFR	18488	female	African Ancestry	Yoruba	YRI
+GM18489	AFR	18489	female	African Ancestry	Yoruba	YRI
+GM18497	AFR	18497	male	African Ancestry	Yoruba	YRI
+GM18498	AFR	18498	male	African Ancestry	Yoruba	YRI
+GM18499	AFR	18499	female	African Ancestry	Yoruba	YRI
+GM18500	AFR	18500	male	African Ancestry	Yoruba	YRI
+GM18501	AFR	18501	male	African Ancestry	Yoruba	YRI
+GM18502	AFR	18502	female	African Ancestry	Yoruba	YRI
+GM18503	AFR	18503	male	African Ancestry	Yoruba	YRI
+GM18504	AFR	18504	male	African Ancestry	Yoruba	YRI
+GM18505	AFR	18505	female	African Ancestry	Yoruba	YRI
+GM18506	AFR	18506	male	African Ancestry	Yoruba	YRI
+GM18507	AFR	18507	male	African Ancestry	Yoruba	YRI
+GM18508	AFR	18508	female	African Ancestry	Yoruba	YRI
+GM18510	AFR	18510	male	African Ancestry	Yoruba	YRI
+GM18511	AFR	18511	female	African Ancestry	Yoruba	YRI
+GM18515	AFR	18515	male	African Ancestry	Yoruba	YRI
+GM18516	AFR	18516	male	African Ancestry	Yoruba	YRI
+GM18517	AFR	18517	female	African Ancestry	Yoruba	YRI
+GM18518	AFR	18518	female	African Ancestry	Yoruba	YRI
+GM18519	AFR	18519	male	African Ancestry	Yoruba	YRI
+GM18520	AFR	18520	female	African Ancestry	Yoruba	YRI
+GM18521	AFR	18521	male	African Ancestry	Yoruba	YRI
+GM18522	AFR	18522	male	African Ancestry	Yoruba	YRI
+GM18523	AFR	18523	female	African Ancestry	Yoruba	YRI
+GM18852	AFR	18852	female	African Ancestry	Yoruba	YRI
+GM18853	AFR	18853	male	African Ancestry	Yoruba	YRI
+GM18854	AFR	18854	male	African Ancestry	Yoruba	YRI
+GM18855	AFR	18855	female	African Ancestry	Yoruba	YRI
+GM18856	AFR	18856	male	African Ancestry	Yoruba	YRI
+GM18857	AFR	18857	male	African Ancestry	Yoruba	YRI
+GM18858	AFR	18858	female	African Ancestry	Yoruba	YRI
+GM18859	AFR	18859	male	African Ancestry	Yoruba	YRI
+GM18860	AFR	18860	male	African Ancestry	Yoruba	YRI
+GM18861	AFR	18861	female	African Ancestry	Yoruba	YRI
+GM18862	AFR	18862	male	African Ancestry	Yoruba	YRI
+GM18863	AFR	18863	male	African Ancestry	Yoruba	YRI
+GM18864	AFR	18864	female	African Ancestry	Yoruba	YRI
+GM18865	AFR	18865	male	African Ancestry	Yoruba	YRI
+GM18867	AFR	18867	female	African Ancestry	Yoruba	YRI
+GM18868	AFR	18868	male	African Ancestry	Yoruba	YRI
+GM18869	AFR	18869	male	African Ancestry	Yoruba	YRI
+GM18871	AFR	18871	male	African Ancestry	Yoruba	YRI
+GM18872	AFR	18872	male	African Ancestry	Yoruba	YRI
+GM18873	AFR	18873	female	African Ancestry	Yoruba	YRI
+GM18874	AFR	18874	male	African Ancestry	Yoruba	YRI
+GM18875	AFR	18875	female	African Ancestry	Yoruba	YRI
+GM18877	AFR	18877	male	African Ancestry	Yoruba	YRI
+GM18878	AFR	18878	female	African Ancestry	Yoruba	YRI
+GM18879	AFR	18879	male	African Ancestry	Yoruba	YRI
+GM18881	AFR	18881	female	African Ancestry	Yoruba	YRI
+GM18906	AFR	18906	female	African Ancestry	Yoruba	YRI
+GM18907	AFR	18907	female	African Ancestry	Yoruba	YRI
+GM18908	AFR	18908	male	African Ancestry	Yoruba	YRI
+GM18909	AFR	18909	female	African Ancestry	Yoruba	YRI
+GM18910	AFR	18910	male	African Ancestry	Yoruba	YRI
+GM18911	AFR	18911	male	African Ancestry	Yoruba	YRI
+GM18912	AFR	18912	female	African Ancestry	Yoruba	YRI
+GM18913	AFR	18913	male	African Ancestry	Yoruba	YRI
+GM18914	AFR	18914	male	African Ancestry	Yoruba	YRI
+GM18915	AFR	18915	male	African Ancestry	Yoruba	YRI
+GM18916	AFR	18916	female	African Ancestry	Yoruba	YRI
+GM18917	AFR	18917	male	African Ancestry	Yoruba	YRI
+GM18923	AFR	18923	male	African Ancestry	Yoruba	YRI
+GM18925	AFR	18925	male	African Ancestry	Yoruba	YRI
+GM18930	AFR	18930	female	African Ancestry	Yoruba	YRI
+GM18933	AFR	18933	female	African Ancestry	Yoruba	YRI
+GM18934	AFR	18934	male	African Ancestry	Yoruba	YRI
+GM18935	AFR	18935	male	African Ancestry	Yoruba	YRI
+GM19092	AFR	19092	male	African Ancestry	Yoruba	YRI
+GM19093	AFR	19093	female	African Ancestry	Yoruba	YRI
+GM19094	AFR	19094	female	African Ancestry	Yoruba	YRI
+GM19095	AFR	19095	female	African Ancestry	Yoruba	YRI
+GM19096	AFR	19096	male	African Ancestry	Yoruba	YRI
+GM19097	AFR	19097	female	African Ancestry	Yoruba	YRI
+GM19098	AFR	19098	male	African Ancestry	Yoruba	YRI
+GM19099	AFR	19099	female	African Ancestry	Yoruba	YRI
+GM19100	AFR	19100	female	African Ancestry	Yoruba	YRI
+GM19101	AFR	19101	male	African Ancestry	Yoruba	YRI
+GM19102	AFR	19102	female	African Ancestry	Yoruba	YRI
+GM19103	AFR	19103	male	African Ancestry	Yoruba	YRI
+GM19107	AFR	19107	male	African Ancestry	Yoruba	YRI
+GM19108	AFR	19108	female	African Ancestry	Yoruba	YRI
+GM19109	AFR	19109	female	African Ancestry	Yoruba	YRI
+GM19113	AFR	19113	male	African Ancestry	Yoruba	YRI
+GM19114	AFR	19114	female	African Ancestry	Yoruba	YRI
+GM19115	AFR	19115	female	African Ancestry	Yoruba	YRI
+GM19116	AFR	19116	female	African Ancestry	Yoruba	YRI
+GM19117	AFR	19117	male	African Ancestry	Yoruba	YRI
+GM19118	AFR	19118	female	African Ancestry	Yoruba	YRI
+GM19119	AFR	19119	male	African Ancestry	Yoruba	YRI
+GM19120	AFR	19120	male	African Ancestry	Yoruba	YRI
+GM19121	AFR	19121	male	African Ancestry	Yoruba	YRI
+GM19122	AFR	19122	female	African Ancestry	Yoruba	YRI
+GM19123	AFR	19123	male	African Ancestry	Yoruba	YRI
+GM19127	AFR	19127	female	African Ancestry	Yoruba	YRI
+GM19128	AFR	19128	male	African Ancestry	Yoruba	YRI
+GM19129	AFR	19129	female	African Ancestry	Yoruba	YRI
+GM19130	AFR	19130	male	African Ancestry	Yoruba	YRI
+GM19131	AFR	19131	female	African Ancestry	Yoruba	YRI
+GM19132	AFR	19132	female	African Ancestry	Yoruba	YRI
+GM19137	AFR	19137	female	African Ancestry	Yoruba	YRI
+GM19138	AFR	19138	male	African Ancestry	Yoruba	YRI
+GM19139	AFR	19139	male	African Ancestry	Yoruba	YRI
+GM19140	AFR	19140	female	African Ancestry	Yoruba	YRI
+GM19141	AFR	19141	male	African Ancestry	Yoruba	YRI
+GM19142	AFR	19142	male	African Ancestry	Yoruba	YRI
+GM19143	AFR	19143	female	African Ancestry	Yoruba	YRI
+GM19144	AFR	19144	male	African Ancestry	Yoruba	YRI
+GM19145	AFR	19145	male	African Ancestry	Yoruba	YRI
+GM19146	AFR	19146	male	African Ancestry	Yoruba	YRI
+GM19147	AFR	19147	female	African Ancestry	Yoruba	YRI
+GM19148	AFR	19148	female	African Ancestry	Yoruba	YRI
+GM19149	AFR	19149	female	African Ancestry	Yoruba	YRI
+GM19150	AFR	19150	male	African Ancestry	Yoruba	YRI
+GM19151	AFR	19151	female	African Ancestry	Yoruba	YRI
+GM19152	AFR	19152	female	African Ancestry	Yoruba	YRI
+GM19153	AFR	19153	male	African Ancestry	Yoruba	YRI
+GM19154	AFR	19154	male	African Ancestry	Yoruba	YRI
+GM19159	AFR	19159	female	African Ancestry	Yoruba	YRI
+GM19160	AFR	19160	male	African Ancestry	Yoruba	YRI
+GM19161	AFR	19161	male	African Ancestry	Yoruba	YRI
+GM19171	AFR	19171	male	African Ancestry	Yoruba	YRI
+GM19172	AFR	19172	female	African Ancestry	Yoruba	YRI
+GM19173	AFR	19173	male	African Ancestry	Yoruba	YRI
+GM19174	AFR	19174	male	African Ancestry	Yoruba	YRI
+GM19175	AFR	19175	male	African Ancestry	Yoruba	YRI
+GM19176	AFR	19176	female	African Ancestry	Yoruba	YRI
+GM19177	AFR	19177	male	African Ancestry	Yoruba	YRI
+GM19184	AFR	19184	male	African Ancestry	Yoruba	YRI
+GM19185	AFR	19185	female	African Ancestry	Yoruba	YRI
+GM19186	AFR	19186	male	African Ancestry	Yoruba	YRI
+GM19189	AFR	19189	male	African Ancestry	Yoruba	YRI
+GM19190	AFR	19190	female	African Ancestry	Yoruba	YRI
+GM19191	AFR	19191	male	African Ancestry	Yoruba	YRI
+GM19197	AFR	19197	female	African Ancestry	Yoruba	YRI
+GM19198	AFR	19198	male	African Ancestry	Yoruba	YRI
+GM19199	AFR	19199	female	African Ancestry	Yoruba	YRI
+GM19200	AFR	19200	male	African Ancestry	Yoruba	YRI
+GM19201	AFR	19201	female	African Ancestry	Yoruba	YRI
+GM19202	AFR	19202	female	African Ancestry	Yoruba	YRI
+GM19203	AFR	19203	male	African Ancestry	Yoruba	YRI
+GM19204	AFR	19204	female	African Ancestry	Yoruba	YRI
+GM19205	AFR	19205	male	African Ancestry	Yoruba	YRI
+GM19206	AFR	19206	female	African Ancestry	Yoruba	YRI
+GM19207	AFR	19207	male	African Ancestry	Yoruba	YRI
+GM19208	AFR	19208	male	African Ancestry	Yoruba	YRI
+GM19209	AFR	19209	female	African Ancestry	Yoruba	YRI
+GM19210	AFR	19210	male	African Ancestry	Yoruba	YRI
+GM19211	AFR	19211	male	African Ancestry	Yoruba	YRI
+GM19213	AFR	19213	male	African Ancestry	Yoruba	YRI
+GM19214	AFR	19214	female	African Ancestry	Yoruba	YRI
+GM19215	AFR	19215	female	African Ancestry	Yoruba	YRI
+GM19221	AFR	19221	female	African Ancestry	Yoruba	YRI
+GM19222	AFR	19222	female	African Ancestry	Yoruba	YRI
+GM19223	AFR	19223	male	African Ancestry	Yoruba	YRI
+GM19224	AFR	19224	male	African Ancestry	Yoruba	YRI
+GM19225	AFR	19225	female	African Ancestry	Yoruba	YRI
+GM19226	AFR	19226	male	African Ancestry	Yoruba	YRI
+GM19235	AFR	19235	female	African Ancestry	Yoruba	YRI
+GM19236	AFR	19236	male	African Ancestry	Yoruba	YRI
+GM19237	AFR	19237	female	African Ancestry	Yoruba	YRI
+GM19238	AFR	19238	female	African Ancestry	Yoruba	YRI
+GM19239	AFR	19239	male	African Ancestry	Yoruba	YRI
+GM19240	AFR	19240	female	African Ancestry	Yoruba	YRI
+GM19247	AFR	19247	female	African Ancestry	Yoruba	YRI
+GM19248	AFR	19248	male	African Ancestry	Yoruba	YRI
+GM19249	AFR	19249	male	African Ancestry	Yoruba	YRI
+GM19256	AFR	19256	male	African Ancestry	Yoruba	YRI
+GM19257	AFR	19257	female	African Ancestry	Yoruba	YRI
+GM19258	AFR	19258	male	African Ancestry	Yoruba	YRI
