@@ -1,1 +1,1 @@
-/n/zanderson/SNP-plot-snake-testing-Waldo/filtered-annotated-VCFs/M0412-NP-WGS-hemophilia-80001-HemB-female.annotated.filtered.bed
+
