@@ -1,0 +1,16 @@
+name: bedtools-2.31.1
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - bedtools=2.31.1=hf5e1c6e_0
+  - bzip2=1.0.8=hd590300_5
+  - libgcc-ng=13.2.0=h807b86a_3
+  - libgomp=13.2.0=h807b86a_3
+  - libstdcxx-ng=13.2.0=h7e041cc_3
+  - libzlib=1.2.13=hd590300_5
+  - xz=5.2.6=h166bdaf_0
+prefix: /usr/share/millerlab/bedtools-2.31.1

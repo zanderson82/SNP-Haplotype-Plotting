@@ -8,7 +8,7 @@ rule make_SNP_plot:
         plotscript = "workflow/scripts/SNP-plot-testing.R",
         title = config["description"]
     conda:
-        "Rtools-1.1"
+        config["Rtools-1.1"]
     shell:
         """
         Rscript {params.plotscript} {params.demographic_data} {output.plots} {input.filtered_files} {params.title}

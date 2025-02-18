@@ -10,3 +10,8 @@ plot_format: pdf
 sample_suffix: .guppy632.sup.withMeth.pass.hg38.clair3.phased.vcf.gz
 description: M0412-NP-WGS-hemophilia-80001-HemB-female
 
+#environments
+bedtools-2.31.1: envs/bedtools-2.31.1.yaml
+bcftools-1.19: envs/bcftools-1.19.yaml
+iPython-8.15.0: envs/iPython-8.15.0.yaml
+Rtools-1.1: envs/Rtools-1.1.yaml

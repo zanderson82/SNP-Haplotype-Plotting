@@ -7,7 +7,7 @@ rule vcf_annotate:
         annotation_file=config["annotationfile"],
         outputpath=config["outputpath"]
     conda:    
-        "bedtools-2.31.1"
+        config["bedtools-2.31.1"]
     shell:
         """
         unzipped_vcf="{params.outputpath}/parsed-VCFs/{wildcards.sample}.unzipped.vcf"

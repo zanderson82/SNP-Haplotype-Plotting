@@ -5,7 +5,7 @@ rule get_target_names:
     output:
         input_vcf_list = temp("/n/zanderson/SNP-plot-snake-testing-Waldo/config/input_vcf_list.txt")
     conda:
-        "iPython-8.15.0"
+        config["iPython-8.15.0"]
     script:
         "/n/zanderson/SNP-plot-snake-testing-Waldo/workflow/scripts/get_target_names.py"
 

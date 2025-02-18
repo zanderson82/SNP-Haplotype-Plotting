@@ -32,7 +32,7 @@ rule bcftools_view:
     params:
         gene_coordinates = config["gene_target"]
     conda:
-        "bcftools-1.19"
+        config["bcftools-1.19"]
     shell:
         """
             bcftools view -R {params.gene_coordinates} {input.vcf} > {output.parsed_vcf}.tmp
