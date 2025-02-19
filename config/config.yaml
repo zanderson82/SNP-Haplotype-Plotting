@@ -1,14 +1,14 @@
 targetfile: config/targets.txt
 gene_target:  config/gene_coordinates.txt
-sampledirectory: /waldo/1KGP_alignments/align-card-2.24-hg38/FIRST_100
+sampledirectory: #Input your sample directory with a trailing / 
 annotationfile: config/3_ENSEMBL_CANONICAL_EXON_in_PROTEIN_CODING_GENE_minus_UTR_gencode.v45.annotation.gtf
 annotation_no_exon: config/resorted.hg38.genes.mergedintervals.bed
-outputpath: /n/zanderson/SNP-plot-snake-deliverable
+outputpath: #Directory of snakemake 
 demographicFile: config/1000G_Sample_Demographic_Info.txt
 
 plot_format: pdf
-sample_suffix: .PMDV_FINAL.phased.vcf.gz
-description: OPSIN-option-test-2-HG00151
+sample_suffix: sample_suffix.vcf.gz ## replace with sample suffix for your samples
+description: #Enter your description
 
 #environments
 bedtools-2.31.1: envs/bedtools-2.31.1.yaml
