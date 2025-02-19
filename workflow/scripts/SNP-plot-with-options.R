@@ -201,23 +201,36 @@ snp_df <- do.call(rbind, lapply(names(snp_info), function(snp_tag) {
                   snp_info[[snp_tag]][[sample_name]]$ALT)
     gene <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$GENE), NA, 
                    snp_info[[snp_tag]][[sample_name]]$GENE)
+    exon <- if (!is.null(opt$gene_exons)) {
+      ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$EXON), NA, 
+             snp_info[[snp_tag]][[sample_name]]$EXON)
+    } else {
+      NULL
+    }
     alleles <- strsplit(genotype, "/")[[1]]
     
-    if (!is.null(opt$gene_exons)) {
-      exon <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$EXON), NA, 
-                     snp_info[[snp_tag]][[sample_name]]$EXON)
+    # Get sex from demographic data if available and X chromosome flag is set
+    sex <- if (!is.null(opt$demographic) && opt$xchrom) {
+      demographic_df$Sex[demographic_df$`Sample name` == sample_name]
+    } else {
+      NULL
+    }
+    
+    # For male samples on X chromosome, only create one row
+    if (!is.null(sex) && sex == "male" && opt$xchrom) {
       data.frame(
-        SNP = rep(snp_tag, 2),
-        Sample = rep(sample_name, 2),
-        Haplotype = 1:2,
-        Genotype = alleles,
-        PS = rep(ps, 2),
-        ALT = rep(alt, 2),
-        GENE = rep(gene, 2),
-        EXON = rep(exon, 2),
+        SNP = snp_tag,
+        Sample = sample_name,
+        Haplotype = 1,
+        Genotype = alleles[1],
+        PS = ps,
+        ALT = alt,
+        GENE = gene,
+        EXON = exon,
         stringsAsFactors = FALSE
       )
     } else {
+      # For females or non-X chromosome, create two rows
       data.frame(
         SNP = rep(snp_tag, 2),
         Sample = rep(sample_name, 2),
@@ -226,6 +239,7 @@ snp_df <- do.call(rbind, lapply(names(snp_info), function(snp_tag) {
         PS = rep(ps, 2),
         ALT = rep(alt, 2),
         GENE = rep(gene, 2),
+        EXON = if (!is.null(exon)) rep(exon, 2) else NULL,
         stringsAsFactors = FALSE
       )
     }
@@ -247,9 +261,22 @@ if (!is.null(opt$demographic)) {
 } else {
   final_df <- snp_df
 }
-
+print(final_df)
 # Function to map genotypes to alleles
 get_allele <- function(genotype, alt, ps, haplotype, sex = NULL) {
+  # Early return if haplotype is NA
+  if (is.na(haplotype)) {
+    return(NA)
+  }
+  
+  # Early return if genotype is NA or NULL
+  if (is.na(genotype) || is.null(genotype)) {
+    return(NA)
+  }
+  
+  # Convert genotype to character if it isn't already
+  genotype <- as.character(genotype)
+  
   if (!is.null(sex) && sex == "male" && opt$xchrom) {
     if (genotype == "1|0" && haplotype == 1) {
       return(alt)

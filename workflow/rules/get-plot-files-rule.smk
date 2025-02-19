@@ -26,6 +26,6 @@ rule get_plot_files_rule:
     output:
         plotted_files = f"{config['outputpath']}/filtered-annotated-VCFs/file_list.txt"
     conda:
-        "iPython-8.15.0"
+        config["iPython-8.15.0"]
     script:
-        "/n/zanderson/SNP-plot-snake-testing/workflow/scripts/get-plot-files.py"
+        "../scripts/get-plot-files.py"
