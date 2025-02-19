@@ -1,14 +1,14 @@
 targetfile: config/targets.txt
 gene_target:  config/gene_coordinates.txt
-sampledirectory: /n/alignments/hemophilia
+sampledirectory: /waldo/1KGP_alignments/align-card-2.24-hg38/FIRST_100
 annotationfile: config/3_ENSEMBL_CANONICAL_EXON_in_PROTEIN_CODING_GENE_minus_UTR_gencode.v45.annotation.gtf
 annotation_no_exon: SNP-plot-snake-testing-Waldo/resorted.hg38.genes.mergedintervals.bed
-outputpath: /n/zanderson/SNP-plot-snake-testing-Waldo
+outputpath: /n/zanderson/SNP-plot-snake-deliverable
 demographicFile: config/1000G_Sample_Demographic_Info.txt
 
 plot_format: pdf
-sample_suffix: .guppy632.sup.withMeth.pass.hg38.clair3.phased.vcf.gz
-description: M0412-NP-WGS-hemophilia-80001-HemB-female
+sample_suffix: .PMDV_FINAL.phased.vcf.gz
+description: OPSIN-option-test-2-HG00151
 
 #environments
 bedtools-2.31.1: envs/bedtools-2.31.1.yaml

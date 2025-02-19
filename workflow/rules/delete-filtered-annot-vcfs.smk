@@ -22,7 +22,7 @@ def get_sample_prefixes(target_file):
 
 rule delete_filtered_annot_vcf:
     input: 
-        plot = f"{config['outputpath']}/SNP-Plots/{config['description']}-SNP-PLOT.svg"
+        plot = f"{config['outputpath']}/SNP-Plots/{config['description']}-SNP-PLOT.{config['plot_format']}"
     output:
         "deletion_done.flag"
     shell:

@@ -1,0 +1,18 @@
+# Rtools-1.1.yaml
+name: Rtools-1.1
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.2.3
+  - r-tidyverse
+  - r-ggplot2
+  - r-reshape2
+  - r-readr
+  - r-plyr
+  - r-dplyr
+  - r-optparse
+  - bioconductor-biobase
+  - bioconductor-biocgenerics
+  - bioconductor-dnacopy

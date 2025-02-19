@@ -1,0 +1,11 @@
+# iPython-8.15.0.yaml
+name: iPython-8.15.0
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ipython=8.15.0
+  - numpy
+  - pandas
+  - python=3.9

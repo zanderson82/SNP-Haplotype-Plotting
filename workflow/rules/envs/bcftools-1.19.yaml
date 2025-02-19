@@ -1,0 +1,8 @@
+name: bcftools-1.19
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bcftools=1.19
+  - htslib  # for bgzip and tabix

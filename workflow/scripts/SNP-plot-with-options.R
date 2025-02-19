@@ -19,19 +19,16 @@ option_list <- list(
               help="Plot title [default= %default]"),
   make_option(c("-x", "--xchrom"), action="store_true", default=FALSE,
               help="Process as X chromosome data [default= %default]"),
-  make_option(c("-e", "--exon"), action="store_true", default=FALSE,
-              help="Include exon information in visualization [default= %default]"),
-  make_option(c("-w", "--width"), type="numeric", default=12,
-              help="Plot width [default= %default]"),
-  make_option(c("-h", "--height"), type="numeric", default=9,
-              help="Plot height [default= %default]"),
-  make_option(c("-g", "--genes"), type="character", default=NULL,
-              help="Comma-separated list of genes to include"),
   make_option(c("-c", "--gene_exons"), type="character", default=NULL,
-              help="Comma-separated list of gene_exons to include (e.g., 'OPN1LW_3,OPN1LW_5')")
+              help="Comma-separated list of gene_exons to include (optional, empty string enables exon processing without filtering)"),  # Added comma here
+  make_option(c("-w", "--width"), type="numeric", default=12,
+              help="Plot width in inches [default= %default]"),
+  make_option(c("-h", "--height"), type="numeric", default=8,
+              help="Plot height in inches [default= %default]")
 )
 
-opt <- parse_args(OptionParser(option_list=option_list))
+# Parse command line arguments
+opt <- parse_args(OptionParser(option_list=option_list, add_help_option=FALSE))
 
 # Read input files
 file_list <- read_delim(opt$file_list, delim = "\t", col_names = FALSE)$X1
@@ -59,10 +56,14 @@ for (bed_file in file_list) {
     print(head(bed))
     
     bed$GENE <- as.character(bed$GENE)
-    if (opt$exon) {
+    
+    # Check if we're using gene_exons
+    if (!is.null(opt$gene_exons)) {
       bed$EXON <- as.numeric(bed$EXON)
+      problematic_rows <- bed[is.na(bed$POS) | is.na(bed$QUAL) | is.na(bed$EXON), ]
       bed <- bed[!is.na(bed$POS) & !is.na(bed$QUAL) & !is.na(bed$EXON), ]
     } else {
+      problematic_rows <- bed[is.na(bed$POS) | is.na(bed$QUAL), ]
       bed <- bed[!is.na(bed$POS) & !is.na(bed$QUAL), ]
     }
     
@@ -76,7 +77,7 @@ for (bed_file in file_list) {
       if (nchar(ref[i]) == 1 && nchar(alt[i]) == 1) {
         snp_tag <- paste0("SNP", bed$POS[i], "_", ref[i], "_", alt[i])
         if (!snp_tag %in% names(all_snps)) {
-          if (opt$exon) {
+          if (!is.null(opt$gene_exons)) {
             all_snps[[snp_tag]] <- list("GENE" = bed$GENE[i], "EXON" = bed$EXON[i])
           } else {
             all_snps[[snp_tag]] <- list("GENE" = bed$GENE[i])
@@ -91,9 +92,13 @@ for (bed_file in file_list) {
 
 snp_info <- lapply(all_snps, function(x) list())
 
+print(snp_info)
+str(snp_info)
 print("starting second loop")
+
 for (bed_file in file_list) {
   lines <- readLines(bed_file)
+  print("extracting column names")
   
   if (length(lines) > 1) {
     column_names <- strsplit(lines[1], "\t")[[1]]
@@ -103,7 +108,8 @@ for (bed_file in file_list) {
     bed <- bed[bed$CHROM != "CHROM", ]
     
     bed$GENE <- as.character(bed$GENE)
-    if (opt$exon) {
+    
+    if (!is.null(opt$gene_exons)) {
       bed$EXON <- as.numeric(bed$EXON)
       bed <- bed[!is.na(bed$POS) & !is.na(bed$QUAL) & !is.na(bed$EXON), ]
     } else {
@@ -143,11 +149,13 @@ for (bed_file in file_list) {
             snp_info[[snp_tag]][[sample_name]]$PS <- ps_tag
           }
           gene <- bed$GENE[bed$POS == bed$POS[i]]
-          if (opt$exon) {
+          if (!is.null(opt$gene_exons)) {
             exon <- bed$EXON[bed$POS == bed$POS[i]]
-            snp_info[[snp_tag]][[sample_name]] <- list("genotype" = genotype, "PS" = ps_tag, "ALT" = alt[i], "GENE" = gene, "EXON" = exon)
+            snp_info[[snp_tag]][[sample_name]] <- list("genotype" = genotype, "PS" = ps_tag, 
+                                                      "ALT" = alt[i], "GENE" = gene, "EXON" = exon)
           } else {
-            snp_info[[snp_tag]][[sample_name]] <- list("genotype" = genotype, "PS" = ps_tag, "ALT" = alt[i], "GENE" = gene)
+            snp_info[[snp_tag]][[sample_name]] <- list("genotype" = genotype, "PS" = ps_tag, 
+                                                      "ALT" = alt[i], "GENE" = gene)
           }
           snps_present[names(all_snps) == snp_tag] <- TRUE
         }
@@ -156,43 +164,71 @@ for (bed_file in file_list) {
     
     for (snp_tag in names(all_snps)[!snps_present]) {
       gene <- all_snps[[snp_tag]]$GENE
-      if (opt$exon) {
+      if (!is.null(opt$gene_exons)) {
         exon <- all_snps[[snp_tag]]$EXON
-        snp_info[[snp_tag]][[sample_name]] <- list("genotype" = "0/0", "PS" = NA, "ALT" = ".", "GENE" = gene, "EXON" = exon)
+        snp_info[[snp_tag]][[sample_name]] <- list("genotype" = "0/0", "PS" = NA, 
+                                                  "ALT" = ".", "GENE" = gene, "EXON" = exon)
       } else {
-        snp_info[[snp_tag]][[sample_name]] <- list("genotype" = "0/0", "PS" = NA, "ALT" = ".", "GENE" = gene)
+        snp_info[[snp_tag]][[sample_name]] <- list("genotype" = "0/0", "PS" = NA, 
+                                                  "ALT" = ".", "GENE" = gene)
+      }
+    }
+  } else {
+    sample_name <- basename(bed_file)
+    sample_name <- sub("-.*$", "", sample_name)
+    for (snp_tag in names(all_snps)) {
+      gene <- all_snps[[snp_tag]]$GENE
+      if (!is.null(opt$gene_exons)) {
+        exon <- all_snps[[snp_tag]]$EXON
+        snp_info[[snp_tag]][[sample_name]] <- list("genotype" = "0/0", "PS" = NA, 
+                                                  "ALT" = ".", "GENE" = gene, "EXON" = exon)
+      } else {
+        snp_info[[snp_tag]][[sample_name]] <- list("genotype" = "0/0", "PS" = NA, 
+                                                  "ALT" = ".", "GENE" = gene)
       }
     }
   }
 }
 
-# Create the data frame with appropriate columns based on options
+# Convert the snp_info list to a data frame
 snp_df <- do.call(rbind, lapply(names(snp_info), function(snp_tag) {
   sample_data <- lapply(names(snp_info[[snp_tag]]), function(sample_name) {
-    genotype <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$genotype), "0/0", snp_info[[snp_tag]][[sample_name]]$genotype)
-    ps <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$PS), NA, snp_info[[snp_tag]][[sample_name]]$PS)
-    alt <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$ALT), ".", snp_info[[snp_tag]][[sample_name]]$ALT)
-    gene <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$GENE), NA, snp_info[[snp_tag]][[sample_name]]$GENE)
+    genotype <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$genotype), "0/0", 
+                      snp_info[[snp_tag]][[sample_name]]$genotype)
+    ps <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$PS), NA, 
+                 snp_info[[snp_tag]][[sample_name]]$PS)
+    alt <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$ALT), ".", 
+                  snp_info[[snp_tag]][[sample_name]]$ALT)
+    gene <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$GENE), NA, 
+                   snp_info[[snp_tag]][[sample_name]]$GENE)
     alleles <- strsplit(genotype, "/")[[1]]
     
-    df <- data.frame(
-      SNP = rep(snp_tag, 2),
-      Sample = rep(sample_name, 2),
-      Haplotype = 1:2,
-      Genotype = alleles,
-      PS = rep(ps, 2),
-      ALT = rep(alt, 2),
-      GENE = rep(gene, 2),
-      stringsAsFactors = FALSE
-    )
-    
-    if (opt$exon) {
-      exon <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$EXON), NA, snp_info[[snp_tag]][[sample_name]]$EXON)
-      df$EXON <- rep(exon, 2)
-      df$GENE_EXON <- paste(gene, exon, sep = "_")
+    if (!is.null(opt$gene_exons)) {
+      exon <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$EXON), NA, 
+                     snp_info[[snp_tag]][[sample_name]]$EXON)
+      data.frame(
+        SNP = rep(snp_tag, 2),
+        Sample = rep(sample_name, 2),
+        Haplotype = 1:2,
+        Genotype = alleles,
+        PS = rep(ps, 2),
+        ALT = rep(alt, 2),
+        GENE = rep(gene, 2),
+        EXON = rep(exon, 2),
+        stringsAsFactors = FALSE
+      )
+    } else {
+      data.frame(
+        SNP = rep(snp_tag, 2),
+        Sample = rep(sample_name, 2),
+        Haplotype = 1:2,
+        Genotype = alleles,
+        PS = rep(ps, 2),
+        ALT = rep(alt, 2),
+        GENE = rep(gene, 2),
+        stringsAsFactors = FALSE
+      )
     }
-    
-    return(df)
   })
   if (length(sample_data) > 0) {
     do.call(rbind, sample_data)
@@ -212,7 +248,7 @@ if (!is.null(opt$demographic)) {
   final_df <- snp_df
 }
 
-# Define allele mapping function
+# Function to map genotypes to alleles
 get_allele <- function(genotype, alt, ps, haplotype, sex = NULL) {
   if (!is.null(sex) && sex == "male" && opt$xchrom) {
     if (genotype == "1|0" && haplotype == 1) {
@@ -247,20 +283,20 @@ if (!is.null(opt$demographic) && opt$xchrom) {
 manual_color_mapping <- c("A" = "#8ff035", "T" = "#f70a0a", "C" = "#75a2f0", 
                          "G" = "#ffc445", "NA" = "white")
 
-# Filter data based on genes or gene_exons if specified
-if (!is.null(opt$genes)) {
-  genes_to_include <- unlist(strsplit(opt$genes, ","))
-  final_df <- final_df %>% filter(GENE %in% genes_to_include)
-} else if (!is.null(opt$gene_exons) && opt$exon) {
-  gene_exons_to_include <- unlist(strsplit(opt$gene_exons, ","))
-  final_df <- final_df %>% filter(GENE_EXON %in% gene_exons_to_include)
-}
-
 # Prepare final data for plotting
 final_df <- final_df %>% 
   arrange(Sample, desc(Haplotype)) %>%
   mutate(Sample = factor(Sample, levels = unique(Sample)),
          Haplotype = factor(Haplotype, levels = c(1, 2)))
+
+# Add GENE_EXON column if using gene_exons
+if (!is.null(opt$gene_exons)) {
+  final_df$GENE_EXON <- paste(final_df$GENE, final_df$EXON, sep = "_")
+  if (nchar(trimws(opt$gene_exons)) > 0) {
+    gene_exons_to_include <- unlist(strsplit(opt$gene_exons, ","))
+    final_df <- final_df %>% filter(GENE_EXON %in% gene_exons_to_include)
+  }
+}
 
 # Create the plot
 p <- ggplot(final_df, aes(x = SNP, y = Haplotype, fill = Allele)) +
@@ -273,10 +309,11 @@ p <- ggplot(final_df, aes(x = SNP, y = Haplotype, fill = Allele)) +
         legend.text = element_text(size = 8),
         legend.position = "right") +
   ylab("Haplotype (1/2)") +
-  {if (opt$exon) 
+  {if (!is.null(opt$gene_exons)) {
     facet_grid(Sample ~ GENE_EXON, scales = "free", space = "free")
-   else 
+   } else {
     facet_grid(Sample ~ GENE, scales = "free", space = "free")
+   }
   } +
   scale_y_discrete(breaks = c(1, 2)) +
   ggtitle(opt$title)
