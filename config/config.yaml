@@ -2,7 +2,7 @@ targetfile: config/targets.txt
 gene_target:  config/gene_coordinates.txt
 sampledirectory: /waldo/1KGP_alignments/align-card-2.24-hg38/FIRST_100
 annotationfile: config/3_ENSEMBL_CANONICAL_EXON_in_PROTEIN_CODING_GENE_minus_UTR_gencode.v45.annotation.gtf
-annotation_no_exon: SNP-plot-snake-testing-Waldo/resorted.hg38.genes.mergedintervals.bed
+annotation_no_exon: config/resorted.hg38.genes.mergedintervals.bed
 outputpath: /n/zanderson/SNP-plot-snake-deliverable
 demographicFile: config/1000G_Sample_Demographic_Info.txt
 
