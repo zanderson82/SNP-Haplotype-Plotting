@@ -6,8 +6,11 @@ rule vcf_filter:
     shell:
         """
         filtered_vcf_temp="{output.filtered_vcf}.temp"
-        awk 'BEGIN {{OFS="\t"}} ($6 >= 5 && $7 == "PASS") || ($7 == "refCall")' {input.annotated_vcf} > $filtered_vcf_temp
-        (echo -e "CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\tFORMAT\tSAMPLE\tGENE\tEXON"; cat $filtered_vcf_temp) > {output.filtered_vcf}
+        awk 'BEGIN {{OFS="\t"}} 
+            ($6 >= 5) && 
+            ($7 == "PASS") && 
+            (length($4) == 1 && length($5) == 1)' {input.annotated_vcf} > $filtered_vcf_temp
+        (echo -e "CHROM\tPOS\tID\tREF\tALT\tQUAL\tFILTER\tINFO\tFORMAT\tSAMPLE\tGENE"; cat $filtered_vcf_temp) > {output.filtered_vcf}
 
         rm $filtered_vcf_temp
         """

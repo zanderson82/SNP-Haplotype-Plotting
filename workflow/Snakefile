@@ -55,7 +55,7 @@ def get_target_names2(target_file):
     return sample_prefixes
 rule all:
     input:
-        plot = f"/n/zanderson/SNP-plot-snake-deliverable/SNP-Plots/{config['description']}-SNP-PLOT.{config['plot_format']}",
+        plot = f"{config['outputpath']}/SNP-Plots/{config['description']}-SNP-PLOT.{config['plot_format']}",
         vcf = expand(f"{config['sampledirectory']}/{{sample}}/{{sample}}{config["sample_suffix"]}", sample=get_target_names(config["targetfile"])),
         flag = "deletion_done.flag"
         
