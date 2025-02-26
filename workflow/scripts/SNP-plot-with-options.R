@@ -190,7 +190,6 @@ for (bed_file in file_list) {
   }
 }
 
-# Convert the snp_info list to a data frame
 snp_df <- do.call(rbind, lapply(names(snp_info), function(snp_tag) {
   sample_data <- lapply(names(snp_info[[snp_tag]]), function(sample_name) {
     genotype <- ifelse(is.null(snp_info[[snp_tag]][[sample_name]]$genotype), "0/0", 
@@ -207,7 +206,15 @@ snp_df <- do.call(rbind, lapply(names(snp_info), function(snp_tag) {
     } else {
       NULL
     }
+    
     alleles <- strsplit(genotype, "/")[[1]]
+    
+    # INSERT THE FIX HERE:
+    # Safety check for alleles parsing
+    if (length(alleles) < 2) {
+      # Make sure we always have 2 alleles
+      alleles <- c(alleles[1], alleles[1])  # Duplicate the first allele if only one exists
+    }
     
     # Get sex from demographic data if available and X chromosome flag is set
     sex <- if (!is.null(opt$demographic) && opt$xchrom) {
@@ -215,6 +222,8 @@ snp_df <- do.call(rbind, lapply(names(snp_info), function(snp_tag) {
     } else {
       NULL
     }
+    
+    # Rest of the function continues...
     
     # For male samples on X chromosome, only create one row
     if (!is.null(sex) && sex == "male" && opt$xchrom) {
